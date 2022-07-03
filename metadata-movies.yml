@@ -3,234 +3,242 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/148424
   A Bug's Life:
     url_poster: https://theposterdb.com/api/assets/148426
-  # Aladdin:
-  #   file_poster: /home/durmonator/posters/Aladdin/Aladdin (1992).webp
-  # André and Wally B.:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/The Adventures of Andre and Wally B. (1984).webp
+  Aladdin:
+    url_poster: https://theposterdb.com/api/assets/156204
+  André and Wally B.:
+    url_poster: https://theposterdb.com/api/assets/150985
   Auntie Edna:
     url_poster: https://theposterdb.com/api/assets/149231
-  # Bao:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Bao (2018).webp
-  # Black Widow:
-  #   file_poster: /home/durmonator/posters/Black Widow/Black Widow (2021).webp
-  # The Blue Umbrella:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/The Blue Umbrella (2013).webp
-  # Boundin':
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Boundin' (2003).webp
-  # Brave:
-  #   file_poster: /home/durmonator/posters/Pixar/Brave (2012).webp
+  Bao:
+    url_poster: https://theposterdb.com/api/assets/151004
+  Black Widow:
+    url_poster: https://theposterdb.com/api/assets/114079
+  The Blue Umbrella:
+    url_poster: https://theposterdb.com/api/assets/150999
+  Boundin':
+    url_poster: https://theposterdb.com/api/assets/150992
+  Brave:
+    url_poster: https://theposterdb.com/api/assets/149959
   Cars:
     url_poster: https://theposterdb.com/api/assets/149945
   Cars 2:
     url_poster: https://theposterdb.com/api/assets/149946
-  # Cars 3:
-  #   file_poster: /home/durmonator/posters/Cars/Cars 3 (2017).webp
-  # Casino Royale:
-  #   file_poster: /home/durmonator/posters/James Bond/Casino Royale (2006).webp
-  # Coco:
-  #   file_poster: /home/durmonator/posters/Pixar/Coco (2017).webp
-  # Day & Night:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Day & Night (2010).webp
-  # Diamonds Are Forever:
-  #   file_poster: /home/durmonator/posters/James Bond/Diamonds Are Forever (1971).webp
-  # Die Another Day:
-  #   file_poster: /home/durmonator/posters/James Bond/Die Another Day (2002).webp
-  # Dory's Reef Cam:
-  #   file_poster: /home/durmonator/posters/Finding Nemo/Dory's Reef Cam (2020).webp
-  # Dr. No:
-  #   file_poster: /home/durmonator/posters/James Bond/Dr. No (1962).webp
-  # Encanto:
-  #   file_poster: /home/durmonator/posters/Walt Disney Animation Studios/Encanto (2021).webp
-  # Eternals:
-  #   file_poster: /home/durmonator/posters/Eternals/Eternals.webp
-  # Exploring the Reef:
-  #   file_poster: /home/durmonator/posters/Finding Nemo/Exploring the Reef (2003).webp
-  # 2 Fast 2 Furious:
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/2 Fast 2 Furious.webp
-  # The Fast and the Furious:
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/The Fast and the Furious.webp
-  # "The Fast and the Furious: Tokyo Drift":
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/The Fast and the Furious Tokyo Drift.webp
-  # Fast & Furious:
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Fast & Furious.webp
-  # Fast & Furious 5:
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Fast Five.webp
-  # Fast & Furious 6:
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Fast & Furious 6.webp
-  # Fast & Furious 7:
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Furious 7.webp
-  # Fast & Furious 8:
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/The Fate of the Furious.webp
-  # Fast & Furious 9:
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/F9.webp
-  # "Fast & Furious: Hobbs & Shaw":
-  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Fast & Furious Presents Hobbs & Shaw.webp
-  # Finding Dory:
-  #   file_poster: /home/durmonator/posters/Finding Nemo/Finding Dory (2016).webp
-  # Finding Nemo:
-  #   file_poster: /home/durmonator/posters/Finding Nemo/Finding Nemo (2003).webp
-  # For Your Eyes Only:
-  #   file_poster: /home/durmonator/posters/James Bond/For Your Eyes Only (1981).webp
-  # For the Birds:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/For the Birds (2000).webp
-  # From Russia with Love:
-  #   file_poster: /home/durmonator/posters/James Bond/From Russia with Love (1963).webp
-  # Geri's Game:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Geri's Game (1997).webp
-  # Ghostbusters:
-  #   file_poster: /home/durmonator/posters/Ghostbusters/Ghostbusters.webp
-  # Ghostbusters II:
-  #   file_poster: /home/durmonator/posters/Ghostbusters/Ghostbusters.webp
-  # Ghostbusters (2016):
-  #   file_poster: /home/durmonator/posters/Ghostbusters/Ghostbusters (2016).webp
-  # "Ghostbusters: Afterlife":
-  #   file_poster: /home/durmonator/posters/Ghostbusters/Ghostbusters Afterlife.webp
-  # GoldenEye:
-  #   file_poster: /home/durmonator/posters/James Bond/GoldenEye (1995).webp
-  # Goldfinger:
-  #   file_poster: /home/durmonator/posters/James Bond/Goldfinger (1964).webp
-  # The Good Dinosaur:
-  #   file_poster: /home/durmonator/posters/Pixar/The Good Dinosaur (2015).webp
-  # Harry Potter and the Philosopher's Stone:
-  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Philosopher's Stone.webp
-  # Harry Potter and the Chamber of Secrets:
-  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Chamber of Secrets.webp
-  # Harry Potter and the Prisoner of Azkaban:
-  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Prisoner of Azkaban.webp
-  # Harry Potter and the Goblet of Fire:
-  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Goblet of Fire.webp
-  # Harry Potter and the Order of the Phoenix:
-  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Order of the Phoenix.webp
-  # Harry Potter and the Half-Blood Prince:
-  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Half-Blood Prince.webp
-  # "Harry Potter and the Deathly Hallows: Part 1":
-  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Deathly Hallows Part 1.webp
-  # "Harry Potter and the Deathly Hallows: Part 2":
-  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Deathly Hallows Part 2.webp
-  # "Harry Potter 20th Anniversary: Return to Hogwarts":
-  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter 20th Anniversary- Return to Hogwarts (2022).webp
-  # The Hunger Games:
-  #   file_poster: /home/durmonator/posters/The Hunger Games/The Hunger Games.webp
-  # "The Hunger Games: Catching Fire":
-  #   file_poster: /home/durmonator/posters/The Hunger Games/The Hunger Games Catching Fire.webp
-  # "The Hunger Games: Mockingjay - Part 1":
-  #   file_poster: /home/durmonator/posters/The Hunger Games/The Hunger Games Mockingjay - Part 1.webp
-  # "The Hunger Games: Mockingjay - Part 2":
-  #   file_poster: /home/durmonator/posters/The Hunger Games/The Hunger Games Mockingjay - Part 2.webp
+  Cars 3:
+    url_poster: https://theposterdb.com/api/assets/149947
+  Casino Royale:
+    url_poster: https://theposterdb.com/api/assets/46528
+  Coco:
+    url_poster: https://theposterdb.com/api/assets/149963
+  Day & Night:
+    url_poster: https://theposterdb.com/api/assets/150997
+  Diamonds Are Forever:
+    url_poster: https://theposterdb.com/api/assets/46513
+  Die Another Day:
+    url_poster: https://theposterdb.com/api/assets/46527
+  Dory's Reef Cam:
+    url_poster: https://theposterdb.com/api/assets/149225
+  Dr. No:
+    url_poster: https://theposterdb.com/api/assets/46507
+  Encanto:
+    url_poster: https://theposterdb.com/api/assets/201248
+  Eternals:
+    url_poster: https://theposterdb.com/api/assets/204757
+  Exploring the Reef:
+    url_poster: https://theposterdb.com/api/assets/149222
+  2 Fast 2 Furious:
+    url_poster: https://theposterdb.com/api/assets/166114
+  The Fast and the Furious:
+    url_poster: https://theposterdb.com/api/assets/166112
+  "The Fast and the Furious: Tokyo Drift":
+    url_poster: https://theposterdb.com/api/assets/166115
+  Fast & Furious:
+    url_poster: https://theposterdb.com/api/assets/166116
+  Fast & Furious 5:
+    url_poster: https://theposterdb.com/api/assets/166118
+  Fast & Furious 6:
+    url_poster: https://theposterdb.com/api/assets/166119
+  Fast & Furious 7:
+    url_poster: https://theposterdb.com/api/assets/166120
+  Fast & Furious 8:
+    url_poster: https://theposterdb.com/api/assets/166121
+  Fast & Furious 9:
+    url_poster: https://theposterdb.com/api/assets/166123
+  "Fast & Furious: Hobbs & Shaw":
+    url_poster: https://theposterdb.com/api/assets/166122
+  Finding Dory:
+    url_poster: https://theposterdb.com/api/assets/149223
+  Finding Nemo:
+    url_poster: https://theposterdb.com/api/assets/149221
+  For Your Eyes Only:
+    url_poster: https://theposterdb.com/api/assets/46518
+  For the Birds:
+    url_poster: https://theposterdb.com/api/assets/150991
+  From Russia with Love:
+    url_poster: https://theposterdb.com/api/assets/46508
+  Geri's Game:
+    url_poster: https://theposterdb.com/api/assets/150990
+  Ghostbusters:
+    url_poster: https://theposterdb.com/api/assets/181153
+  Ghostbusters II:
+    url_poster: https://theposterdb.com/api/assets/181154
+  Ghostbusters (2016):
+    url_poster: https://theposterdb.com/api/assets/181155
+  "Ghostbusters: Afterlife":
+    url_poster: https://theposterdb.com/api/assets/181156
+  GoldenEye:
+    url_poster: https://theposterdb.com/api/assets/46524
+  Goldfinger:
+    url_poster: https://theposterdb.com/api/assets/46509
+  The Good Dinosaur:
+    url_poster: https://theposterdb.com/api/assets/148427
+  Harry Potter and the Philosopher's Stone:
+    url_poster: https://theposterdb.com/api/assets/34077
+  Harry Potter and the Chamber of Secrets:
+    url_poster: https://theposterdb.com/api/assets/34024
+  Harry Potter and the Prisoner of Azkaban:
+    url_poster: https://theposterdb.com/api/assets/34025
+  Harry Potter and the Goblet of Fire:
+    url_poster: https://theposterdb.com/api/assets/34026
+  Harry Potter and the Order of the Phoenix:
+    url_poster: https://theposterdb.com/api/assets/34027
+  Harry Potter and the Half-Blood Prince:
+    url_poster: https://theposterdb.com/api/assets/34028
+  "Harry Potter and the Deathly Hallows: Part 1":
+    url_poster: https://theposterdb.com/api/assets/34029
+  "Harry Potter and the Deathly Hallows: Part 2":
+    url_poster: https://theposterdb.com/api/assets/34030
+  "Harry Potter 20th Anniversary: Return to Hogwarts":
+    url_poster: https://theposterdb.com/api/assets/198017
+  Hercules:
+    url_poster: https://theposterdb.com/api/assets/156208
+  The Hunchback of Notre Dame:
+    url_poster: https://theposterdb.com/api/assets/156207
+  The Hunger Games:
+    url_poster: https://theposterdb.com/api/assets/91
+  "The Hunger Games: Catching Fire":
+    url_poster: https://theposterdb.com/api/assets/92
+  "The Hunger Games: Mockingjay - Part 1":
+    url_poster: https://theposterdb.com/api/assets/93
+  "The Hunger Games: Mockingjay - Part 2":
+    url_poster: https://theposterdb.com/api/assets/94
   The Incredibles:
     url_poster: https://theposterdb.com/api/assets/149227
   The Incredibles 2:
     url_poster: https://theposterdb.com/api/assets/149230
-  # Inside Out:
-  #   file_poster: /home/durmonator/posters/Pixar/Inside Out (2015).webp
+  Inside Out:
+    url_poster: https://theposterdb.com/api/assets/149956
   Jack-Jack Attack:
     url_poster: https://theposterdb.com/api/assets/149228
-  # Knick Knack:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Knick Knack (1989).webp
-  # La Luna:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/La luna (2012).webp
+  Knick Knack:
+    url_poster: https://theposterdb.com/api/assets/150989
+  La Luna:
+    url_poster: https://theposterdb.com/api/assets/150998
   Lamp Life:
     url_poster: https://theposterdb.com/api/assets/148087
-  # Lava:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Lava (2014).webp
-  # License to Kill:
-  #   file_poster: /home/durmonator/posters/James Bond/License to Kill (1989).webp
-  # Lifted:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Lifted (2006).webp
-  # Live and Let Die:
-  #   file_poster: /home/durmonator/posters/James Bond/Live and Let Die (1973).webp
-  # The Living Daylights:
-  #   file_poster: /home/durmonator/posters/James Bond/The Living Daylights (1987).webp
-  # Lou:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Lou (2017).webp
-  # Luca:
-  #   file_poster: /home/durmonator/posters/Pixar/Luca (2021).webp
-  # Luxo Jr.:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Luxo Jr. (1986).webp
-  # The Man with the Golden Gun:
-  #   file_poster: /home/durmonator/posters/James Bond/The Man with the Golden Gun (1974).webp
-  # Marine Life Interviews:
-  #   file_poster: /home/durmonator/posters/Finding Nemo/Marine Life Interviews (2017).webp
+  Lava:
+    url_poster: https://theposterdb.com/api/assets/151000
+  License to Kill:
+    url_poster: https://theposterdb.com/api/assets/46523
+  Lifted:
+    url_poster: https://theposterdb.com/api/assets/150994
+  The Lion King:
+    url_poster: https://theposterdb.com/api/assets/156204
+  Live and Let Die:
+    url_poster: https://theposterdb.com/api/assets/46514
+  The Living Daylights:
+    url_poster: https://theposterdb.com/api/assets/46522
+  Lou:
+    url_poster: https://theposterdb.com/api/assets/151003
+  Luca:
+    url_poster: https://theposterdb.com/api/assets/150805
+  Luxo Jr.:
+    url_poster: https://theposterdb.com/api/assets/150986
+  The Man with the Golden Gun:
+    url_poster: https://theposterdb.com/api/assets/46515
+  Marine Life Interviews:
+    url_poster: https://theposterdb.com/api/assets/149224
   Mike's New Car:
     url_poster: https://theposterdb.com/api/assets/148790
   Monsters, Inc.:
     url_poster: https://theposterdb.com/api/assets/148789
   Monsters University:
     url_poster: https://theposterdb.com/api/assets/148791
-  # Moonraker:
-  #   file_poster: /home/durmonator/posters/James Bond/Moonraker (1979).webp
+  Moonraker:
+    url_poster: https://theposterdb.com/api/assets/46517
   Mr. Incredible and Pals:
     url_poster: https://theposterdb.com/api/assets/149229
-  # Never Say Never Again:
-  #   file_poster: /home/durmonator/posters/James Bond/Never Say Never Again (1983).webp
-  # No Time to Die:
-  #   file_poster: /home/durmonator/posters/James Bond/No Time to Die (2021).webp
-  # Octopussy:
-  #   file_poster: /home/durmonator/posters/James Bond/Octopussy (1983).webp
-  # On Her Majesty's Secret Service:
-  #   file_poster: /home/durmonator/posters/James Bond/On Her Majesty's Secret Service (1969).webp
-  # One Man Band:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/One Man Band (2005).webp
-  # Onward:
-  #   file_poster: /home/durmonator/posters/Pixar/Onward (2020).webp
-  # Partly Cloudy:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Partly Cloudy (2009).webp
-  # Party Central:
-  #   file_poster: /home/durmonator/posters/Monsters Inc/Party Central (2014).webp
-  # Piper:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Piper (2016).webp
-  # Presto:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Presto (2008).webp
-  # Quantum of Solace:
-  #   file_poster: /home/durmonator/posters/James Bond/Quantum of Solace (2008).webp
+  Never Say Never Again:
+    url_poster: https://theposterdb.com/api/assets/46520
+  No Time to Die:
+    url_poster: https://theposterdb.com/api/assets/46532
+  Octopussy:
+    url_poster: https://theposterdb.com/api/assets/46519
+  On Her Majesty's Secret Service:
+    url_poster: https://theposterdb.com/api/assets/46512
+  One Man Band:
+    url_poster: https://theposterdb.com/api/assets/150993
+  Onward:
+    url_poster: https://theposterdb.com/api/assets/148428
+  Partly Cloudy:
+    url_poster: https://theposterdb.com/api/assets/150996
+  Party Central:
+    url_poster: https://theposterdb.com/api/assets/148792
+  Piper:
+    url_poster: https://theposterdb.com/api/assets/151002
+  Pocahontas:
+    url_poster: https://theposterdb.com/api/assets/156206
+  Presto:
+    url_poster: https://theposterdb.com/api/assets/150995
+  Quantum of Solace:
+    url_poster: https://theposterdb.com/api/assets/46529
   Ratatouille:
     url_poster: https://theposterdb.com/api/assets/149233
-  # Red's Dream:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Red's Dream (1987).webp
-  # Rogue One:
-  #   file_poster: /home/durmonator/posters/Star Wars/Rogue One (2016).webp
-  # Sanjay's Super Team:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Sanjay's Super Team (2015).webp
-  # Shang-Chi and the Legend of the Ten Rings:
-  #   file_poster: /home/durmonator/posters/Shang-Chi/Shang-Chi and the Legend of the Ten Rings (2021).webp
-  # Skyfall:
-  #   file_poster: /home/durmonator/posters/James Bond/Skyfall (2012).webp
-  # "Solo: A Star Wars Story":
-  #   file_poster: /home/durmonator/posters/Star Wars/Solo (2018).webp
-  # Soul:
-  #   file_poster: /home/durmonator/posters/Pixar/Soul (2020).webp
-  # Space Jam:
-  #   file_poster: /home/durmonator/posters/Space Jam/Space Jam.webp
-  # "Space Jam: A New Legacy":
-  #   file_poster: /home/durmonator/posters/Space Jam/Space Jam A New Legacy.webp
-  # Spectre:
-  #   file_poster: /home/durmonator/posters/James Bond/Spectre (2015).webp
-  # The Spy Who Loved Me:
-  #   file_poster: /home/durmonator/posters/James Bond/The Spy Who Loved Me (1977).webp
+  Red's Dream:
+    url_poster: https://theposterdb.com/api/assets/150987
+  Rogue One:
+    url_poster: https://theposterdb.com/api/assets/205791
+  Sanjay's Super Team:
+    url_poster: https://theposterdb.com/api/assets/151001
+  Shang-Chi and the Legend of the Ten Rings:
+    url_poster: https://theposterdb.com/api/assets/167286
+  Skyfall:
+    url_poster: https://theposterdb.com/api/assets/46530
+  "Solo: A Star Wars Story":
+    url_poster: https://theposterdb.com/api/assets/205792
+  Soul:
+    url_poster: https://theposterdb.com/api/assets/148423
+  Space Jam:
+    url_poster: https://theposterdb.com/api/assets/163586
+  "Space Jam: A New Legacy":
+    url_poster: https://theposterdb.com/api/assets/163587
+  Spectre:
+    url_poster: https://theposterdb.com/api/assets/46531
+  The Spy Who Loved Me:
+    url_poster: https://theposterdb.com/api/assets/46516
   "Star Wars: Episode I - The Phantom Menace":
     url_poster: https://theposterdb.com/api/assets/205782
   "Star Wars: Episode II - Attack of the Clones":
     url_poster: https://theposterdb.com/api/assets/205783
-  # "Star Wars: Episode III - Revenge of the Sith":
-  #   file_poster: /home/durmonator/posters/Star Wars/Revenge of the Sith (2005).webp
-  # "Star Wars: Episode IV - A New Hope":
-  #   file_poster: /home/durmonator/posters/Star Wars/Star Wars (1977).webp
-  # "Star Wars: Episode V - The Empire Strikes Back":
-  #   file_poster: /home/durmonator/posters/Star Wars/The Empire Strikes Back (1980).webp
-  # "Star Wars: Episode VI - Return of the Jedi":
-  #   file_poster: /home/durmonator/posters/Star Wars/Return of the Jedi (1983).webp
-  # "Star Wars: Episode VII - The Force Awakens":
-  #   file_poster: /home/durmonator/posters/Star Wars/The Force Awakens (2015).webp
-  # "Star Wars: Episode VIII - The Last Jedi":
-  #   file_poster: /home/durmonator/posters/Star Wars/The Last Jedi (2017).webp
-  # "Star Wars: The Rise of Skywalker":
-  #   file_poster: /home/durmonator/posters/Star Wars/The Rise of Skywalker (2019).webp
-  # Tin Toy:
-  #   file_poster: /home/durmonator/posters/Pixar Shorts/Tin Toy (1988).webp
-  # Thunderball:
-  #   file_poster: /home/durmonator/posters/James Bond/Thunderball (1965).webp
-  # Tomorrow Never Dies:
-  #   file_poster: /home/durmonator/posters/James Bond/Tomorrow Never Dies (1997).webp
+  "Star Wars: Episode III - Revenge of the Sith":
+    url_poster: https://theposterdb.com/api/assets/205784
+  "Star Wars: Episode IV - A New Hope":
+    url_poster: https://theposterdb.com/api/assets/205785
+  "Star Wars: Episode V - The Empire Strikes Back":
+    url_poster: https://theposterdb.com/api/assets/205786
+  "Star Wars: Episode VI - Return of the Jedi":
+    url_poster: https://theposterdb.com/api/assets/205787
+  "Star Wars: Episode VII - The Force Awakens":
+    url_poster: https://theposterdb.com/api/assets/205788
+  "Star Wars: Episode VIII - The Last Jedi":
+    url_poster: https://theposterdb.com/api/assets/205789
+  "Star Wars: The Rise of Skywalker":
+    url_poster: https://theposterdb.com/api/assets/205790
+  Tin Toy:
+    url_poster: https://theposterdb.com/api/assets/150988
+  Thunderball:
+    url_poster: https://theposterdb.com/api/assets/46510
+  Tomorrow Never Dies:
+    url_poster: https://theposterdb.com/api/assets/46525
   Toy Story:
     url_poster: https://theposterdb.com/api/assets/148078
   Toy Story 2:
@@ -249,15 +257,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/148082
   "Toy Story Toons: Small Fry":
     url_poster: https://theposterdb.com/api/assets/148084
-  # Turning Red:
-  #   file_poster: /home/durmonator/posters/Pixar/Turning Red (2022).webp
-  # Up:
-  #   file_poster: /home/durmonator/posters/Pixar/Up (2009).webp
-  # A View to a Kill:
-  #   file_poster: /home/durmonator/posters/James Bond/A View to a Kill (1985).webp
-  # "WALL·E":
-  #   file_poster: "/home/durmonator/posters/Pixar/WALL·E (2008).webp"
-  # The World Is Not Enough:
-  #   file_poster: /home/durmonator/posters/James Bond/The World Is Not Enough (1999).webp
-  # You Only Live Twice:
-  #   file_poster: /home/durmonator/posters/James Bond/You Only Live Twice (1967).webp
+  Turning Red:
+    url_poster: https://theposterdb.com/api/assets/160327
+  Up:
+    url_poster: https://theposterdb.com/api/assets/149949
+  A View to a Kill:
+    url_poster: https://theposterdb.com/api/assets/46521
+  "WALL·E":
+    url_poster: https://theposterdb.com/api/assets/149953
+  The World Is Not Enough:
+    url_poster: https://theposterdb.com/api/assets/46526
+  You Only Live Twice:
+    url_poster: https://theposterdb.com/api/assets/46511
