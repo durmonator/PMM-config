@@ -1,0 +1,263 @@
+metadata:
+  22 vs. Earth:
+    url_poster: https://theposterdb.com/api/assets/148424
+  A Bug's Life:
+    url_poster: https://theposterdb.com/api/assets/148426
+  # Aladdin:
+  #   file_poster: /home/durmonator/posters/Aladdin/Aladdin (1992).webp
+  # André and Wally B.:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/The Adventures of Andre and Wally B. (1984).webp
+  Auntie Edna:
+    url_poster: https://theposterdb.com/api/assets/149231
+  # Bao:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Bao (2018).webp
+  # Black Widow:
+  #   file_poster: /home/durmonator/posters/Black Widow/Black Widow (2021).webp
+  # The Blue Umbrella:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/The Blue Umbrella (2013).webp
+  # Boundin':
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Boundin' (2003).webp
+  # Brave:
+  #   file_poster: /home/durmonator/posters/Pixar/Brave (2012).webp
+  Cars:
+    url_poster: https://theposterdb.com/api/assets/149945
+  Cars 2:
+    url_poster: https://theposterdb.com/api/assets/149946
+  # Cars 3:
+  #   file_poster: /home/durmonator/posters/Cars/Cars 3 (2017).webp
+  # Casino Royale:
+  #   file_poster: /home/durmonator/posters/James Bond/Casino Royale (2006).webp
+  # Coco:
+  #   file_poster: /home/durmonator/posters/Pixar/Coco (2017).webp
+  # Day & Night:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Day & Night (2010).webp
+  # Diamonds Are Forever:
+  #   file_poster: /home/durmonator/posters/James Bond/Diamonds Are Forever (1971).webp
+  # Die Another Day:
+  #   file_poster: /home/durmonator/posters/James Bond/Die Another Day (2002).webp
+  # Dory's Reef Cam:
+  #   file_poster: /home/durmonator/posters/Finding Nemo/Dory's Reef Cam (2020).webp
+  # Dr. No:
+  #   file_poster: /home/durmonator/posters/James Bond/Dr. No (1962).webp
+  # Encanto:
+  #   file_poster: /home/durmonator/posters/Walt Disney Animation Studios/Encanto (2021).webp
+  # Eternals:
+  #   file_poster: /home/durmonator/posters/Eternals/Eternals.webp
+  # Exploring the Reef:
+  #   file_poster: /home/durmonator/posters/Finding Nemo/Exploring the Reef (2003).webp
+  # 2 Fast 2 Furious:
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/2 Fast 2 Furious.webp
+  # The Fast and the Furious:
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/The Fast and the Furious.webp
+  # "The Fast and the Furious: Tokyo Drift":
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/The Fast and the Furious Tokyo Drift.webp
+  # Fast & Furious:
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Fast & Furious.webp
+  # Fast & Furious 5:
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Fast Five.webp
+  # Fast & Furious 6:
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Fast & Furious 6.webp
+  # Fast & Furious 7:
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Furious 7.webp
+  # Fast & Furious 8:
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/The Fate of the Furious.webp
+  # Fast & Furious 9:
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/F9.webp
+  # "Fast & Furious: Hobbs & Shaw":
+  #   file_poster: /home/durmonator/posters/The Fast and the Furious/Fast & Furious Presents Hobbs & Shaw.webp
+  # Finding Dory:
+  #   file_poster: /home/durmonator/posters/Finding Nemo/Finding Dory (2016).webp
+  # Finding Nemo:
+  #   file_poster: /home/durmonator/posters/Finding Nemo/Finding Nemo (2003).webp
+  # For Your Eyes Only:
+  #   file_poster: /home/durmonator/posters/James Bond/For Your Eyes Only (1981).webp
+  # For the Birds:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/For the Birds (2000).webp
+  # From Russia with Love:
+  #   file_poster: /home/durmonator/posters/James Bond/From Russia with Love (1963).webp
+  # Geri's Game:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Geri's Game (1997).webp
+  # Ghostbusters:
+  #   file_poster: /home/durmonator/posters/Ghostbusters/Ghostbusters.webp
+  # Ghostbusters II:
+  #   file_poster: /home/durmonator/posters/Ghostbusters/Ghostbusters.webp
+  # Ghostbusters (2016):
+  #   file_poster: /home/durmonator/posters/Ghostbusters/Ghostbusters (2016).webp
+  # "Ghostbusters: Afterlife":
+  #   file_poster: /home/durmonator/posters/Ghostbusters/Ghostbusters Afterlife.webp
+  # GoldenEye:
+  #   file_poster: /home/durmonator/posters/James Bond/GoldenEye (1995).webp
+  # Goldfinger:
+  #   file_poster: /home/durmonator/posters/James Bond/Goldfinger (1964).webp
+  # The Good Dinosaur:
+  #   file_poster: /home/durmonator/posters/Pixar/The Good Dinosaur (2015).webp
+  # Harry Potter and the Philosopher's Stone:
+  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Philosopher's Stone.webp
+  # Harry Potter and the Chamber of Secrets:
+  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Chamber of Secrets.webp
+  # Harry Potter and the Prisoner of Azkaban:
+  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Prisoner of Azkaban.webp
+  # Harry Potter and the Goblet of Fire:
+  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Goblet of Fire.webp
+  # Harry Potter and the Order of the Phoenix:
+  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Order of the Phoenix.webp
+  # Harry Potter and the Half-Blood Prince:
+  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Half-Blood Prince.webp
+  # "Harry Potter and the Deathly Hallows: Part 1":
+  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Deathly Hallows Part 1.webp
+  # "Harry Potter and the Deathly Hallows: Part 2":
+  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter and the Deathly Hallows Part 2.webp
+  # "Harry Potter 20th Anniversary: Return to Hogwarts":
+  #   file_poster: /home/durmonator/posters/Harry Potter/Harry Potter 20th Anniversary- Return to Hogwarts (2022).webp
+  # The Hunger Games:
+  #   file_poster: /home/durmonator/posters/The Hunger Games/The Hunger Games.webp
+  # "The Hunger Games: Catching Fire":
+  #   file_poster: /home/durmonator/posters/The Hunger Games/The Hunger Games Catching Fire.webp
+  # "The Hunger Games: Mockingjay - Part 1":
+  #   file_poster: /home/durmonator/posters/The Hunger Games/The Hunger Games Mockingjay - Part 1.webp
+  # "The Hunger Games: Mockingjay - Part 2":
+  #   file_poster: /home/durmonator/posters/The Hunger Games/The Hunger Games Mockingjay - Part 2.webp
+  The Incredibles:
+    url_poster: https://theposterdb.com/api/assets/149227
+  The Incredibles 2:
+    url_poster: https://theposterdb.com/api/assets/149230
+  # Inside Out:
+  #   file_poster: /home/durmonator/posters/Pixar/Inside Out (2015).webp
+  Jack-Jack Attack:
+    url_poster: https://theposterdb.com/api/assets/149228
+  # Knick Knack:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Knick Knack (1989).webp
+  # La Luna:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/La luna (2012).webp
+  Lamp Life:
+    url_poster: https://theposterdb.com/api/assets/148087
+  # Lava:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Lava (2014).webp
+  # License to Kill:
+  #   file_poster: /home/durmonator/posters/James Bond/License to Kill (1989).webp
+  # Lifted:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Lifted (2006).webp
+  # Live and Let Die:
+  #   file_poster: /home/durmonator/posters/James Bond/Live and Let Die (1973).webp
+  # The Living Daylights:
+  #   file_poster: /home/durmonator/posters/James Bond/The Living Daylights (1987).webp
+  # Lou:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Lou (2017).webp
+  # Luca:
+  #   file_poster: /home/durmonator/posters/Pixar/Luca (2021).webp
+  # Luxo Jr.:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Luxo Jr. (1986).webp
+  # The Man with the Golden Gun:
+  #   file_poster: /home/durmonator/posters/James Bond/The Man with the Golden Gun (1974).webp
+  # Marine Life Interviews:
+  #   file_poster: /home/durmonator/posters/Finding Nemo/Marine Life Interviews (2017).webp
+  Mike's New Car:
+    url_poster: https://theposterdb.com/api/assets/148790
+  Monsters, Inc.:
+    url_poster: https://theposterdb.com/api/assets/148789
+  Monsters University:
+    url_poster: https://theposterdb.com/api/assets/148791
+  # Moonraker:
+  #   file_poster: /home/durmonator/posters/James Bond/Moonraker (1979).webp
+  Mr. Incredible and Pals:
+    url_poster: https://theposterdb.com/api/assets/149229
+  # Never Say Never Again:
+  #   file_poster: /home/durmonator/posters/James Bond/Never Say Never Again (1983).webp
+  # No Time to Die:
+  #   file_poster: /home/durmonator/posters/James Bond/No Time to Die (2021).webp
+  # Octopussy:
+  #   file_poster: /home/durmonator/posters/James Bond/Octopussy (1983).webp
+  # On Her Majesty's Secret Service:
+  #   file_poster: /home/durmonator/posters/James Bond/On Her Majesty's Secret Service (1969).webp
+  # One Man Band:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/One Man Band (2005).webp
+  # Onward:
+  #   file_poster: /home/durmonator/posters/Pixar/Onward (2020).webp
+  # Partly Cloudy:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Partly Cloudy (2009).webp
+  # Party Central:
+  #   file_poster: /home/durmonator/posters/Monsters Inc/Party Central (2014).webp
+  # Piper:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Piper (2016).webp
+  # Presto:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Presto (2008).webp
+  # Quantum of Solace:
+  #   file_poster: /home/durmonator/posters/James Bond/Quantum of Solace (2008).webp
+  Ratatouille:
+    url_poster: https://theposterdb.com/api/assets/149233
+  # Red's Dream:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Red's Dream (1987).webp
+  # Rogue One:
+  #   file_poster: /home/durmonator/posters/Star Wars/Rogue One (2016).webp
+  # Sanjay's Super Team:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Sanjay's Super Team (2015).webp
+  # Shang-Chi and the Legend of the Ten Rings:
+  #   file_poster: /home/durmonator/posters/Shang-Chi/Shang-Chi and the Legend of the Ten Rings (2021).webp
+  # Skyfall:
+  #   file_poster: /home/durmonator/posters/James Bond/Skyfall (2012).webp
+  # "Solo: A Star Wars Story":
+  #   file_poster: /home/durmonator/posters/Star Wars/Solo (2018).webp
+  # Soul:
+  #   file_poster: /home/durmonator/posters/Pixar/Soul (2020).webp
+  # Space Jam:
+  #   file_poster: /home/durmonator/posters/Space Jam/Space Jam.webp
+  # "Space Jam: A New Legacy":
+  #   file_poster: /home/durmonator/posters/Space Jam/Space Jam A New Legacy.webp
+  # Spectre:
+  #   file_poster: /home/durmonator/posters/James Bond/Spectre (2015).webp
+  # The Spy Who Loved Me:
+  #   file_poster: /home/durmonator/posters/James Bond/The Spy Who Loved Me (1977).webp
+  "Star Wars: Episode I - The Phantom Menace":
+    url_poster: https://theposterdb.com/api/assets/205782
+  "Star Wars: Episode II - Attack of the Clones":
+    url_poster: https://theposterdb.com/api/assets/205783
+  # "Star Wars: Episode III - Revenge of the Sith":
+  #   file_poster: /home/durmonator/posters/Star Wars/Revenge of the Sith (2005).webp
+  # "Star Wars: Episode IV - A New Hope":
+  #   file_poster: /home/durmonator/posters/Star Wars/Star Wars (1977).webp
+  # "Star Wars: Episode V - The Empire Strikes Back":
+  #   file_poster: /home/durmonator/posters/Star Wars/The Empire Strikes Back (1980).webp
+  # "Star Wars: Episode VI - Return of the Jedi":
+  #   file_poster: /home/durmonator/posters/Star Wars/Return of the Jedi (1983).webp
+  # "Star Wars: Episode VII - The Force Awakens":
+  #   file_poster: /home/durmonator/posters/Star Wars/The Force Awakens (2015).webp
+  # "Star Wars: Episode VIII - The Last Jedi":
+  #   file_poster: /home/durmonator/posters/Star Wars/The Last Jedi (2017).webp
+  # "Star Wars: The Rise of Skywalker":
+  #   file_poster: /home/durmonator/posters/Star Wars/The Rise of Skywalker (2019).webp
+  # Tin Toy:
+  #   file_poster: /home/durmonator/posters/Pixar Shorts/Tin Toy (1988).webp
+  # Thunderball:
+  #   file_poster: /home/durmonator/posters/James Bond/Thunderball (1965).webp
+  # Tomorrow Never Dies:
+  #   file_poster: /home/durmonator/posters/James Bond/Tomorrow Never Dies (1997).webp
+  Toy Story:
+    url_poster: https://theposterdb.com/api/assets/148078
+  Toy Story 2:
+    url_poster: https://theposterdb.com/api/assets/148079
+  Toy Story 3:
+    url_poster: https://theposterdb.com/api/assets/148080
+  Toy Story 4:
+    url_poster: https://theposterdb.com/api/assets/148081
+  Toy Story of Terror:
+    url_poster: https://theposterdb.com/api/assets/148085
+  Toy Story That Time Forgot:
+    url_poster: https://theposterdb.com/api/assets/148086
+  "Toy Story Toons: Hawaiian Vacation":
+    url_poster: https://theposterdb.com/api/assets/148083
+  "Toy Story Toons: Partysaurus Rex":
+    url_poster: https://theposterdb.com/api/assets/148082
+  "Toy Story Toons: Small Fry":
+    url_poster: https://theposterdb.com/api/assets/148084
+  # Turning Red:
+  #   file_poster: /home/durmonator/posters/Pixar/Turning Red (2022).webp
+  # Up:
+  #   file_poster: /home/durmonator/posters/Pixar/Up (2009).webp
+  # A View to a Kill:
+  #   file_poster: /home/durmonator/posters/James Bond/A View to a Kill (1985).webp
+  # "WALL·E":
+  #   file_poster: "/home/durmonator/posters/Pixar/WALL·E (2008).webp"
+  # The World Is Not Enough:
+  #   file_poster: /home/durmonator/posters/James Bond/The World Is Not Enough (1999).webp
+  # You Only Live Twice:
+  #   file_poster: /home/durmonator/posters/James Bond/You Only Live Twice (1967).webp

@@ -1,0 +1,85 @@
+## This file is a template remove the .template to use the file
+
+libraries:
+  4k Movies:
+    library_name: The Drive In (4K)
+    library_type: movie
+    metadata_path:
+      - file: config/4k Movies.yml
+      - file: config/metadata-movies.yml
+  Movies:
+    library_name: The Drive In
+    library_type: movie
+    metadata_path:
+      - file: config/Movies.yml
+      - file: config/metadata-movies.yml
+  TV Shows Current:
+    library_name: TGB - On Air
+    library_type: show
+    metadata_path:
+      - file: config/TV Shows.yml
+      - file: config/metadata-tv.yml
+  4k TV Shows:
+    library_name: TGB - 4K
+    library_type: show
+    metadata_path:
+      - file: config/4k TV Shows.yml
+    operations:
+      assets_for_all: true
+  TV Shows Old:
+    library_name: TGB - The Vault
+    library_type: show
+    metadata_path:
+      - file: /config/metadata-tv-vault.yml
+settings:                                       # Can be individually specified per library as well
+  cache: true
+  cache_expiration: 60
+  sync_mode: append
+  show_unmanaged: true
+  show_filtered: false
+  show_missing: true
+  save_missing: true
+  run_again_delay: 2
+  asset_folders: true
+  missing_only_released: false
+  create_asset_folders: false
+  delete_below_minimum: false
+  minimum_items: 1
+  asset_depth: 0
+  dimensional_asset_rename: false
+  download_url_assets: false
+  show_missing_season_assets: false
+  default_collection_order:
+  delete_not_scheduled: false
+  only_filter_missing: false
+  show_options: false
+  show_missing_assets: true
+  tvdb_language: default
+  ignore_ids:
+  ignore_imdb_ids:
+  playlist_sync_to_user: all
+  verify_ssl: true
+  asset_directory: config/assets/
+plex:                                           # Can be individually specified per library as well
+  url: http://5.79.110.50:32400
+  token: V_TzyhSrjvKjBYnEv9ur
+  timeout: 60
+  clean_bundles: false
+  empty_trash: false
+  optimize: false
+tmdb:
+  apikey: 053e1f21b9ea7715dda6a7efc4c208af
+  language: en
+trakt:
+  client_id: c633b985f6c7a0296a85aaf2dfb3e859dd566d535da40b21b22546ba35915026
+  client_secret: 1c10aa14a29ef937d8606e8d1995de95a6efccdad0cbccf1ebdf69468ac021f6
+  authorization:
+    access_token: 123293aef5193be5c4e4e5ec46816116c72956cc74753929fa64ee8deebcca15
+    token_type: Bearer
+    expires_in: 7889237
+    refresh_token: 7593f21d3faea8424cb520d4f19a9c8e018cbe58eadf4a035f505e1c788486bd
+    scope: public
+    created_at: 1642003652
+tautulii:
+  url: https://falcon.durman.me/tautulli
+  apikey: cvzWZFd6junQuGUOn9x1FBpKNaKB4bo0

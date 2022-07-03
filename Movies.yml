@@ -1,0 +1,760 @@
+########################################################
+#                     TEMPLATES                        #
+########################################################
+
+templates:
+  Chart Alpha:
+    sort_title: '*_<<num>><<collection_name>>'
+    sync_mode: sync
+    collection_order: alpha
+    collection_mode: default
+  Chart Release:
+    sort_title: '*_<<num>><<collection_name>>'
+    sync_mode: sync
+    collection_order: release
+    collection_mode: default
+  Best of:
+    trakt_list: https://trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-<<year>>
+    sort_title: '*_Best of <<year>>'
+    sync_mode: sync
+    summary: Rotten Tomatoes Best Movies of <<year>>
+    collection_order: release
+    collection_mode: default
+  Studio:
+    optional:
+      - company
+    tmdb_company: <<company>>
+    sort_title: ++++_<<collection_name>>
+    sync_mode: sync
+    collection_order: alpha
+    collection_mode: default
+  IMDb Genre:
+    default:
+      title: feature
+      limit: 100
+    imdb_list:
+    - url: https://www.imdb.com/search/title/?title_type=<<title>>&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=<<genre>>
+      limit: <<limit>>
+    - url: https://www.imdb.com/search/title/?title_type=<<title>>&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=<<genre>>&sort=user_rating,desc
+      limit: <<limit>>
+    sort_title: +++_<<collection_name>>
+    sync_mode: sync
+    collection_order: alpha
+  Other Genre:
+    sort_title: +++_<<collection_name>>
+    sync_mode: sync
+    collection_order: alpha
+  Person:
+    smart_filter:
+      any:
+        actor: tmdb
+        director: tmdb
+        writer: tmdb
+        producer: tmdb
+      sort_by: release.desc
+      validate: false
+    tmdb_person: <<person>>
+    sort_title: '++_<<collection_name>>'
+    sync_mode: sync
+  Collection:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    sync_mode: sync
+    collection_order: release
+  Meta:
+    url_poster: https://theposterdb.com/api/assets/<<poster>>
+
+collections:
+
+########################################################
+#                 CHART COLLECTIONS                    #
+########################################################
+
+#  Plex Popular:
+#    template: {name: Chart Alpha, num: 1}
+#    tautulli_popular:
+#      list_days: 30
+#      list_size: 20
+#      list_buffer: 20
+#    tautulli_watched:
+#      list_days: 30
+#      list_size: 20
+#      list_buffer: 20
+  IMDb Top 250:
+    template: {name: Chart Alpha, num: 2}
+    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250
+  'Oscars: Best Pictures':
+    template: {name: Chart Release, num: 3}
+    trakt_list: https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners?sort=rank,asc
+    summary: All the winners in the Best Picture category of the Oscars.
+    name_mapping: Oscars Best Picture
+  'BAFTA: Best Film':
+    template: {name: Chart Release, num: 4}
+    trakt_list: https://trakt.tv/users/maxwelldeux/lists/bafta-award-best-film?sort=released,desc
+    summary: The Best Film as chosen by the British Academy of Film and Television Arts charity.
+    name_mapping: BAFTA Best Film
+  'Golden Globes: Best Picture (Drama)':
+    template: {name: Chart Release, num: 5}
+    trakt_list: https://trakt.tv/users/grendelcrusher/lists/golden-globe-awards-for-best-movie-picture-drama?sort=released,desc
+    summary: A list of all winners of the Golden Globe Award for Best Movie Picture - Drama since 1943.
+    name_mapping: Golden Globes Drama
+  'Golden Globes: Best Picture (Musical or Comedy)':
+    template: {name: Chart Release, num: 6}
+    trakt_list: https://trakt.tv/users/grendelcrusher/lists/golden-globe-award-for-best-movie-picture-musical-or-comedy?sort=released,desc
+    summary: A list of all winners of the Golden Globe Award for Best Movie Picture - Musical or Comedy since 1951.
+    name_mapping: Golden Globes Comedy
+  'Oscars: Best Director':
+    template: {name: Chart Release, num: 7}
+    trakt_list: https://trakt.tv/users/fauxliege/lists/oscar-best-director?sort=released,desc
+    summary: All the winners in the Best Director category of the Oscars.
+    name_mapping: Oscars Best Director
+  'Oscars: Best Actor':
+    template: {name: Chart Release, num: 8}
+    trakt_list: https://trakt.tv/users/serffan/lists/best-actor-oscar-winners?sort=released,desc
+    summary: All the winners in the Best Actor category of the Oscars.
+    name_mapping: Oscars Best Actor
+  'Oscars: Best Actress':
+    template: {name: Chart Release, num: 9}
+    trakt_list: https://trakt.tv/users/serffan/lists/best-actress-oscar-winners?sort=released,desc
+    summary: All the winners in the Best Actress category of the Oscars.
+    name_mapping: Oscars Best Actress
+  Best of 2014:
+    template: {name: Best of, year: 2014}
+  Best of 2015:
+    template: {name: Best of, year: 2015}
+  Best of 2016:
+    template: {name: Best of, year: 2016}
+  Best of 2017:
+    template: {name: Best of, year: 2017}
+  Best of 2018:
+    template: {name: Best of, year: 2018}
+  Best of 2019:
+    template: {name: Best of, year: 2019}
+  Best of 2020:
+    template: {name: Best of, year: 2020}
+  Best of 2021:
+    template: {name: Best of, year: 2021}
+
+########################################################
+#                 STUDIO COLLECTIONS                   #
+########################################################
+
+  Aardman:
+    template: {name: Studio, company: 297}
+    summary: Aardman Animations, Ltd. is a British animation studio based in Bristol, England. Aardman is known for films made using stop-motion clay animation techniques, particularly those featuring Plasticine characters Wallace and Gromit.
+  Blue Sky:
+    template: {name: Studio, company: 9383}
+    summary: Blue Sky Studios, Inc. is an American computer animation film studio based in Greenwich, Connecticut. It is a subsidiary of 20th Century Animation, a division of Disney Studios Content.
+  DreamWorks:
+    template: {name: Studio, company: 521}
+    filters:
+      collection.not: Aardman
+    summary: DreamWorks Animation LLC (also simply known as DreamWorks) is an American animation studio and a subsidiary of Universal Pictures, itself a subsidiary of Comcast's NBCUniversal. It is based in Glendale, California, and produces animated feature films, television programs, and online virtual games.
+  Illumination Entertainment:
+    template: {name: Studio, company: 6704}
+    summary: Illumination is an American film and animation studio founded by Chris Meledandri in 2007 and owned by Universal Pictures, a division of NBCUniversal, which is itself a division of Comcast. Meledandri produces the films, while Universal finances and distributes all the films. The studio is responsible for the Despicable Me and The Secret Life of Pets franchises and the film adaptations of Dr. Seuss’ books The Lorax and How the Grinch Stole Christmas. The Minions, characters from the Despicable Me series, are the studio's mascots.
+  Pixar:
+    template: {name: Studio, company: 3}
+    summary: Pixar Animation Studios, commonly known as Pixar, is an American computer animation studio based in Emeryville, California, a subsidiary of Disney Studios Content owned by The Walt Disney Company. Pixar began in 1979 as part of the Lucasfilm computer division, known as the Graphics Group, before its spin-off as a corporation on February 3, 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. Disney purchased Pixar in 2006 at a valuation of $7.4 billion by converting each share of Pixar stock to 2.3 shares of Disney stock, a transaction that resulted in Jobs becoming Disney's largest single shareholder at the time. Pixar is best known for its feature films technologically powered by RenderMan, the company's own implementation of the industry-standard RenderMan Interface Specification image-rendering application programming interface. Luxo Jr., a desk lamp from the studio's 1986 short film of the same name, is the studio's mascot.
+  Pixar Shorts:
+    template: {name: Studio}
+    imdb_list: https://www.imdb.com/list/ls055703600/
+  Studio Ghibli:
+    template: {name: Studio, company: 10342}
+    summary: Studio Ghibli Inc. is a Japanese animation film studio headquartered in Koganei, Tokyo. The studio is best known for its animated feature films, and has also produced several short films, television commercials, and one television film. The studio’s mascot and most recognizable symbol is the character, Totoro, a giant cat-like spirit from the 1988 classic, My Neighbor Totoro.
+  Sony Pictures Animation:
+    template: {name: Studio, company: 2251}
+    summary: Sony Pictures Animation Inc. is an American animation studio owned by Sony Entertainment's Sony Pictures Entertainment through their Motion Picture Group division and founded on May 9, 2002. The studio's films are distributed worldwide by Sony Pictures Releasing under their Columbia Pictures label, while all direct-to-video releases are released by Sony Pictures Home Entertainment.
+  Warner Animation Group:
+    template: {name: Studio, company: 25120}
+    summary: The Warner Animation Group (WAG) is an American animation studio that is the feature animation division of Warner Bros. Entertainment. Established on January 7, 2013, the studio is the successor to the dissolved 2D traditional hand-drawn animation studio Warner Bros. Feature Animation, which shut down in 2003 and the dissolved family film division Warner Bros. Family Entertainment, which shut down in 2009. The entity is also a sister animation studio of the regular animation studio Warner Bros. Animation
+  Walt Disney Animation Studios:
+    template: {name: Studio}
+    imdb_list: https://www.imdb.com/list/ls059383351/
+    summary: Walt Disney Animation Studios (WDAS), sometimes shortened to Disney Animation, is an American animation studio that creates animated features and short films for The Walt Disney Company. Founded on October 16, 1923 by brothers Walt Disney and Roy O. Disney, it is one of the oldest-running animation studios in the world. It is currently organized as a division of Walt Disney Studios and is headquartered at the Roy E. Disney Animation Building at the Walt Disney Studios lot in Burbank, California.
+  Walt Disney Pictures:
+    template: {name: Studio}
+    imdb_list: https://www.imdb.com/list/ls077114097/
+    summary: Walt Disney Pictures is an American film production studio of The Walt Disney Studios, which is owned by The Walt Disney Company. The studio is the flagship producer of live-action feature films within the Walt Disney Studios unit, and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under this brand. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures.
+
+########################################################
+#                 GENRE COLLECTIONS                    #
+########################################################
+  
+  Musical:
+    template: {name: IMDb Genre, genre: musical, limit: 200}
+    summary: A Musical interweaves vocal and dance performances into the narrative of the film. The songs of a film can either be used to further the story or simply enhance the experience of the audience. These films are often done on a grand scale and incorporate lavish costumes and sets. Traditional musicals center on a well-known star, famous for their dancing or singing skills (i.e. Fred Astaire, Gene Kelly, Judy Garland). These films explore concepts such are love and success, allowing the audience to escape from reality.
+  Sci-Fi:
+    template: {name: IMDb Genre, genre: sci-fi}
+    summary: Science Fiction (Sci-Fi) film is a genre that incorporates hypothetical, science-based themes into the plot of the film. Often, this genre incorporates futuristic elements and technologies to explore social, political, and philosophical issues. The film itself is usually set in the future, either on earth or in space. Traditionally, a Science Fiction film will incorporate heroes, villains, unexplored locations, fantastical quests, and advanced technology.
+
+########################################################
+#                PEOPLE COLLECTIONS                    #
+########################################################
+
+  Adam Sandler:
+    template: {name: Person, person: 19292}
+  Amy Adams:
+    template: {name: Person, person: 9273}
+  Anne Hathaway:
+    template: {name: Person, person: 1813}
+  Brad Pitt:
+    template: {name: Person, person: 287}
+  Cameron Diaz:
+    template: {name: Person, person: 6941}
+  Chadwick Boseman:
+    template: {name: Person, person: 172069}
+  Chris Hemsworth:
+    template: {name: Person, person: 74568}
+  Emma Stone:
+    template: {name: Person, person: 54693}
+  Ewan McGregor:
+    template: {name: Person, person: 3061}
+  Gary Oldman:
+    template: {name: Person, person: 64}
+  Guy Ritchie:
+    template: {name: Person, person: 956}
+  Idris Elba:
+    template: {name: Person, person: 17605}
+  Jack Black:
+    template: {name: Person, person: 70851}
+  James Franco:
+    template: {name: Person, person: 17051}
+  James McAvoy:
+    template: {name: Person, person: 5530}
+  Jennifer Aniston:
+    template: {name: Person, person: 4491}
+  Jennifer Lawrence:
+    template: {name: Person, person: 72129}
+  Joaquin Phoenix:
+    template: {name: Person, person: 73421}
+  Johnny Depp:
+    template: {name: Person, person: 85}
+  Jonah Hill:
+    template: {name: Person, person: 21007}
+  Jude Law:
+    template: {name: Person, person: 9642}
+  Julia Roberts:
+    template: {name: Person, person: 1204}
+  Kate Beckinsale:
+    template: {name: Person, person: 3967}
+  Kevin Bacon:
+    template: {name: Person, person: 4724}
+  Kristen Stewart:
+    template: {name: Person, person: 37917}
+  Laurence Fishburne:
+    template: {name: Person, person: 2975}
+  Leonardo DiCaprio:
+    template: {name: Person, person: 6193}
+  Matt Damon:
+    template: {name: Person, person: 1892}
+  Morgan Freeman:
+    template: {name: Person, person: 192}
+  Quentin Tarantino:
+    template: {name: Person, person: 138}
+  Robin Williams:
+    template: {name: Person, person: 2157}
+  Samuel L. Jackson:
+    template: {name: Person, person: 2231}
+  Scarlett Johansson:
+    template: {name: Person, person: 1245}
+  Sigourney Weaver:
+    template: {name: Person, person: 10205}
+  Steven Spielberg:
+    template: {name: Person, person: 488}
+  Tom Cruise:
+    template: {name: Person, person: 500}
+  Tom Hanks:
+    template: {name: Person, person: 31}
+  Uma Thurman:
+    template: {name: Person, person: 139}
+  Wes Anderson:
+    template: {name: Person, person: 5655}
+  Will Ferrell:
+    template: {name: Person, person: 23659}
+
+######################################################
+#                TMDb Collections                    #
+######################################################
+
+  28 Days/Weeks Later:
+    template: {name: Collection, collection: 1565}
+    name_mapping: 28 Days-Weeks Later
+  '300':
+    template: {name: Collection, collection: 125570}
+  Addams Family:
+    template: {name: Collection, collection: 11716}
+  Aladdin:
+    template: {name: Collection, collection: 86027}
+  Alice in Wonderland:
+    template: {name: Collection, collection: 261307}
+  Alien:
+    template: {name: Collection, collection: "8091, 135416"}
+  Almighty:
+    template: {name: Collection, collection: 124949}
+  The Amazing Spider-Man:
+    template: {name: Collection, collection: 125574}
+  Anchorman:
+    template: {name: Collection, collection: 93791}
+  The Angry Birds:
+    template: {name: Collection, collection: 531315}
+  Ant-Man:
+    template: {name: Collection, collection: 422834, movie: "271110, 299536, 299534"}
+  Aquaman:
+    template: {name: Collection, collection: 573693}
+  Austin Powers:
+    template: {name: Collection, collection: 1006}
+  The Avengers:
+    template: {name: Collection, collection: 86311}
+  Babysitting:
+    template: {name: Collection, collection: 331841}
+  Back to the Future:
+    template: {name: Collection, collection: 264}
+  Bad Ass:
+    template: {name: Collection, collection: 261286}
+  Bad Boys:
+    template: {name: Collection, collection: 14890}
+  Bad Moms:
+    template: {name: Collection, collection: 487376}
+  Bad Santa:
+    template: {name: Collection, collection: 423173}
+  Batman:
+    template: {name: Collection, collection: 120794}
+  Beauty and the Beast:
+    template: {name: Collection, collection: 153010}
+  Bernie the Dolphin:
+    template: {name: Collection, collection: 660340}
+  Best Exotic Marigold Hotel:
+    template: {name: Collection, collection: 306937}
+  Bill & Ted's Most Excellent:
+    template: {name: Collection, collection: 91746}
+  Black Panther:
+    template: {name: Collection, collection: 529892, movie: "271110, 299536, 299534"}
+  Black Widow:
+    template: {name: Collection, movie: "497698, 10138, 24428, 100402, 99861, 271110, 299536, 299534, 299537"}
+  Blade:
+    template: {name: Collection, collection: 735}
+  Blade Runner:
+    template: {name: Collection, collection: 422837}
+  Borat Moviefilms:
+    template: {name: Collection, collection: 747168}
+  The Bourne:
+    template: {name: Collection, collection: 31562}
+  The Boy:
+    template: {name: Collection, collection: 666337}
+  Bucky Barnes:
+    template: {name: Collection, movie: "1771, 100402, 271110, 102899, 284054, 299536, 299534"}
+  Camp Rock:
+    template: {name: Collection, collection: 148055}
+  Captain America:
+    template: {name: Collection, collection: 131295, movie: "24428, 99861, 299536, 299534, 315635, 299537"}
+  Captain Marvel:
+    template: {name: Collection, collection: 623911, movie: "299534"}
+  Cars:
+    template: {name: Collection, collection: 87118}
+  Charlie's Angels:
+    template: {name: Collection, collection: 86029}
+  Cheaper by the Dozen:
+    template: {name: Collection, collection: 114783}
+  Chili Palmer:
+    template: {name: Collection, collection: 91698}
+  The Chronicles of Narnia:
+    template: {name: Collection, collection: 420}
+  Clash of the Titans:
+    template: {name: Collection, collection: 86780}
+  Cornetto Trilogy:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls068623110/
+    summary: An anthology series of British comedic genre films directed by Edgar Wright, written by Wright and Simon Pegg, produced by Nira Park, and starring Pegg and Nick Frost. The trilogy consists of Shaun of the Dead (2004), Hot Fuzz (2007), and The World's End (2013).
+  Creed:
+    template: {name: Collection, collection: 553717}
+  The Croods:
+    template: {name: Collection, collection: 464577}
+  Crouching Tiger, Hidden Dragon:
+    template: {name: Collection, collection: 290973}
+  Daddy's Home:
+    template: {name: Collection, collection: 473971}
+  The Dark Knight:
+    template: {name: Collection, collection: 263}
+  Darko:
+    template: {name: Collection, collection: 178106}
+  Death Race:
+    template: {name: Collection, collection: 86116}
+  Deadpool:
+    template: {name: Collection, collection: 448150, movie: 567604}
+  Despicable Me:
+    template: {name: Collection, collection: "86066, 544669"}
+  Die Hard:
+    template: {name: Collection, collection: 1570}
+  Dirty Harry:
+    template: {name: Collection, collection: 10456}
+  Divergent:
+    template: {name: Collection, collection: 283579}
+  Doctor Strange:
+    template: {name: Collection, collection: 618529, movie: "299536, 299534, 284053"}
+  Dumb and Dumber:
+    template: {name: Collection, collection: 96665}
+  The Emperor's New Groove:
+    template: {name: Collection, collection: 178117}
+  The Equalizer:
+    template: {name: Collection, collection: 523855}
+  Escape Plan:
+    template: {name: Collection, collection: 525891}
+  The Expendables:
+    template: {name: Collection, collection: 126125}
+  Falcon:
+    template: {name: Collection, movie: "100402, 99861, 102899, 271110, 299536, 299534"}
+  Fantasia:
+    template: {name: Collection, collection: 55427}
+  Fantastic Beasts:
+    template: {name: Collection, collection: 435259}
+  Fantastic Four:
+    template: {name: Collection, collection: 9744}
+  The Fast and the Furious:
+    template: {name: Collection, collection: "9485, 688042"}
+  Fifty Shades:
+    template: {name: Collection, collection: 344830}
+  Final Destination:
+    template: {name: Collection, collection: 8864}
+  Finding Nemo:
+    template: {name: Collection, collection: 137697}
+  Friday the 13th:
+    template: {name: Collection, collection: 9735, movie: "6466, 222724"}
+  Frozen:
+    template: {name: Collection, collection: 386382, movie: "326359, 460793"}
+  Ghost Rider:
+    template: {name: Collection, collection: 90306}
+  Ghostbusters:
+    template: {name: Collection, collection: 2980, movie: 43074}
+  The Girl - Millennium:
+    template: {name: Collection, collection: 575987}
+  The Godfather:
+    template: {name: Collection, collection: 230}
+  Godzilla:
+    template: {name: Collection, collection: 535313}
+  Goosebumps:
+    template: {name: Collection, collection: 508783}
+  Grown Ups:
+    template: {name: Collection, collection: 180546}
+  Guardians of the Galaxy:
+    template: {name: Collection, collection: 284433, movie: "299536, 299534"}
+  The Hangover:
+    template: {name: Collection, collection: 86119}
+  Hannibal Lecter:
+    template: {name: Collection, collection: 9743, movie: 11454}
+  Harry Potter:
+    template: {name: Collection, collection: 1241}
+  ... Has Fallen:
+    template: {name: Collection, collection: 386534}
+    name_mapping: Has Fallen
+  Hawkeye:
+    template: {name: Collection, movie: "10195, 24428, 99861, 271110, 299536"}
+  High School Musical:
+    template: {name: Collection, collection: 87253}
+  The Hobbit:
+    template: {name: Collection, collection: 121938}
+  Home Alone:
+    template: {name: Collection, collection: 9888}
+  Horrible Bosses:
+    template: {name: Collection, collection: 280588}
+  Hot Tub Time Machine:
+    template: {name: Collection, collection: 313576}
+  Hotel Transylvania:
+    template: {name: Collection, collection: 185103}
+  How to Train Your Dragon:
+    template: {name: Collection, collection: 89137}
+  Hulk:
+    template: {name: Collection, movie: "24428, 68721, 99861, 299537, 299536, 299534, 284053"}
+  The Hunger Games:
+    template: {name: Collection, collection: 131635}
+  The Huntsman:
+    template: {name: Collection, collection: 393379}
+  Ice Age:
+    template: {name: Collection, collection: 8354, movie: "79218, 717095, 387893"}
+  The Incredibles:
+    template: {name: Collection, collection: 468222}
+  Independence Day:
+    template: {name: Collection, collection: 304378}
+  Indiana Jones:
+    template: {name: Collection, collection: 84}
+  Iron Man:
+    template: {name: Collection, collection: 131292, movie: "24428, 99861, 271110, 1724, 315635, 299536, 299534"}
+  It:
+    template: {name: Collection, collection: 477962}
+  James Bond:
+    template: {name: Collection, collection: 645}
+  Jaws:
+    template: {name: Collection, collection: 2366}
+  Jingle All the Way:
+    template: {name: Collection, collection: 307637}
+  Joe Dirt:
+    template: {name: Collection, collection: 353325}
+  John Wick:
+    template: {name: Collection, collection: 404609}
+  Johnny English:
+    template: {name: Collection, collection: 86117}
+  Jumanji:
+    template: {name: Collection, collection: 495527}
+  Jump Street:
+    template: {name: Collection, collection: 212562}
+  The Jungle Book:
+    template: {name: Collection, collection: 97459}
+  Jurassic Park:
+    template: {name: Collection, collection: 328, movie: 630322}
+  Kick-Ass:
+    template: {name: Collection, collection: 179892}
+  Kickboxer (Reboot):
+    template: {name: Collection, collection: 522871}
+    name_mapping: Kickboxer Reboot
+  Kill Bill:
+    template: {name: Collection, collection: 2883}
+  Kingsman:
+    template: {name: Collection, collection: 391860}
+  Kung Fu Panda:
+    template: {name: Collection, collection: 77816}
+  Legally Blonde:
+    template: {name: Collection, collection: 86024}
+  The Lego Movie:
+    template: {name: Collection, collection: 325470}
+  Lethal Weapon:
+    template: {name: Collection, collection: 945}
+  Lilo & Stitch:
+    template: {name: Collection, collection: 97461}
+  The Lion King:
+    template: {name: Collection, collection: 94032}
+  Loki:
+    template: {name: Collection, movie: "10195, 24428, 76338, 284053, 299536, 299534"}
+  The Lord of the Rings:
+    template: {name: Collection, collection: 119}
+  Mad Max:
+    template: {name: Collection, collection: 8945}
+  Madagascar:
+    template: {name: Collection, collection: 14740, movie: "161143, 25472, 270946"}
+  Maleficent:
+    template: {name: Collection, collection: 531331}
+  Magic Mike:
+    template: {name: Collection, collection: 328247}
+  Mall Cop:
+    template: {name: Collection, collection: 328372}
+  Mamma Mia!:
+    template: {name: Collection, collection: 458558}
+    name_mapping: Mamma Mia
+  Man of Steel:
+    template: {name: Collection, collection: 209131}
+  Marvel One Shots:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls070316284/
+    summary: All of the marvel one-shot short movies in one list
+  Mary Poppins:
+    template: {name: Collection, collection: 527439}
+  The Mask:
+    template: {name: Collection, collection: 43072}
+  The Matrix:
+    template: {name: Collection, collection: 2344}
+  The Maze Runner:
+    template: {name: Collection, collection: 295130}
+  Mean Girls:
+    template: {name: Collection, collection: 99606}
+  Meet the Parents:
+    template: {name: Collection, collection: 51509}
+  Men In Black:
+    template: {name: Collection, collection: 86055}
+  The Mighty Ducks:
+    template: {name: Collection, collection: 10709}
+  "Mission: Impossible":
+    template: {name: Collection, collection: 87359}
+    name_mapping: Mission Impossible
+  Monsters, Inc.:
+    template: {name: Collection, collection: 137696}
+  Monty Python:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls072012494/
+    summary: Monty Python is a British surreal comedy troupe who created sketch comedy television shows and movies
+  Mulan:
+    template: {name: Collection, collection: 87236}
+  The Mummy:
+    template: {name: Collection, collection: 1733}
+  The Muppet:
+    template: {name: Collection, collection: 256377}
+  My Big Fat Greek Wedding:
+    template: {name: Collection, collection: 389767}
+  National Lampoon's Vacation:
+    template: {name: Collection, collection: 108693}
+  National Treasure:
+    template: {name: Collection, collection: 52984}
+  Nativity:
+    template: {name: Collection, collection: 239595}
+  Neighbors:
+    template: {name: Collection, collection: 400700}
+  The Neverending Story:
+    template: {name: Collection, collection: 91430}
+  Nick Fury:
+    template: {name: Collection, movie: "1726, 10138, 10195, 1771, 24428, 100402, 99861, 299537, 299534, 429617"}
+  Night at the Museum:
+    template: {name: Collection, collection: 85943}
+  A Nightmare on Elm Street:
+    template: {name: Collection, collection: 8581, movie: "6466, 23437"}
+  Now You See Me:
+    template: {name: Collection, collection: 382685}
+  Ocean's:
+    template: {name: Collection, collection: 304}
+  Old Way:
+    template: {name: Collection, collection: 452146}
+  Pacific Rim:
+    template: {name: Collection, collection: 363369}
+  Paddington:
+    template: {name: Collection, collection: 488924}
+  Pirates of the Caribbean:
+    template: {name: Collection, collection: 295}
+  Pitch Perfect:
+    template: {name: Collection, collection: 306031}
+  Planet of the Apes:
+    template: {name: Collection, collection: 173710}
+  Pocahontas:
+    template: {name: Collection, collection: 136214}
+  Power Rangers:
+    template: {name: Collection, collection: 708816, movie: "305470, 306264"}
+  Predator:
+    template: {name: Collection, collection: 399}
+  The Princess Diaries:
+    template: {name: Collection, collection: 107674}
+  The Purge:
+    template: {name: Collection, collection: 256322}
+  Rambo:
+    template: {name: Collection, collection: 5039}
+  RED:
+    template: {name: Collection, collection: 163902}
+  Resident Evil:
+    template: {name: Collection, collection: 17255}
+  Ride Along:
+    template: {name: Collection, collection: 376650}
+  Rio:
+    template: {name: Collection, collection: 229932}
+  Robert Langdon:
+    template: {name: Collection, collection: 115776}
+  RoboCop:
+    template: {name: Collection, collection: 5547}
+  Rocky:
+    template: {name: Collection, collection: 1575}
+  Rugrats:
+    template: {name: Collection, collection: 57129}
+  Rush Hour:
+    template: {name: Collection, collection: 90863}
+  The Santa Clause:
+    template: {name: Collection, collection: 53159}
+  Saw:
+    template: {name: Collection, collection: 656}
+  Scarlet Witch:
+    template: {name: Collection, movie: "100402, 99861, 271110, 299536, 299534"}
+  Scary Movie:
+    template: {name: Collection, collection: 4246}
+  Scream:
+    template: {name: Collection, collection: 2602}
+  The Secret Life of Pets:
+    template: {name: Collection, collection: 427084}
+  Shaft:
+    template: {name: Collection, collection: "495, 608103"}
+  Sherlock Holmes:
+    template: {name: Collection, collection: 102322}
+  The Shining:
+    template: {name: Collection, collection: 530064}
+  Shrek:
+    template: {name: Collection, collection: 2150}
+  Space Jam:
+    template: {name: Collection, collection: 722961}
+  Spider-Man (Avengers):
+    template: {name: Collection, collection: 531241}
+  Spider-Man:
+    template: {name: Collection, collection: 556}
+  Spider-Man Into the Spider-Verse:
+    template: {name: Collection, collection: 573436}
+  Spy Kids:
+    template: {name: Collection, collection: 86486}
+  "Star Trek: Alternate Reality":
+    template: {name: Collection, collection: 115575}
+    name_mapping: Star Trek Alternate Reality
+  "Star Trek: The Next Generation":
+    template: {name: Collection, collection: 115570}
+    name_mapping: Star Trek The Next Generation
+  "Star Trek: The Original Series":
+    template: {name: Collection, collection: 151}
+    name_mapping: Star Trek The Original Series
+  "Star Wars: Skywalker Saga":
+    template: {name: Collection, collection: 10}
+    file_poster: /home/durmonator/posters/Star Wars/The Complete Collection.webp
+    name_mapping: Star Wars Skywalker Saga
+  "Star Wars: Legends":
+    template: {name: Collection}
+    tmdb_movie: 348350, 330459
+    summary: "Star Wars Anthology Films and other Star Wars Movies"
+    name_mapping: Star Wars Legends
+  Taken:
+    template: {name: Collection, collection: 135483}
+  Ted:
+    template: {name: Collection, collection: 266672}
+  Teenage Mutant Ninja Turtles:
+    template: {name: Collection, collection: "1582, 401562", movie: 1273}
+  Team Thor:
+    template: {name: Collection, collection: 729425}
+  The Terminator:
+    template: {name: Collection, collection: 528}
+  Thor:
+    template: {name: Collection, collection: 131296}
+  Tomb Raider:
+    template: {name: Collection, collection: "2467, 621142"}
+  Toy Story:
+    template: {name: Collection, collection: 10194, movie: 130925}
+  Trainspotting:
+    template: {name: Collection, collection: 424202}
+  Transformers:
+    template: {name: Collection, collection: 8650}
+  The Transporter:
+    template: {name: Collection, collection: 9518}
+  Trolls:
+    template: {name: Collection, collection: 489724}
+  Trekkies:
+    template: {name: Collection, collection: 509686}
+  TRON:
+    template: {name: Collection, collection: 63043, movie: 73362}
+  The Twilight:
+    template: {name: Collection, collection: 33514}
+  Unbreakable:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls022101006/
+    summary: The Unbreakable trilogy, officially known as the Eastrail 177 Trilogy, is an American superhero thriller and psychological horror film series. The films were written, produced, and directed by M. Night Shyamalan. The trilogy consists of Unbreakable (2000), Split (2016), and Glass (2019).
+  Underworld:
+    template: {name: Collection, collection: 2326}
+  Wallace & Gromit:
+    template: {name: Collection, collection: 529}
+  Wayne's World:
+    template: {name: Collection, collection: 8979}
+  The Wolverine:
+    template: {name: Collection, collection: 453993}
+  Wonder Woman:
+    template: {name: Collection, collection: 468552}
+  Wreck-It Ralph:
+    template: {name: Collection, collection: 404825}
+  X-Men:
+    template: {name: Collection, collection: 748}
+  xXx:
+    template: {name: Collection, collection: 52785}
+  Zombieland:
+    template: {name: Collection, collection: 537982}
+  Zoolander:
+    template: {name: Collection, collection: 352789}
+
+######################################################
+#            Collectionless Collection               #
+######################################################
+
+  Collectionless:
+    plex_collectionless:
+      exclude_prefix:
+        - '*_'
+        - '~_'
+        - +
+    sort_title: ~_Collectionless
+    collection_order: alpha

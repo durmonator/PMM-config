@@ -1,0 +1,4599 @@
+metadata:
+  American Dad!:
+    file_poster: /home/durmonator/posters/American Dad/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/American Dad/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/American Dad/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/American Dad/S03.webp
+      4:
+        file_poster: /home/durmonator/posters/American Dad/S04.webp
+      5:
+        file_poster: /home/durmonator/posters/American Dad/S05.webp
+      6:
+        file_poster: /home/durmonator/posters/American Dad/S06.webp
+      7:
+        file_poster: /home/durmonator/posters/American Dad/S07.webp
+      8:
+        file_poster: /home/durmonator/posters/American Dad/S08.webp
+      9:
+        file_poster: /home/durmonator/posters/American Dad/S09.webp
+      10:
+        file_poster: /home/durmonator/posters/American Dad/S10.webp
+      11:
+        file_poster: /home/durmonator/posters/American Dad/S11.webp
+      12:
+        file_poster: /home/durmonator/posters/American Dad/S12.webp
+      13:
+        file_poster: /home/durmonator/posters/American Dad/S13.webp
+      14:
+        file_poster: /home/durmonator/posters/American Dad/S14.webp
+      15:
+        file_poster: /home/durmonator/posters/American Dad/S15.webp
+      16:
+        file_poster: /home/durmonator/posters/American Dad/S16.webp
+      17:
+        file_poster: /home/durmonator/posters/American Dad/S17.webp
+      18:
+        file_poster: /home/durmonator/posters/American Dad/S18.webp
+      19:
+        file_poster: /home/durmonator/posters/American Dad/S19.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/American Dad/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/American Dad/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/American Dad/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/American Dad/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/American Dad/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/American Dad/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/American Dad/S01E07.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/American Dad/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/American Dad/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/American Dad/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/American Dad/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/American Dad/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/American Dad/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/American Dad/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/American Dad/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/American Dad/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/American Dad/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/American Dad/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/American Dad/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/American Dad/S02E13.webp
+      S02E14:
+        file_poster: /home/durmonator/posters/American Dad/S02E14.webp
+      S02E15:
+        file_poster: /home/durmonator/posters/American Dad/S02E15.webp
+      S02E16:
+        file_poster: /home/durmonator/posters/American Dad/S02E16.webp
+      S03E01:
+        file_poster: /home/durmonator/posters/American Dad/S03E01.webp
+      S03E02:
+        file_poster: /home/durmonator/posters/American Dad/S03E02.webp
+      S03E03:
+        file_poster: /home/durmonator/posters/American Dad/S03E03.webp
+      S03E04:
+        file_poster: /home/durmonator/posters/American Dad/S03E04.webp
+      S03E05:
+        file_poster: /home/durmonator/posters/American Dad/S03E05.webp
+      S03E06:
+        file_poster: /home/durmonator/posters/American Dad/S03E06.webp
+      S03E07:
+        file_poster: /home/durmonator/posters/American Dad/S03E07.webp
+      S03E08:
+        file_poster: /home/durmonator/posters/American Dad/S03E08.webp
+      S03E09:
+        file_poster: /home/durmonator/posters/American Dad/S03E09.webp
+      S03E10:
+        file_poster: /home/durmonator/posters/American Dad/S03E10.webp
+      S03E11:
+        file_poster: /home/durmonator/posters/American Dad/S03E11.webp
+      S03E12:
+        file_poster: /home/durmonator/posters/American Dad/S03E12.webp
+      S03E13:
+        file_poster: /home/durmonator/posters/American Dad/S03E13.webp
+      S03E14:
+        file_poster: /home/durmonator/posters/American Dad/S03E14.webp
+      S03E15:
+        file_poster: /home/durmonator/posters/American Dad/S03E15.webp
+      S03E16:
+        file_poster: /home/durmonator/posters/American Dad/S03E16.webp
+      S03E17:
+        file_poster: /home/durmonator/posters/American Dad/S03E17.webp
+      S03E18:
+        file_poster: /home/durmonator/posters/American Dad/S03E18.webp
+      S03E19:
+        file_poster: /home/durmonator/posters/American Dad/S03E19.webp
+      S04E01:
+        file_poster: /home/durmonator/posters/American Dad/S04E01.webp
+      S04E02:
+        file_poster: /home/durmonator/posters/American Dad/S04E02.webp
+      S04E03:
+        file_poster: /home/durmonator/posters/American Dad/S04E03.webp
+      S04E04:
+        file_poster: /home/durmonator/posters/American Dad/S04E04.webp
+      S04E05:
+        file_poster: /home/durmonator/posters/American Dad/S04E05.webp
+      S04E06:
+        file_poster: /home/durmonator/posters/American Dad/S04E06.webp
+      S04E07:
+        file_poster: /home/durmonator/posters/American Dad/S04E07.webp
+      S04E08:
+        file_poster: /home/durmonator/posters/American Dad/S04E08.webp
+      S04E09:
+        file_poster: /home/durmonator/posters/American Dad/S04E09.webp
+      S04E10:
+        file_poster: /home/durmonator/posters/American Dad/S04E10.webp
+      S04E11:
+        file_poster: /home/durmonator/posters/American Dad/S04E11.webp
+      S04E12:
+        file_poster: /home/durmonator/posters/American Dad/S04E12.webp
+      S04E13:
+        file_poster: /home/durmonator/posters/American Dad/S04E13.webp
+      S04E14:
+        file_poster: /home/durmonator/posters/American Dad/S04E14.webp
+      S04E15:
+        file_poster: /home/durmonator/posters/American Dad/S04E15.webp
+      S04E16:
+        file_poster: /home/durmonator/posters/American Dad/S04E16.webp
+      S05E01:
+        file_poster: /home/durmonator/posters/American Dad/S05E01.webp
+      S05E02:
+        file_poster: /home/durmonator/posters/American Dad/S05E02.webp
+      S05E03:
+        file_poster: /home/durmonator/posters/American Dad/S05E03.webp
+      S05E04:
+        file_poster: /home/durmonator/posters/American Dad/S05E04.webp
+      S05E05:
+        file_poster: /home/durmonator/posters/American Dad/S05E05.webp
+      S05E06:
+        file_poster: /home/durmonator/posters/American Dad/S05E06.webp
+      S05E07:
+        file_poster: /home/durmonator/posters/American Dad/S05E07.webp
+      S05E08:
+        file_poster: /home/durmonator/posters/American Dad/S05E08.webp
+      S05E09:
+        file_poster: /home/durmonator/posters/American Dad/S05E09.webp
+      S05E10:
+        file_poster: /home/durmonator/posters/American Dad/S05E10.webp
+      S05E11:
+        file_poster: /home/durmonator/posters/American Dad/S05E11.webp
+      S05E12:
+        file_poster: /home/durmonator/posters/American Dad/S05E12.webp
+      S05E13:
+        file_poster: /home/durmonator/posters/American Dad/S05E13.webp
+      S05E14:
+        file_poster: /home/durmonator/posters/American Dad/S05E14.webp
+      S05E15:
+        file_poster: /home/durmonator/posters/American Dad/S05E15.webp
+      S05E16:
+        file_poster: /home/durmonator/posters/American Dad/S05E16.webp
+      S05E17:
+        file_poster: /home/durmonator/posters/American Dad/S05E17.webp
+      S05E18:
+        file_poster: /home/durmonator/posters/American Dad/S05E18.webp
+      S05E19:
+        file_poster: /home/durmonator/posters/American Dad/S05E19.webp
+      S05E20:
+        file_poster: /home/durmonator/posters/American Dad/S05E20.webp
+      S06E01:
+        file_poster: /home/durmonator/posters/American Dad/S06E01.webp
+      S06E02:
+        file_poster: /home/durmonator/posters/American Dad/S06E02.webp
+      S06E03:
+        file_poster: /home/durmonator/posters/American Dad/S06E03.webp
+      S06E04:
+        file_poster: /home/durmonator/posters/American Dad/S06E04.webp
+      S06E05:
+        file_poster: /home/durmonator/posters/American Dad/S06E05.webp
+      S06E06:
+        file_poster: /home/durmonator/posters/American Dad/S06E06.webp
+      S06E07:
+        file_poster: /home/durmonator/posters/American Dad/S06E07.webp
+      S06E08:
+        file_poster: /home/durmonator/posters/American Dad/S06E08.webp
+      S06E09:
+        file_poster: /home/durmonator/posters/American Dad/S06E09.webp
+      S06E10:
+        file_poster: /home/durmonator/posters/American Dad/S06E10.webp
+      S06E11:
+        file_poster: /home/durmonator/posters/American Dad/S06E11.webp
+      S06E12:
+        file_poster: /home/durmonator/posters/American Dad/S06E12.webp
+      S06E13:
+        file_poster: /home/durmonator/posters/American Dad/S06E13.webp
+      S06E14:
+        file_poster: /home/durmonator/posters/American Dad/S06E14.webp
+      S06E15:
+        file_poster: /home/durmonator/posters/American Dad/S06E15.webp
+      S06E16:
+        file_poster: /home/durmonator/posters/American Dad/S06E16.webp
+      S06E17:
+        file_poster: /home/durmonator/posters/American Dad/S06E17.webp
+      S06E18:
+        file_poster: /home/durmonator/posters/American Dad/S06E18.webp
+      S07E01:
+        file_poster: /home/durmonator/posters/American Dad/S07E01.webp
+      S07E02:
+        file_poster: /home/durmonator/posters/American Dad/S07E02.webp
+      S07E03:
+        file_poster: /home/durmonator/posters/American Dad/S07E03.webp
+      S07E04:
+        file_poster: /home/durmonator/posters/American Dad/S07E04.webp
+      S07E05:
+        file_poster: /home/durmonator/posters/American Dad/S07E05.webp
+      S07E06:
+        file_poster: /home/durmonator/posters/American Dad/S07E06.webp
+      S07E07:
+        file_poster: /home/durmonator/posters/American Dad/S07E07.webp
+      S07E08:
+        file_poster: /home/durmonator/posters/American Dad/S07E08.webp
+      S07E09:
+        file_poster: /home/durmonator/posters/American Dad/S07E09.webp
+      S07E10:
+        file_poster: /home/durmonator/posters/American Dad/S07E10.webp
+      S07E11:
+        file_poster: /home/durmonator/posters/American Dad/S07E11.webp
+      S07E12:
+        file_poster: /home/durmonator/posters/American Dad/S07E12.webp
+      S07E13:
+        file_poster: /home/durmonator/posters/American Dad/S07E13.webp
+      S07E14:
+        file_poster: /home/durmonator/posters/American Dad/S07E14.webp
+      S07E15:
+        file_poster: /home/durmonator/posters/American Dad/S07E15.webp
+      S07E16:
+        file_poster: /home/durmonator/posters/American Dad/S07E16.webp
+      S07E17:
+        file_poster: /home/durmonator/posters/American Dad/S07E17.webp
+      S07E18:
+        file_poster: /home/durmonator/posters/American Dad/S07E18.webp
+      S07E19:
+        file_poster: /home/durmonator/posters/American Dad/S07E19.webp
+      S08E01:
+        file_poster: /home/durmonator/posters/American Dad/S08E01.webp
+      S08E02:
+        file_poster: /home/durmonator/posters/American Dad/S08E02.webp
+      S08E03:
+        file_poster: /home/durmonator/posters/American Dad/S08E03.webp
+      S08E04:
+        file_poster: /home/durmonator/posters/American Dad/S08E04.webp
+      S08E05:
+        file_poster: /home/durmonator/posters/American Dad/S08E05.webp
+      S08E06:
+        file_poster: /home/durmonator/posters/American Dad/S08E06.webp
+      S08E07:
+        file_poster: /home/durmonator/posters/American Dad/S08E07.webp
+      S08E08:
+        file_poster: /home/durmonator/posters/American Dad/S08E08.webp
+      S08E09:
+        file_poster: /home/durmonator/posters/American Dad/S08E09.webp
+      S08E10:
+        file_poster: /home/durmonator/posters/American Dad/S08E10.webp
+      S08E11:
+        file_poster: /home/durmonator/posters/American Dad/S08E11.webp
+      S08E12:
+        file_poster: /home/durmonator/posters/American Dad/S08E12.webp
+      S08E13:
+        file_poster: /home/durmonator/posters/American Dad/S08E13.webp
+      S08E14:
+        file_poster: /home/durmonator/posters/American Dad/S08E14.webp
+      S08E15:
+        file_poster: /home/durmonator/posters/American Dad/S08E15.webp
+      S08E16:
+        file_poster: /home/durmonator/posters/American Dad/S08E16.webp
+      S08E17:
+        file_poster: /home/durmonator/posters/American Dad/S08E17.webp
+      S08E18:
+        file_poster: /home/durmonator/posters/American Dad/S08E18.webp
+      S09E01:
+        file_poster: /home/durmonator/posters/American Dad/S09E01.webp
+      S09E02:
+        file_poster: /home/durmonator/posters/American Dad/S09E02.webp
+      S09E03:
+        file_poster: /home/durmonator/posters/American Dad/S09E03.webp
+      S09E04:
+        file_poster: /home/durmonator/posters/American Dad/S09E04.webp
+      S09E05:
+        file_poster: /home/durmonator/posters/American Dad/S09E05.webp
+      S09E06:
+        file_poster: /home/durmonator/posters/American Dad/S09E06.webp
+      S09E07:
+        file_poster: /home/durmonator/posters/American Dad/S09E07.webp
+      S09E08:
+        file_poster: /home/durmonator/posters/American Dad/S09E08.webp
+      S09E09:
+        file_poster: /home/durmonator/posters/American Dad/S09E09.webp
+      S09E10:
+        file_poster: /home/durmonator/posters/American Dad/S09E10.webp
+      S09E11:
+        file_poster: /home/durmonator/posters/American Dad/S09E11.webp
+      S09E12:
+        file_poster: /home/durmonator/posters/American Dad/S09E12.webp
+      S09E13:
+        file_poster: /home/durmonator/posters/American Dad/S09E13.webp
+      S09E14:
+        file_poster: /home/durmonator/posters/American Dad/S09E14.webp
+      S09E15:
+        file_poster: /home/durmonator/posters/American Dad/S09E15.webp
+      S09E16:
+        file_poster: /home/durmonator/posters/American Dad/S09E16.webp
+      S09E17:
+        file_poster: /home/durmonator/posters/American Dad/S09E17.webp
+      S09E18:
+        file_poster: /home/durmonator/posters/American Dad/S09E18.webp
+      S09E19:
+        file_poster: /home/durmonator/posters/American Dad/S09E19.webp
+      S10E01:
+        file_poster: /home/durmonator/posters/American Dad/S10E01.webp
+      S10E02:
+        file_poster: /home/durmonator/posters/American Dad/S10E02.webp
+      S10E03:
+        file_poster: /home/durmonator/posters/American Dad/S10E03.webp
+      S10E04:
+        file_poster: /home/durmonator/posters/American Dad/S10E04.webp
+      S10E05:
+        file_poster: /home/durmonator/posters/American Dad/S10E05.webp
+      S10E06:
+        file_poster: /home/durmonator/posters/American Dad/S10E06.webp
+      S10E07:
+        file_poster: /home/durmonator/posters/American Dad/S10E07.webp
+      S10E08:
+        file_poster: /home/durmonator/posters/American Dad/S10E08.webp
+      S10E09:
+        file_poster: /home/durmonator/posters/American Dad/S10E09.webp
+      S10E10:
+        file_poster: /home/durmonator/posters/American Dad/S10E10.webp
+      S10E11:
+        file_poster: /home/durmonator/posters/American Dad/S10E11.webp
+      S10E12:
+        file_poster: /home/durmonator/posters/American Dad/S10E12.webp
+      S10E13:
+        file_poster: /home/durmonator/posters/American Dad/S10E13.webp
+      S10E14:
+        file_poster: /home/durmonator/posters/American Dad/S10E14.webp
+      S10E15:
+        file_poster: /home/durmonator/posters/American Dad/S10E15.webp
+      S10E16:
+        file_poster: /home/durmonator/posters/American Dad/S10E16.webp
+      S10E17:
+        file_poster: /home/durmonator/posters/American Dad/S10E17.webp
+      S10E18:
+        file_poster: /home/durmonator/posters/American Dad/S10E18.webp
+      S10E19:
+        file_poster: /home/durmonator/posters/American Dad/S10E19.webp
+      S10E20:
+        file_poster: /home/durmonator/posters/American Dad/S10E20.webp
+      S11E01:
+        file_poster: /home/durmonator/posters/American Dad/S11E01.webp
+      S11E02:
+        file_poster: /home/durmonator/posters/American Dad/S11E02.webp
+      S11E03:
+        file_poster: /home/durmonator/posters/American Dad/S11E03.webp
+      S12E01:
+        file_poster: /home/durmonator/posters/American Dad/S12E01.webp
+      S12E02:
+        file_poster: /home/durmonator/posters/American Dad/S12E02.webp
+      S12E03:
+        file_poster: /home/durmonator/posters/American Dad/S12E03.webp
+      S12E04:
+        file_poster: /home/durmonator/posters/American Dad/S12E04.webp
+      S12E05:
+        file_poster: /home/durmonator/posters/American Dad/S12E05.webp
+      S12E06:
+        file_poster: /home/durmonator/posters/American Dad/S12E06.webp
+      S12E07:
+        file_poster: /home/durmonator/posters/American Dad/S12E07.webp
+      S12E08:
+        file_poster: /home/durmonator/posters/American Dad/S12E08.webp
+      S12E09:
+        file_poster: /home/durmonator/posters/American Dad/S12E09.webp
+      S12E10:
+        file_poster: /home/durmonator/posters/American Dad/S12E10.webp
+      S12E11:
+        file_poster: /home/durmonator/posters/American Dad/S12E11.webp
+      S12E12:
+        file_poster: /home/durmonator/posters/American Dad/S12E12.webp
+      S12E13:
+        file_poster: /home/durmonator/posters/American Dad/S12E13.webp
+      S12E14:
+        file_poster: /home/durmonator/posters/American Dad/S12E14.webp
+      S12E15:
+        file_poster: /home/durmonator/posters/American Dad/S12E15.webp
+      S13E01:
+        file_poster: /home/durmonator/posters/American Dad/S13E01.webp
+      S13E02:
+        file_poster: /home/durmonator/posters/American Dad/S13E02.webp
+      S13E03:
+        file_poster: /home/durmonator/posters/American Dad/S13E03.webp
+      S13E04:
+        file_poster: /home/durmonator/posters/American Dad/S13E04.webp
+      S13E05:
+        file_poster: /home/durmonator/posters/American Dad/S13E05.webp
+      S13E06:
+        file_poster: /home/durmonator/posters/American Dad/S13E06.webp
+      S13E07:
+        file_poster: /home/durmonator/posters/American Dad/S13E07.webp
+      S13E08:
+        file_poster: /home/durmonator/posters/American Dad/S13E08.webp
+      S13E09:
+        file_poster: /home/durmonator/posters/American Dad/S13E09.webp
+      S13E10:
+        file_poster: /home/durmonator/posters/American Dad/S13E10.webp
+      S13E11:
+        file_poster: /home/durmonator/posters/American Dad/S13E11.webp
+      S13E12:
+        file_poster: /home/durmonator/posters/American Dad/S13E12.webp
+      S13E13:
+        file_poster: /home/durmonator/posters/American Dad/S13E13.webp
+      S13E14:
+        file_poster: /home/durmonator/posters/American Dad/S13E14.webp
+      S13E15:
+        file_poster: /home/durmonator/posters/American Dad/S13E15.webp
+      S13E16:
+        file_poster: /home/durmonator/posters/American Dad/S13E16.webp
+      S13E17:
+        file_poster: /home/durmonator/posters/American Dad/S13E17.webp
+      S13E18:
+        file_poster: /home/durmonator/posters/American Dad/S13E18.webp
+      S13E19:
+        file_poster: /home/durmonator/posters/American Dad/S13E19.webp
+      S13E20:
+        file_poster: /home/durmonator/posters/American Dad/S13E20.webp
+      S13E21:
+        file_poster: /home/durmonator/posters/American Dad/S13E21.webp
+      S13E22:
+        file_poster: /home/durmonator/posters/American Dad/S13E22.webp
+      S14E01:
+        file_poster: /home/durmonator/posters/American Dad/S14E01.webp
+      S14E02:
+        file_poster: /home/durmonator/posters/American Dad/S14E02.webp
+      S14E03:
+        file_poster: /home/durmonator/posters/American Dad/S14E03.webp
+      S14E04:
+        file_poster: /home/durmonator/posters/American Dad/S14E04.webp
+      S14E05:
+        file_poster: /home/durmonator/posters/American Dad/S14E05.webp
+      S14E06:
+        file_poster: /home/durmonator/posters/American Dad/S14E06.webp
+      S14E07:
+        file_poster: /home/durmonator/posters/American Dad/S14E07.webp
+      S14E08:
+        file_poster: /home/durmonator/posters/American Dad/S14E08.webp
+      S14E09:
+        file_poster: /home/durmonator/posters/American Dad/S14E09.webp
+      S14E10:
+        file_poster: /home/durmonator/posters/American Dad/S14E10.webp
+      S14E11:
+        file_poster: /home/durmonator/posters/American Dad/S14E11.webp
+      S14E12:
+        file_poster: /home/durmonator/posters/American Dad/S14E12.webp
+      S14E13:
+        file_poster: /home/durmonator/posters/American Dad/S14E13.webp
+      S14E14:
+        file_poster: /home/durmonator/posters/American Dad/S14E14.webp
+      S14E15:
+        file_poster: /home/durmonator/posters/American Dad/S14E15.webp
+      S14E16:
+        file_poster: /home/durmonator/posters/American Dad/S14E16.webp
+      S14E17:
+        file_poster: /home/durmonator/posters/American Dad/S14E17.webp
+      S14E18:
+        file_poster: /home/durmonator/posters/American Dad/S14E18.webp
+      S14E19:
+        file_poster: /home/durmonator/posters/American Dad/S14E19.webp
+      S14E20:
+        file_poster: /home/durmonator/posters/American Dad/S14E20.webp
+      S14E21:
+        file_poster: /home/durmonator/posters/American Dad/S14E21.webp
+      S14E22:
+        file_poster: /home/durmonator/posters/American Dad/S14E22.webp
+      S15E01:
+        file_poster: /home/durmonator/posters/American Dad/S15E01.webp
+      S15E02:
+        file_poster: /home/durmonator/posters/American Dad/S15E02.webp
+      S15E03:
+        file_poster: /home/durmonator/posters/American Dad/S15E03.webp
+      S15E04:
+        file_poster: /home/durmonator/posters/American Dad/S15E04.webp
+      S15E05:
+        file_poster: /home/durmonator/posters/American Dad/S15E05.webp
+      S15E06:
+        file_poster: /home/durmonator/posters/American Dad/S15E06.webp
+      S15E07:
+        file_poster: /home/durmonator/posters/American Dad/S15E07.webp
+      S15E08:
+        file_poster: /home/durmonator/posters/American Dad/S15E08.webp
+      S15E09:
+        file_poster: /home/durmonator/posters/American Dad/S15E09.webp
+      S15E10:
+        file_poster: /home/durmonator/posters/American Dad/S15E10.webp
+      S15E11:
+        file_poster: /home/durmonator/posters/American Dad/S15E11.webp
+      S15E12:
+        file_poster: /home/durmonator/posters/American Dad/S15E12.webp
+      S15E13:
+        file_poster: /home/durmonator/posters/American Dad/S15E13.webp
+      S15E14:
+        file_poster: /home/durmonator/posters/American Dad/S15E14.webp
+      S15E15:
+        file_poster: /home/durmonator/posters/American Dad/S15E15.webp
+      S15E16:
+        file_poster: /home/durmonator/posters/American Dad/S15E16.webp
+      S15E17:
+        file_poster: /home/durmonator/posters/American Dad/S15E17.webp
+      S15E18:
+        file_poster: /home/durmonator/posters/American Dad/S15E18.webp
+      S15E19:
+        file_poster: /home/durmonator/posters/American Dad/S15E19.webp
+      S15E20:
+        file_poster: /home/durmonator/posters/American Dad/S15E20.webp
+      S15E21:
+        file_poster: /home/durmonator/posters/American Dad/S15E21.webp
+      S15E22:
+        file_poster: /home/durmonator/posters/American Dad/S15E22.webp
+      S16E01:
+        file_poster: /home/durmonator/posters/American Dad/S16E01.webp
+      S16E02:
+        file_poster: /home/durmonator/posters/American Dad/S16E02.webp
+      S16E03:
+        file_poster: /home/durmonator/posters/American Dad/S16E03.webp
+      S16E04:
+        file_poster: /home/durmonator/posters/American Dad/S16E04.webp
+      S16E05:
+        file_poster: /home/durmonator/posters/American Dad/S16E05.webp
+      S16E06:
+        file_poster: /home/durmonator/posters/American Dad/S16E06.webp
+      S16E07:
+        file_poster: /home/durmonator/posters/American Dad/S16E07.webp
+      S16E08:
+        file_poster: /home/durmonator/posters/American Dad/S16E08.webp
+      S16E09:
+        file_poster: /home/durmonator/posters/American Dad/S16E09.webp
+      S16E10:
+        file_poster: /home/durmonator/posters/American Dad/S16E10.webp
+      S16E11:
+        file_poster: /home/durmonator/posters/American Dad/S16E11.webp
+      S16E12:
+        file_poster: /home/durmonator/posters/American Dad/S16E12.webp
+      S16E13:
+        file_poster: /home/durmonator/posters/American Dad/S16E13.webp
+      S16E14:
+        file_poster: /home/durmonator/posters/American Dad/S16E14.webp
+      S16E15:
+        file_poster: /home/durmonator/posters/American Dad/S16E15.webp
+      S16E16:
+        file_poster: /home/durmonator/posters/American Dad/S16E16.webp
+      S16E17:
+        file_poster: /home/durmonator/posters/American Dad/S16E17.webp
+      S16E18:
+        file_poster: /home/durmonator/posters/American Dad/S16E18.webp
+      S16E19:
+        file_poster: /home/durmonator/posters/American Dad/S16E19.webp
+      S16E20:
+        file_poster: /home/durmonator/posters/American Dad/S16E20.webp
+      S17E01:
+        file_poster: /home/durmonator/posters/American Dad/S17E01.webp
+      S17E02:
+        file_poster: /home/durmonator/posters/American Dad/S17E02.webp
+      S17E03:
+        file_poster: /home/durmonator/posters/American Dad/S17E03.webp
+      S17E04:
+        file_poster: /home/durmonator/posters/American Dad/S17E04.webp
+      S17E05:
+        file_poster: /home/durmonator/posters/American Dad/S17E05.webp
+      S17E06:
+        file_poster: /home/durmonator/posters/American Dad/S17E06.webp
+      S17E07:
+        file_poster: /home/durmonator/posters/American Dad/S17E07.webp
+      S17E08:
+        file_poster: /home/durmonator/posters/American Dad/S17E08.webp
+      S17E09:
+        file_poster: /home/durmonator/posters/American Dad/S17E09.webp
+      S17E10:
+        file_poster: /home/durmonator/posters/American Dad/S17E10.webp
+      S17E11:
+        file_poster: /home/durmonator/posters/American Dad/S17E11.webp
+      S17E12:
+        file_poster: /home/durmonator/posters/American Dad/S17E12.webp
+      S17E13:
+        file_poster: /home/durmonator/posters/American Dad/S17E13.webp
+      S17E14:
+        file_poster: /home/durmonator/posters/American Dad/S17E14.webp
+      S17E15:
+        file_poster: /home/durmonator/posters/American Dad/S17E15.webp
+      S17E16:
+        file_poster: /home/durmonator/posters/American Dad/S17E16.webp
+      S17E17:
+        file_poster: /home/durmonator/posters/American Dad/S17E17.webp
+      S17E18:
+        file_poster: /home/durmonator/posters/American Dad/S17E18.webp
+      S17E19:
+        file_poster: /home/durmonator/posters/American Dad/S17E19.webp
+      S17E20:
+        file_poster: /home/durmonator/posters/American Dad/S17E20.webp
+      S17E21:
+        file_poster: /home/durmonator/posters/American Dad/S17E21.webp
+      S17E22:
+        file_poster: /home/durmonator/posters/American Dad/S17E22.webp
+      S17E23:
+        file_poster: /home/durmonator/posters/American Dad/S17E23.webp
+      S17E24:
+        file_poster: /home/durmonator/posters/American Dad/S17E24.webp
+      S18E01:
+        file_poster: /home/durmonator/posters/American Dad/S18E01.webp
+      S18E02:
+        file_poster: /home/durmonator/posters/American Dad/S18E02.webp
+      S18E03:
+        file_poster: /home/durmonator/posters/American Dad/S18E03.webp
+      S18E04:
+        file_poster: /home/durmonator/posters/American Dad/S18E04.webp
+      S18E05:
+        file_poster: /home/durmonator/posters/American Dad/S18E05.webp
+      S18E06:
+        file_poster: /home/durmonator/posters/American Dad/S18E06.webp
+      S18E07:
+        file_poster: /home/durmonator/posters/American Dad/S18E07.webp
+      S18E08:
+        file_poster: /home/durmonator/posters/American Dad/S18E08.webp
+      S18E09:
+        file_poster: /home/durmonator/posters/American Dad/S18E09.webp
+      S18E10:
+        file_poster: /home/durmonator/posters/American Dad/S18E10.webp
+      S18E11:
+        file_poster: /home/durmonator/posters/American Dad/S18E11.webp
+      S18E12:
+        file_poster: /home/durmonator/posters/American Dad/S18E12.webp
+      S18E13:
+        file_poster: /home/durmonator/posters/American Dad/S18E13.webp
+      S18E14:
+        file_poster: /home/durmonator/posters/American Dad/S18E14.webp
+      S18E15:
+        file_poster: /home/durmonator/posters/American Dad/S18E15.webp
+      S18E16:
+        file_poster: /home/durmonator/posters/American Dad/S18E16.webp
+      S18E17:
+        file_poster: /home/durmonator/posters/American Dad/S18E17.webp
+      S18E18:
+        file_poster: /home/durmonator/posters/American Dad/S18E18.webp
+      S18E19:
+        file_poster: /home/durmonator/posters/American Dad/S18E19.webp
+      S18E20:
+        file_poster: /home/durmonator/posters/American Dad/S18E20.webp
+      S18E21:
+        file_poster: /home/durmonator/posters/American Dad/S18E21.webp
+      S18E22:
+        file_poster: /home/durmonator/posters/American Dad/S18E22.webp
+      S19E01:
+        file_poster: /home/durmonator/posters/American Dad/S19E01.webp
+      S19E02:
+        file_poster: /home/durmonator/posters/American Dad/S19E02.webp
+      S19E03:
+        file_poster: /home/durmonator/posters/American Dad/S19E03.webp
+      S19E04:
+        file_poster: /home/durmonator/posters/American Dad/S19E04.webp
+      S19E05:
+        file_poster: /home/durmonator/posters/American Dad/S19E05.webp
+      S19E06:
+        file_poster: /home/durmonator/posters/American Dad/S19E06.webp
+      S19E07:
+        file_poster: /home/durmonator/posters/American Dad/S19E07.webp
+      S19E08:
+        file_poster: /home/durmonator/posters/American Dad/S19E08.webp
+  American Horror Story:
+    file_background: /home/durmonator/posters/American Horror Story/background.webp
+    file_poster: /home/durmonator/posters/American Horror Story/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/American Horror Story/S01.webp
+        title: "Murder House"
+      2:
+        file_poster: /home/durmonator/posters/American Horror Story/S02.webp
+        title: "Asylum"
+      3:
+        file_poster: /home/durmonator/posters/American Horror Story/S03.webp
+        title: "Coven"
+      4:
+        file_poster: /home/durmonator/posters/American Horror Story/S04.webp
+        title: "Freak Show"
+      5:
+        file_poster: /home/durmonator/posters/American Horror Story/S05.webp
+        title: "Hotel"
+      6:
+        file_poster: /home/durmonator/posters/American Horror Story/S06.webp
+        title: "Roanoke"
+      7:
+        file_poster: /home/durmonator/posters/American Horror Story/S07.webp
+        title: "Cult"
+      8:
+        file_poster: /home/durmonator/posters/American Horror Story/S08.webp
+        title: "Apocalypse"
+      9:
+        file_poster: /home/durmonator/posters/American Horror Story/S09.webp
+        title: "1984"
+      10:
+        file_poster: /home/durmonator/posters/American Horror Story/S10.webp
+        title: "Double Feature"
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/American Horror Story/S01E12.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/American Horror Story/S02E13.webp
+      S03E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E01.webp
+      S03E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E02.webp
+      S03E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E03.webp
+      S03E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E04.webp
+      S03E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E05.webp
+      S03E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E06.webp
+      S03E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E07.webp
+      S03E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E08.webp
+      S03E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E09.webp
+      S03E10:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E10.webp
+      S03E11:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E11.webp
+      S03E12:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E12.webp
+      S03E13:
+        file_poster: /home/durmonator/posters/American Horror Story/S03E13.webp
+      S04E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E01.webp
+      S04E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E02.webp
+      S04E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E03.webp
+      S04E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E04.webp
+      S04E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E05.webp
+      S04E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E06.webp
+      S04E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E07.webp
+      S04E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E08.webp
+      S04E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E09.webp
+      S04E10:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E10.webp
+      S04E11:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E11.webp
+      S04E12:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E12.webp
+      S04E13:
+        file_poster: /home/durmonator/posters/American Horror Story/S04E13.webp
+      S05E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E01.webp
+      S05E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E02.webp
+      S05E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E03.webp
+      S05E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E04.webp
+      S05E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E05.webp
+      S05E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E06.webp
+      S05E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E07.webp
+      S05E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E08.webp
+      S05E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E09.webp
+      S05E10:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E10.webp
+      S05E11:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E11.webp
+      S05E12:
+        file_poster: /home/durmonator/posters/American Horror Story/S05E12.webp
+      S06E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E01.webp
+      S06E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E02.webp
+      S06E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E03.webp
+      S06E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E04.webp
+      S06E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E05.webp
+      S06E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E06.webp
+      S06E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E07.webp
+      S06E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E08.webp
+      S06E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E09.webp
+      S06E10:
+        file_poster: /home/durmonator/posters/American Horror Story/S06E10.webp
+      S07E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E01.webp
+      S07E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E02.webp
+      S07E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E03.webp
+      S07E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E04.webp
+      S07E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E05.webp
+      S07E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E06.webp
+      S07E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E07.webp
+      S07E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E08.webp
+      S07E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E09.webp
+      S07E10:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E10.webp
+      S07E11:
+        file_poster: /home/durmonator/posters/American Horror Story/S07E11.webp
+      S08E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E01.webp
+      S08E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E02.webp
+      S08E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E03.webp
+      S08E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E04.webp
+      S08E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E05.webp
+      S08E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E06.webp
+      S08E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E07.webp
+      S08E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E08.webp
+      S08E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E09.webp
+      S08E10:
+        file_poster: /home/durmonator/posters/American Horror Story/S08E10.webp
+      S09E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S09E01.webp
+      S09E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S09E02.webp
+      S09E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S09E03.webp
+      S09E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S09E04.webp
+      S09E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S09E05.webp
+      S09E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S09E06.webp
+      S09E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S09E07.webp
+      S09E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S09E08.webp
+      S09E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S09E09.webp
+      S10E01:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E01.webp
+      S10E02:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E02.webp
+      S10E03:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E03.webp
+      S10E04:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E04.webp
+      S10E05:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E05.webp
+      S10E06:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E06.webp
+      S10E07:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E07.webp
+      S10E08:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E08.webp
+      S10E09:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E09.webp
+      S10E10:
+        file_poster: /home/durmonator/posters/American Horror Story/S10E10.webp
+  Batwoman:
+    file_poster: /home/durmonator/posters/Batwoman/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Batwoman/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Batwoman/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/Batwoman/S03.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Batwoman/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Batwoman/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Batwoman/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Batwoman/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Batwoman/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Batwoman/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Batwoman/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/Batwoman/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/Batwoman/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/Batwoman/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/Batwoman/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/Batwoman/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/Batwoman/S01E13.webp
+      S01E14:
+        file_poster: /home/durmonator/posters/Batwoman/S01E14.webp
+      S01E15:
+        file_poster: /home/durmonator/posters/Batwoman/S01E15.webp
+      S01E16:
+        file_poster: /home/durmonator/posters/Batwoman/S01E16.webp
+      S01E17:
+        file_poster: /home/durmonator/posters/Batwoman/S01E17.webp
+      S01E18:
+        file_poster: /home/durmonator/posters/Batwoman/S01E18.webp
+      S01E19:
+        file_poster: /home/durmonator/posters/Batwoman/S01E19.webp
+      S01E20:
+        file_poster: /home/durmonator/posters/Batwoman/S01E20.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/Batwoman/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/Batwoman/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/Batwoman/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/Batwoman/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/Batwoman/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/Batwoman/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/Batwoman/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/Batwoman/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/Batwoman/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/Batwoman/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/Batwoman/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/Batwoman/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/Batwoman/S02E13.webp
+      S02E14:
+        file_poster: /home/durmonator/posters/Batwoman/S02E14.webp
+      S02E15:
+        file_poster: /home/durmonator/posters/Batwoman/S02E15.webp
+      S02E16:
+        file_poster: /home/durmonator/posters/Batwoman/S02E16.webp
+      S02E17:
+        file_poster: /home/durmonator/posters/Batwoman/S02E17.webp
+      S02E18:
+        file_poster: /home/durmonator/posters/Batwoman/S02E18.webp
+  The Book of Boba Fett:
+    file_poster: /home/durmonator/posters/The Book of Boba Fett/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/The Book of Boba Fett/S01.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/The Book of Boba Fett/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/The Book of Boba Fett/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/The Book of Boba Fett/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/The Book of Boba Fett/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/The Book of Boba Fett/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/The Book of Boba Fett/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/The Book of Boba Fett/S01E07.webp
+  City on a Hill:
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/City on a Hill/S01E10.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/City on a Hill/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/City on a Hill/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/City on a Hill/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/City on a Hill/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/City on a Hill/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/City on a Hill/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/City on a Hill/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/City on a Hill/S02E08.webp
+  The Cleaner (2021):
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/The Cleaner/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/The Cleaner/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/The Cleaner/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/The Cleaner/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/The Cleaner/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/The Cleaner/S01E06.webp
+  Clarice:
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Clarice/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Clarice/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Clarice/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Clarice/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Clarice/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Clarice/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Clarice/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/Clarice/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/Clarice/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/Clarice/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/Clarice/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/Clarice/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/Clarice/S01E13.webp
+  "DC's Legends of Tomorrow":
+    file_poster: /home/durmonator/posters/Legends of Tomorrow/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03.webp
+      4:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04.webp
+      5:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05.webp
+      6:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06.webp
+      7:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S07.webp
+      0:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S00.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E13.webp
+      S01E14:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E14.webp
+      S01E15:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E15.webp
+      S01E16:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S01E16.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E13.webp
+      S02E14:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E14.webp
+      S02E15:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E15.webp
+      S02E16:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E16.webp
+      S02E17:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S02E17.webp
+      S03E01:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E01.webp
+      S03E02:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E02.webp
+      S03E03:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E03.webp
+      S03E04:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E04.webp
+      S03E05:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E05.webp
+      S03E06:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E06.webp
+      S03E07:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E07.webp
+      S03E08:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E08.webp
+      S03E09:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E09.webp
+      S03E10:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E10.webp
+      S03E11:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E11.webp
+      S03E12:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E12.webp
+      S03E13:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E13.webp
+      S03E14:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E14.webp
+      S03E15:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E15.webp
+      S03E16:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E16.webp
+      S03E17:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E17.webp
+      S03E18:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S03E18.webp
+      S04E01:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E01.webp
+      S04E02:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E02.webp
+      S04E03:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E03.webp
+      S04E04:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E04.webp
+      S04E05:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E05.webp
+      S04E06:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E06.webp
+      S04E07:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E07.webp
+      S04E08:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E08.webp
+      S04E09:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E09.webp
+      S04E10:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E10.webp
+      S04E11:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E11.webp
+      S04E12:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E12.webp
+      S04E13:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E13.webp
+      S04E14:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E14.webp
+      S04E15:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E15.webp
+      S04E16:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S04E16.webp
+      S05E01:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E01.webp
+      S05E02:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E02.webp
+      S05E03:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E03.webp
+      S05E04:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E04.webp
+      S05E05:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E05.webp
+      S05E06:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E06.webp
+      S05E07:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E07.webp
+      S05E08:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E08.webp
+      S05E09:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E09.webp
+      S05E10:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E10.webp
+      S05E11:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E11.webp
+      S05E12:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E12.webp
+      S05E13:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E13.webp
+      S05E14:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E14.webp
+      S05E15:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S05E15.webp
+      S06E01:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E01.webp
+      S06E02:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E02.webp
+      S06E03:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E03.webp
+      S06E04:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E04.webp
+      S06E05:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E05.webp
+      S06E06:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E06.webp
+      S06E07:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E07.webp
+      S06E08:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E08.webp
+      S06E09:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E09.webp
+      S06E10:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E10.webp
+      S06E11:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E11.webp
+      S06E12:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E12.webp
+      S06E13:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E13.webp
+      S06E14:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E14.webp
+      S06E15:
+        file_poster: /home/durmonator/posters/Legends of Tomorrow/S06E15.webp
+  Doctor Who (2005):
+    file_poster: /home/durmonator/posters/Doctor Who (2005)/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03.webp
+      4:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04.webp
+      5:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05.webp
+      6:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06.webp
+      7:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07.webp
+      8:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08.webp
+      9:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09.webp
+      10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10.webp
+      11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11.webp
+      12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12.webp
+      0:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S01E13.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S02E13.webp
+      S03E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E01.webp
+      S03E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E02.webp
+      S03E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E03.webp
+      S03E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E04.webp
+      S03E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E05.webp
+      S03E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E06.webp
+      S03E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E07.webp
+      S03E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E08.webp
+      S03E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E09.webp
+      S03E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E10.webp
+      S03E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E11.webp
+      S03E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E12.webp
+      S03E13:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S03E13.webp
+      S04E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E01.webp
+      S04E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E02.webp
+      S04E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E03.webp
+      S04E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E04.webp
+      S04E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E05.webp
+      S04E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E06.webp
+      S04E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E07.webp
+      S04E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E08.webp
+      S04E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E09.webp
+      S04E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E10.webp
+      S04E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E11.webp
+      S04E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E12.webp
+      S04E13:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S04E13.webp
+      S05E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E01.webp
+      S05E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E02.webp
+      S05E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E03.webp
+      S05E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E04.webp
+      S05E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E05.webp
+      S05E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E06.webp
+      S05E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E07.webp
+      S05E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E08.webp
+      S05E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E09.webp
+      S05E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E10.webp
+      S05E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E11.webp
+      S05E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E12.webp
+      S05E13:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S05E13.webp
+      S06E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E01.webp
+      S06E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E02.webp
+      S06E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E03.webp
+      S06E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E04.webp
+      S06E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E05.webp
+      S06E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E06.webp
+      S06E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E07.webp
+      S06E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E08.webp
+      S06E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E09.webp
+      S06E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E10.webp
+      S06E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E11.webp
+      S06E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E12.webp
+      S06E13:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S06E13.webp
+      S07E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E01.webp
+      S07E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E02.webp
+      S07E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E03.webp
+      S07E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E04.webp
+      S07E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E05.webp
+      S07E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E06.webp
+      S07E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E07.webp
+      S07E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E08.webp
+      S07E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E09.webp
+      S07E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E10.webp
+      S07E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E11.webp
+      S07E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E12.webp
+      S07E13:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S07E13.webp
+      S08E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E01.webp
+      S08E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E02.webp
+      S08E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E03.webp
+      S08E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E04.webp
+      S08E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E05.webp
+      S08E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E06.webp
+      S08E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E07.webp
+      S08E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E08.webp
+      S08E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E09.webp
+      S08E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E10.webp
+      S08E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E11.webp
+      S08E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S08E12.webp
+      S09E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E01.webp
+      S09E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E02.webp
+      S09E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E03.webp
+      S09E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E04.webp
+      S09E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E05.webp
+      S09E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E06.webp
+      S09E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E07.webp
+      S09E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E08.webp
+      S09E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E09.webp
+      S09E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E10.webp
+      S09E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E11.webp
+      S09E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S09E12.webp
+      S10E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E01.webp
+      S10E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E02.webp
+      S10E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E03.webp
+      S10E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E04.webp
+      S10E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E05.webp
+      S10E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E06.webp
+      S10E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E07.webp
+      S10E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E08.webp
+      S10E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E09.webp
+      S10E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E10.webp
+      S10E11:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E11.webp
+      S10E12:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S10E12.webp
+      S11E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E01.webp
+      S11E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E02.webp
+      S11E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E03.webp
+      S11E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E04.webp
+      S11E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E05.webp
+      S11E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E06.webp
+      S11E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E07.webp
+      S11E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E08.webp
+      S11E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E09.webp
+      S11E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S11E10.webp
+      S12E01:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E01.webp
+      S12E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E02.webp
+      S12E03:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E03.webp
+      S12E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E04.webp
+      S12E05:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E05.webp
+      S12E06:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E06.webp
+      S12E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E07.webp
+      S12E08:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E08.webp
+      S12E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E09.webp
+      S12E10:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S12E10.webp
+      S00E02:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E02.webp
+      S00E04:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E04.webp
+      S00E07:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E07.webp
+      S00E09:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E09.webp
+      S00E13:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E13.webp
+      S00E14:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E14.webp
+      S00E16:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E16.webp
+      S00E17:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E17.webp
+      S00E34:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E34.webp
+      S00E48:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E48.webp
+      S00E66:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E66.webp
+      S00E83:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E83.webp
+      S00E84:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E84.webp
+      S00E142:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E142.webp
+      S00E148:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E148.webp
+      S00E149:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E149.webp
+      S00E154:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E154.webp
+      S00E156:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E156.webp
+      S00E157:
+        file_poster: /home/durmonator/posters/Doctor Who (2005)/S00E157.webp
+  The Falcon and the Winter Soldier:
+    file_poster: /home/durmonator/posters/The Falcon and the Winter Soldier/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/The Falcon and the Winter Soldier/S01.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/The Falcon and the Winter Soldier/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/The Falcon and the Winter Soldier/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/The Falcon and the Winter Soldier/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/The Falcon and the Winter Soldier/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/The Falcon and the Winter Soldier/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/The Falcon and the Winter Soldier/S01E06.webp
+  Family Guy:
+    file_poster: /home/durmonator/posters/Family Guy/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Family Guy/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Family Guy/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/Family Guy/S03.webp
+      4:
+        file_poster: /home/durmonator/posters/Family Guy/S04.webp
+      5:
+        file_poster: /home/durmonator/posters/Family Guy/S05.webp
+      6:
+        file_poster: /home/durmonator/posters/Family Guy/S06.webp
+      7:
+        file_poster: /home/durmonator/posters/Family Guy/S07.webp
+      8:
+        file_poster: /home/durmonator/posters/Family Guy/S08.webp
+      9:
+        file_poster: /home/durmonator/posters/Family Guy/S09.webp
+      10:
+        file_poster: /home/durmonator/posters/Family Guy/S10.webp
+      11:
+        file_poster: /home/durmonator/posters/Family Guy/S11.webp
+      12:
+        file_poster: /home/durmonator/posters/Family Guy/S12.webp
+      13:
+        file_poster: /home/durmonator/posters/Family Guy/S13.webp
+      14:
+        file_poster: /home/durmonator/posters/Family Guy/S14.webp
+      15:
+        file_poster: /home/durmonator/posters/Family Guy/S15.webp
+      16:
+        file_poster: /home/durmonator/posters/Family Guy/S16.webp
+      17:
+        file_poster: /home/durmonator/posters/Family Guy/S17.webp
+      18:
+        file_poster: /home/durmonator/posters/Family Guy/S18.webp
+      19:
+        file_poster: /home/durmonator/posters/Family Guy/S19.webp
+      20:
+        file_poster: /home/durmonator/posters/Family Guy/S20.webp
+      21:
+        file_poster: /home/durmonator/posters/Family Guy/S21.webp
+      0:
+        file_poster: /home/durmonator/posters/Family Guy/S00.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Family Guy/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Family Guy/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Family Guy/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Family Guy/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Family Guy/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Family Guy/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Family Guy/S01E07.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/Family Guy/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/Family Guy/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/Family Guy/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/Family Guy/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/Family Guy/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/Family Guy/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/Family Guy/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/Family Guy/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/Family Guy/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/Family Guy/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/Family Guy/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/Family Guy/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/Family Guy/S02E13.webp
+      S02E14:
+        file_poster: /home/durmonator/posters/Family Guy/S02E14.webp
+      S02E15:
+        file_poster: /home/durmonator/posters/Family Guy/S02E15.webp
+      S02E16:
+        file_poster: /home/durmonator/posters/Family Guy/S02E16.webp
+      S02E17:
+        file_poster: /home/durmonator/posters/Family Guy/S02E17.webp
+      S02E18:
+        file_poster: /home/durmonator/posters/Family Guy/S02E18.webp
+      S02E19:
+        file_poster: /home/durmonator/posters/Family Guy/S02E19.webp
+      S02E20:
+        file_poster: /home/durmonator/posters/Family Guy/S02E20.webp
+      S02E21:
+        file_poster: /home/durmonator/posters/Family Guy/S02E21.webp
+      S03E01:
+        file_poster: /home/durmonator/posters/Family Guy/S03E01.webp
+      S03E02:
+        file_poster: /home/durmonator/posters/Family Guy/S03E02.webp
+      S03E03:
+        file_poster: /home/durmonator/posters/Family Guy/S03E03.webp
+      S03E04:
+        file_poster: /home/durmonator/posters/Family Guy/S03E04.webp
+      S03E05:
+        file_poster: /home/durmonator/posters/Family Guy/S03E05.webp
+      S03E06:
+        file_poster: /home/durmonator/posters/Family Guy/S03E06.webp
+      S03E07:
+        file_poster: /home/durmonator/posters/Family Guy/S03E07.webp
+      S03E08:
+        file_poster: /home/durmonator/posters/Family Guy/S03E08.webp
+      S03E09:
+        file_poster: /home/durmonator/posters/Family Guy/S03E09.webp
+      S03E10:
+        file_poster: /home/durmonator/posters/Family Guy/S03E10.webp
+      S03E11:
+        file_poster: /home/durmonator/posters/Family Guy/S03E11.webp
+      S03E12:
+        file_poster: /home/durmonator/posters/Family Guy/S03E12.webp
+      S03E13:
+        file_poster: /home/durmonator/posters/Family Guy/S03E13.webp
+      S03E14:
+        file_poster: /home/durmonator/posters/Family Guy/S03E14.webp
+      S03E15:
+        file_poster: /home/durmonator/posters/Family Guy/S03E15.webp
+      S03E16:
+        file_poster: /home/durmonator/posters/Family Guy/S03E16.webp
+      S03E17:
+        file_poster: /home/durmonator/posters/Family Guy/S03E17.webp
+      S03E18:
+        file_poster: /home/durmonator/posters/Family Guy/S03E18.webp
+      S03E19:
+        file_poster: /home/durmonator/posters/Family Guy/S03E19.webp
+      S03E20:
+        file_poster: /home/durmonator/posters/Family Guy/S03E20.webp
+      S03E21:
+        file_poster: /home/durmonator/posters/Family Guy/S03E21.webp
+      S03E22:
+        file_poster: /home/durmonator/posters/Family Guy/S03E22.webp
+      S04E01:
+        file_poster: /home/durmonator/posters/Family Guy/S04E01.webp
+      S04E02:
+        file_poster: /home/durmonator/posters/Family Guy/S04E02.webp
+      S04E03:
+        file_poster: /home/durmonator/posters/Family Guy/S04E03.webp
+      S04E04:
+        file_poster: /home/durmonator/posters/Family Guy/S04E04.webp
+      S04E05:
+        file_poster: /home/durmonator/posters/Family Guy/S04E05.webp
+      S04E06:
+        file_poster: /home/durmonator/posters/Family Guy/S04E06.webp
+      S04E07:
+        file_poster: /home/durmonator/posters/Family Guy/S04E07.webp
+      S04E08:
+        file_poster: /home/durmonator/posters/Family Guy/S04E08.webp
+      S04E09:
+        file_poster: /home/durmonator/posters/Family Guy/S04E09.webp
+      S04E10:
+        file_poster: /home/durmonator/posters/Family Guy/S04E10.webp
+      S04E11:
+        file_poster: /home/durmonator/posters/Family Guy/S04E11.webp
+      S04E12:
+        file_poster: /home/durmonator/posters/Family Guy/S04E12.webp
+      S04E13:
+        file_poster: /home/durmonator/posters/Family Guy/S04E13.webp
+      S04E14:
+        file_poster: /home/durmonator/posters/Family Guy/S04E14.webp
+      S04E15:
+        file_poster: /home/durmonator/posters/Family Guy/S04E15.webp
+      S04E16:
+        file_poster: /home/durmonator/posters/Family Guy/S04E16.webp
+      S04E17:
+        file_poster: /home/durmonator/posters/Family Guy/S04E17.webp
+      S04E18:
+        file_poster: /home/durmonator/posters/Family Guy/S04E18.webp
+      S04E19:
+        file_poster: /home/durmonator/posters/Family Guy/S04E19.webp
+      S04E20:
+        file_poster: /home/durmonator/posters/Family Guy/S04E20.webp
+      S04E21:
+        file_poster: /home/durmonator/posters/Family Guy/S04E21.webp
+      S04E22:
+        file_poster: /home/durmonator/posters/Family Guy/S04E22.webp
+      S04E23:
+        file_poster: /home/durmonator/posters/Family Guy/S04E23.webp
+      S04E24:
+        file_poster: /home/durmonator/posters/Family Guy/S04E24.webp
+      S04E25:
+        file_poster: /home/durmonator/posters/Family Guy/S04E25.webp
+      S04E26:
+        file_poster: /home/durmonator/posters/Family Guy/S04E26.webp
+      S04E27:
+        file_poster: /home/durmonator/posters/Family Guy/S04E27.webp
+      S04E28:
+        file_poster: /home/durmonator/posters/Family Guy/S04E28.webp
+      S05E01:
+        file_poster: /home/durmonator/posters/Family Guy/S05E01.webp
+      S05E02:
+        file_poster: /home/durmonator/posters/Family Guy/S05E02.webp
+      S05E03:
+        file_poster: /home/durmonator/posters/Family Guy/S05E03.webp
+      S05E04:
+        file_poster: /home/durmonator/posters/Family Guy/S05E04.webp
+      S05E05:
+        file_poster: /home/durmonator/posters/Family Guy/S05E05.webp
+      S05E06:
+        file_poster: /home/durmonator/posters/Family Guy/S05E06.webp
+      S05E07:
+        file_poster: /home/durmonator/posters/Family Guy/S05E07.webp
+      S05E08:
+        file_poster: /home/durmonator/posters/Family Guy/S05E08.webp
+      S05E09:
+        file_poster: /home/durmonator/posters/Family Guy/S05E09.webp
+      S05E10:
+        file_poster: /home/durmonator/posters/Family Guy/S05E10.webp
+      S05E11:
+        file_poster: /home/durmonator/posters/Family Guy/S05E11.webp
+      S05E12:
+        file_poster: /home/durmonator/posters/Family Guy/S05E12.webp
+      S05E13:
+        file_poster: /home/durmonator/posters/Family Guy/S05E13.webp
+      S05E14:
+        file_poster: /home/durmonator/posters/Family Guy/S05E14.webp
+      S05E15:
+        file_poster: /home/durmonator/posters/Family Guy/S05E15.webp
+      S05E16:
+        file_poster: /home/durmonator/posters/Family Guy/S05E16.webp
+      S05E17:
+        file_poster: /home/durmonator/posters/Family Guy/S05E17.webp
+      S05E18:
+        file_poster: /home/durmonator/posters/Family Guy/S05E18.webp
+      S06E01:
+        file_poster: /home/durmonator/posters/Family Guy/S06E01.webp
+      S06E02:
+        file_poster: /home/durmonator/posters/Family Guy/S06E02.webp
+      S06E03:
+        file_poster: /home/durmonator/posters/Family Guy/S06E03.webp
+      S06E04:
+        file_poster: /home/durmonator/posters/Family Guy/S06E04.webp
+      S06E05:
+        file_poster: /home/durmonator/posters/Family Guy/S06E05.webp
+      S06E06:
+        file_poster: /home/durmonator/posters/Family Guy/S06E06.webp
+      S06E07:
+        file_poster: /home/durmonator/posters/Family Guy/S06E07.webp
+      S06E08:
+        file_poster: /home/durmonator/posters/Family Guy/S06E08.webp
+      S06E09:
+        file_poster: /home/durmonator/posters/Family Guy/S06E09.webp
+      S06E10:
+        file_poster: /home/durmonator/posters/Family Guy/S06E10.webp
+      S06E11:
+        file_poster: /home/durmonator/posters/Family Guy/S06E11.webp
+      S06E12:
+        file_poster: /home/durmonator/posters/Family Guy/S06E12.webp
+      S07E01:
+        file_poster: /home/durmonator/posters/Family Guy/S07E01.webp
+      S07E02:
+        file_poster: /home/durmonator/posters/Family Guy/S07E02.webp
+      S07E03:
+        file_poster: /home/durmonator/posters/Family Guy/S07E03.webp
+      S07E04:
+        file_poster: /home/durmonator/posters/Family Guy/S07E04.webp
+      S07E05:
+        file_poster: /home/durmonator/posters/Family Guy/S07E05.webp
+      S07E06:
+        file_poster: /home/durmonator/posters/Family Guy/S07E06.webp
+      S07E07:
+        file_poster: /home/durmonator/posters/Family Guy/S07E07.webp
+      S07E08:
+        file_poster: /home/durmonator/posters/Family Guy/S07E08.webp
+      S07E09:
+        file_poster: /home/durmonator/posters/Family Guy/S07E09.webp
+      S07E10:
+        file_poster: /home/durmonator/posters/Family Guy/S07E10.webp
+      S07E11:
+        file_poster: /home/durmonator/posters/Family Guy/S07E11.webp
+      S07E12:
+        file_poster: /home/durmonator/posters/Family Guy/S07E12.webp
+      S07E13:
+        file_poster: /home/durmonator/posters/Family Guy/S07E13.webp
+      S07E14:
+        file_poster: /home/durmonator/posters/Family Guy/S07E14.webp
+      S07E15:
+        file_poster: /home/durmonator/posters/Family Guy/S07E15.webp
+      S07E16:
+        file_poster: /home/durmonator/posters/Family Guy/S07E16.webp
+      S08E01:
+        file_poster: /home/durmonator/posters/Family Guy/S08E01.webp
+      S08E02:
+        file_poster: /home/durmonator/posters/Family Guy/S08E02.webp
+      S08E03:
+        file_poster: /home/durmonator/posters/Family Guy/S08E03.webp
+      S08E04:
+        file_poster: /home/durmonator/posters/Family Guy/S08E04.webp
+      S08E05:
+        file_poster: /home/durmonator/posters/Family Guy/S08E05.webp
+      S08E06:
+        file_poster: /home/durmonator/posters/Family Guy/S08E06.webp
+      S08E07:
+        file_poster: /home/durmonator/posters/Family Guy/S08E07.webp
+      S08E08:
+        file_poster: /home/durmonator/posters/Family Guy/S08E08.webp
+      S08E09:
+        file_poster: /home/durmonator/posters/Family Guy/S08E09.webp
+      S08E10:
+        file_poster: /home/durmonator/posters/Family Guy/S08E10.webp
+      S08E11:
+        file_poster: /home/durmonator/posters/Family Guy/S08E11.webp
+      S08E12:
+        file_poster: /home/durmonator/posters/Family Guy/S08E12.webp
+      S08E13:
+        file_poster: /home/durmonator/posters/Family Guy/S08E13.webp
+      S08E14:
+        file_poster: /home/durmonator/posters/Family Guy/S08E14.webp
+      S08E15:
+        file_poster: /home/durmonator/posters/Family Guy/S08E15.webp
+      S08E16:
+        file_poster: /home/durmonator/posters/Family Guy/S08E16.webp
+      S08E17:
+        file_poster: /home/durmonator/posters/Family Guy/S08E17.webp
+      S08E18:
+        file_poster: /home/durmonator/posters/Family Guy/S08E18.webp
+      S08E19:
+        file_poster: /home/durmonator/posters/Family Guy/S08E19.webp
+      S08E20:
+        file_poster: /home/durmonator/posters/Family Guy/S08E20.webp
+      S08E21:
+        file_poster: /home/durmonator/posters/Family Guy/S08E21.webp
+      S09E01:
+        file_poster: /home/durmonator/posters/Family Guy/S09E01.webp
+      S09E02:
+        file_poster: /home/durmonator/posters/Family Guy/S09E02.webp
+      S09E03:
+        file_poster: /home/durmonator/posters/Family Guy/S09E03.webp
+      S09E04:
+        file_poster: /home/durmonator/posters/Family Guy/S09E04.webp
+      S09E05:
+        file_poster: /home/durmonator/posters/Family Guy/S09E05.webp
+      S09E06:
+        file_poster: /home/durmonator/posters/Family Guy/S09E06.webp
+      S09E07:
+        file_poster: /home/durmonator/posters/Family Guy/S09E07.webp
+      S09E08:
+        file_poster: /home/durmonator/posters/Family Guy/S09E08.webp
+      S09E09:
+        file_poster: /home/durmonator/posters/Family Guy/S09E09.webp
+      S09E10:
+        file_poster: /home/durmonator/posters/Family Guy/S09E10.webp
+      S09E11:
+        file_poster: /home/durmonator/posters/Family Guy/S09E11.webp
+      S09E12:
+        file_poster: /home/durmonator/posters/Family Guy/S09E12.webp
+      S09E13:
+        file_poster: /home/durmonator/posters/Family Guy/S09E13.webp
+      S09E14:
+        file_poster: /home/durmonator/posters/Family Guy/S09E14.webp
+      S09E15:
+        file_poster: /home/durmonator/posters/Family Guy/S09E15.webp
+      S09E16:
+        file_poster: /home/durmonator/posters/Family Guy/S09E16.webp
+      S09E17:
+        file_poster: /home/durmonator/posters/Family Guy/S09E17.webp
+      S09E18:
+        file_poster: /home/durmonator/posters/Family Guy/S09E18.webp
+      S10E01:
+        file_poster: /home/durmonator/posters/Family Guy/S10E01.webp
+      S10E02:
+        file_poster: /home/durmonator/posters/Family Guy/S10E02.webp
+      S10E03:
+        file_poster: /home/durmonator/posters/Family Guy/S10E03.webp
+      S10E04:
+        file_poster: /home/durmonator/posters/Family Guy/S10E04.webp
+      S10E05:
+        file_poster: /home/durmonator/posters/Family Guy/S10E05.webp
+      S10E06:
+        file_poster: /home/durmonator/posters/Family Guy/S10E06.webp
+      S10E07:
+        file_poster: /home/durmonator/posters/Family Guy/S10E07.webp
+      S10E08:
+        file_poster: /home/durmonator/posters/Family Guy/S10E08.webp
+      S10E09:
+        file_poster: /home/durmonator/posters/Family Guy/S10E09.webp
+      S10E10:
+        file_poster: /home/durmonator/posters/Family Guy/S10E10.webp
+      S10E11:
+        file_poster: /home/durmonator/posters/Family Guy/S10E11.webp
+      S10E12:
+        file_poster: /home/durmonator/posters/Family Guy/S10E12.webp
+      S10E13:
+        file_poster: /home/durmonator/posters/Family Guy/S10E13.webp
+      S10E14:
+        file_poster: /home/durmonator/posters/Family Guy/S10E14.webp
+      S10E15:
+        file_poster: /home/durmonator/posters/Family Guy/S10E15.webp
+      S10E16:
+        file_poster: /home/durmonator/posters/Family Guy/S10E16.webp
+      S10E17:
+        file_poster: /home/durmonator/posters/Family Guy/S10E17.webp
+      S10E18:
+        file_poster: /home/durmonator/posters/Family Guy/S10E18.webp
+      S10E19:
+        file_poster: /home/durmonator/posters/Family Guy/S10E19.webp
+      S10E20:
+        file_poster: /home/durmonator/posters/Family Guy/S10E20.webp
+      S10E21:
+        file_poster: /home/durmonator/posters/Family Guy/S10E21.webp
+      S10E22:
+        file_poster: /home/durmonator/posters/Family Guy/S10E22.webp
+      S10E23:
+        file_poster: /home/durmonator/posters/Family Guy/S10E23.webp
+      S11E01:
+        file_poster: /home/durmonator/posters/Family Guy/S11E01.webp
+      S11E02:
+        file_poster: /home/durmonator/posters/Family Guy/S11E02.webp
+      S11E03:
+        file_poster: /home/durmonator/posters/Family Guy/S11E03.webp
+      S11E04:
+        file_poster: /home/durmonator/posters/Family Guy/S11E04.webp
+      S11E05:
+        file_poster: /home/durmonator/posters/Family Guy/S11E05.webp
+      S11E06:
+        file_poster: /home/durmonator/posters/Family Guy/S11E06.webp
+      S11E07:
+        file_poster: /home/durmonator/posters/Family Guy/S11E07.webp
+      S11E08:
+        file_poster: /home/durmonator/posters/Family Guy/S11E08.webp
+      S11E09:
+        file_poster: /home/durmonator/posters/Family Guy/S11E09.webp
+      S11E10:
+        file_poster: /home/durmonator/posters/Family Guy/S11E10.webp
+      S11E11:
+        file_poster: /home/durmonator/posters/Family Guy/S11E11.webp
+      S11E12:
+        file_poster: /home/durmonator/posters/Family Guy/S11E12.webp
+      S11E13:
+        file_poster: /home/durmonator/posters/Family Guy/S11E13.webp
+      S11E14:
+        file_poster: /home/durmonator/posters/Family Guy/S11E14.webp
+      S11E15:
+        file_poster: /home/durmonator/posters/Family Guy/S11E15.webp
+      S11E16:
+        file_poster: /home/durmonator/posters/Family Guy/S11E16.webp
+      S11E17:
+        file_poster: /home/durmonator/posters/Family Guy/S11E17.webp
+      S11E18:
+        file_poster: /home/durmonator/posters/Family Guy/S11E18.webp
+      S11E19:
+        file_poster: /home/durmonator/posters/Family Guy/S11E19.webp
+      S11E20:
+        file_poster: /home/durmonator/posters/Family Guy/S11E20.webp
+      S11E21:
+        file_poster: /home/durmonator/posters/Family Guy/S11E21.webp
+      S11E22:
+        file_poster: /home/durmonator/posters/Family Guy/S11E22.webp
+      S12E01:
+        file_poster: /home/durmonator/posters/Family Guy/S12E01.webp
+      S12E02:
+        file_poster: /home/durmonator/posters/Family Guy/S12E02.webp
+      S12E03:
+        file_poster: /home/durmonator/posters/Family Guy/S12E03.webp
+      S12E04:
+        file_poster: /home/durmonator/posters/Family Guy/S12E04.webp
+      S12E05:
+        file_poster: /home/durmonator/posters/Family Guy/S12E05.webp
+      S12E06:
+        file_poster: /home/durmonator/posters/Family Guy/S12E06.webp
+      S12E07:
+        file_poster: /home/durmonator/posters/Family Guy/S12E07.webp
+      S12E08:
+        file_poster: /home/durmonator/posters/Family Guy/S12E08.webp
+      S12E09:
+        file_poster: /home/durmonator/posters/Family Guy/S12E09.webp
+      S12E10:
+        file_poster: /home/durmonator/posters/Family Guy/S12E10.webp
+      S12E11:
+        file_poster: /home/durmonator/posters/Family Guy/S12E11.webp
+      S12E12:
+        file_poster: /home/durmonator/posters/Family Guy/S12E12.webp
+      S12E13:
+        file_poster: /home/durmonator/posters/Family Guy/S12E13.webp
+      S12E14:
+        file_poster: /home/durmonator/posters/Family Guy/S12E14.webp
+      S12E15:
+        file_poster: /home/durmonator/posters/Family Guy/S12E15.webp
+      S12E16:
+        file_poster: /home/durmonator/posters/Family Guy/S12E16.webp
+      S12E17:
+        file_poster: /home/durmonator/posters/Family Guy/S12E17.webp
+      S12E18:
+        file_poster: /home/durmonator/posters/Family Guy/S12E18.webp
+      S12E19:
+        file_poster: /home/durmonator/posters/Family Guy/S12E19.webp
+      S12E20:
+        file_poster: /home/durmonator/posters/Family Guy/S12E20.webp
+      S12E21:
+        file_poster: /home/durmonator/posters/Family Guy/S12E21.webp
+      S13E01:
+        file_poster: /home/durmonator/posters/Family Guy/S13E01.webp
+      S13E02:
+        file_poster: /home/durmonator/posters/Family Guy/S13E02.webp
+      S13E03:
+        file_poster: /home/durmonator/posters/Family Guy/S13E03.webp
+      S13E04:
+        file_poster: /home/durmonator/posters/Family Guy/S13E04.webp
+      S13E05:
+        file_poster: /home/durmonator/posters/Family Guy/S13E05.webp
+      S13E06:
+        file_poster: /home/durmonator/posters/Family Guy/S13E06.webp
+      S13E07:
+        file_poster: /home/durmonator/posters/Family Guy/S13E07.webp
+      S13E08:
+        file_poster: /home/durmonator/posters/Family Guy/S13E08.webp
+      S13E09:
+        file_poster: /home/durmonator/posters/Family Guy/S13E09.webp
+      S13E10:
+        file_poster: /home/durmonator/posters/Family Guy/S13E10.webp
+      S13E11:
+        file_poster: /home/durmonator/posters/Family Guy/S13E11.webp
+      S13E12:
+        file_poster: /home/durmonator/posters/Family Guy/S13E12.webp
+      S13E13:
+        file_poster: /home/durmonator/posters/Family Guy/S13E13.webp
+      S13E14:
+        file_poster: /home/durmonator/posters/Family Guy/S13E14.webp
+      S13E15:
+        file_poster: /home/durmonator/posters/Family Guy/S13E15.webp
+      S13E16:
+        file_poster: /home/durmonator/posters/Family Guy/S13E16.webp
+      S13E17:
+        file_poster: /home/durmonator/posters/Family Guy/S13E17.webp
+      S13E18:
+        file_poster: /home/durmonator/posters/Family Guy/S13E18.webp
+      S14E01:
+        file_poster: /home/durmonator/posters/Family Guy/S14E01.webp
+      S14E02:
+        file_poster: /home/durmonator/posters/Family Guy/S14E02.webp
+      S14E03:
+        file_poster: /home/durmonator/posters/Family Guy/S14E03.webp
+      S14E04:
+        file_poster: /home/durmonator/posters/Family Guy/S14E04.webp
+      S14E05:
+        file_poster: /home/durmonator/posters/Family Guy/S14E05.webp
+      S14E06:
+        file_poster: /home/durmonator/posters/Family Guy/S14E06.webp
+      S14E07:
+        file_poster: /home/durmonator/posters/Family Guy/S14E07.webp
+      S14E08:
+        file_poster: /home/durmonator/posters/Family Guy/S14E08.webp
+      S14E09:
+        file_poster: /home/durmonator/posters/Family Guy/S14E09.webp
+      S14E10:
+        file_poster: /home/durmonator/posters/Family Guy/S14E10.webp
+      S14E11:
+        file_poster: /home/durmonator/posters/Family Guy/S14E11.webp
+      S14E12:
+        file_poster: /home/durmonator/posters/Family Guy/S14E12.webp
+      S14E13:
+        file_poster: /home/durmonator/posters/Family Guy/S14E13.webp
+      S14E14:
+        file_poster: /home/durmonator/posters/Family Guy/S14E14.webp
+      S14E15:
+        file_poster: /home/durmonator/posters/Family Guy/S14E15.webp
+      S14E16:
+        file_poster: /home/durmonator/posters/Family Guy/S14E16.webp
+      S14E17:
+        file_poster: /home/durmonator/posters/Family Guy/S14E17.webp
+      S14E18:
+        file_poster: /home/durmonator/posters/Family Guy/S14E18.webp
+      S14E19:
+        file_poster: /home/durmonator/posters/Family Guy/S14E19.webp
+      S14E20:
+        file_poster: /home/durmonator/posters/Family Guy/S14E20.webp
+      S15E01:
+        file_poster: /home/durmonator/posters/Family Guy/S15E01.webp
+      S15E02:
+        file_poster: /home/durmonator/posters/Family Guy/S15E02.webp
+      S15E03:
+        file_poster: /home/durmonator/posters/Family Guy/S15E03.webp
+      S15E04:
+        file_poster: /home/durmonator/posters/Family Guy/S15E04.webp
+      S15E05:
+        file_poster: /home/durmonator/posters/Family Guy/S15E05.webp
+      S15E06:
+        file_poster: /home/durmonator/posters/Family Guy/S15E06.webp
+      S15E07:
+        file_poster: /home/durmonator/posters/Family Guy/S15E07.webp
+      S15E08:
+        file_poster: /home/durmonator/posters/Family Guy/S15E08.webp
+      S15E09:
+        file_poster: /home/durmonator/posters/Family Guy/S15E09.webp
+      S15E10:
+        file_poster: /home/durmonator/posters/Family Guy/S15E10.webp
+      S15E11:
+        file_poster: /home/durmonator/posters/Family Guy/S15E11.webp
+      S15E12:
+        file_poster: /home/durmonator/posters/Family Guy/S15E12.webp
+      S15E13:
+        file_poster: /home/durmonator/posters/Family Guy/S15E13.webp
+      S15E14:
+        file_poster: /home/durmonator/posters/Family Guy/S15E14.webp
+      S15E15:
+        file_poster: /home/durmonator/posters/Family Guy/S15E15.webp
+      S15E16:
+        file_poster: /home/durmonator/posters/Family Guy/S15E16.webp
+      S15E17:
+        file_poster: /home/durmonator/posters/Family Guy/S15E17.webp
+      S15E18:
+        file_poster: /home/durmonator/posters/Family Guy/S15E18.webp
+      S15E19:
+        file_poster: /home/durmonator/posters/Family Guy/S15E19.webp
+      S15E20:
+        file_poster: /home/durmonator/posters/Family Guy/S15E20.webp
+      S16E01:
+        file_poster: /home/durmonator/posters/Family Guy/S16E01.webp
+      S16E02:
+        file_poster: /home/durmonator/posters/Family Guy/S16E02.webp
+      S16E03:
+        file_poster: /home/durmonator/posters/Family Guy/S16E03.webp
+      S16E04:
+        file_poster: /home/durmonator/posters/Family Guy/S16E04.webp
+      S16E05:
+        file_poster: /home/durmonator/posters/Family Guy/S16E05.webp
+      S16E06:
+        file_poster: /home/durmonator/posters/Family Guy/S16E06.webp
+      S16E07:
+        file_poster: /home/durmonator/posters/Family Guy/S16E07.webp
+      S16E08:
+        file_poster: /home/durmonator/posters/Family Guy/S16E08.webp
+      S16E09:
+        file_poster: /home/durmonator/posters/Family Guy/S16E09.webp
+      S16E10:
+        file_poster: /home/durmonator/posters/Family Guy/S16E10.webp
+      S16E11:
+        file_poster: /home/durmonator/posters/Family Guy/S16E11.webp
+      S16E12:
+        file_poster: /home/durmonator/posters/Family Guy/S16E12.webp
+      S16E13:
+        file_poster: /home/durmonator/posters/Family Guy/S16E13.webp
+      S16E14:
+        file_poster: /home/durmonator/posters/Family Guy/S16E14.webp
+      S16E15:
+        file_poster: /home/durmonator/posters/Family Guy/S16E15.webp
+      S16E16:
+        file_poster: /home/durmonator/posters/Family Guy/S16E16.webp
+      S16E17:
+        file_poster: /home/durmonator/posters/Family Guy/S16E17.webp
+      S16E18:
+        file_poster: /home/durmonator/posters/Family Guy/S16E18.webp
+      S16E19:
+        file_poster: /home/durmonator/posters/Family Guy/S16E19.webp
+      S16E20:
+        file_poster: /home/durmonator/posters/Family Guy/S16E20.webp
+      S17E01:
+        file_poster: /home/durmonator/posters/Family Guy/S17E01.webp
+      S17E02:
+        file_poster: /home/durmonator/posters/Family Guy/S17E02.webp
+      S17E03:
+        file_poster: /home/durmonator/posters/Family Guy/S17E03.webp
+      S17E04:
+        file_poster: /home/durmonator/posters/Family Guy/S17E04.webp
+      S17E05:
+        file_poster: /home/durmonator/posters/Family Guy/S17E05.webp
+      S17E06:
+        file_poster: /home/durmonator/posters/Family Guy/S17E06.webp
+      S17E07:
+        file_poster: /home/durmonator/posters/Family Guy/S17E07.webp
+      S17E08:
+        file_poster: /home/durmonator/posters/Family Guy/S17E08.webp
+      S17E09:
+        file_poster: /home/durmonator/posters/Family Guy/S17E09.webp
+      S17E10:
+        file_poster: /home/durmonator/posters/Family Guy/S17E10.webp
+      S17E11:
+        file_poster: /home/durmonator/posters/Family Guy/S17E11.webp
+      S17E12:
+        file_poster: /home/durmonator/posters/Family Guy/S17E12.webp
+      S17E13:
+        file_poster: /home/durmonator/posters/Family Guy/S17E13.webp
+      S17E14:
+        file_poster: /home/durmonator/posters/Family Guy/S17E14.webp
+      S17E15:
+        file_poster: /home/durmonator/posters/Family Guy/S17E15.webp
+      S17E16:
+        file_poster: /home/durmonator/posters/Family Guy/S17E16.webp
+      S17E17:
+        file_poster: /home/durmonator/posters/Family Guy/S17E17.webp
+      S17E18:
+        file_poster: /home/durmonator/posters/Family Guy/S17E18.webp
+      S17E19:
+        file_poster: /home/durmonator/posters/Family Guy/S17E19.webp
+      S17E20:
+        file_poster: /home/durmonator/posters/Family Guy/S17E20.webp
+      S18E01:
+        file_poster: /home/durmonator/posters/Family Guy/S18E01.webp
+      S18E02:
+        file_poster: /home/durmonator/posters/Family Guy/S18E02.webp
+      S18E03:
+        file_poster: /home/durmonator/posters/Family Guy/S18E03.webp
+      S18E04:
+        file_poster: /home/durmonator/posters/Family Guy/S18E04.webp
+      S18E05:
+        file_poster: /home/durmonator/posters/Family Guy/S18E05.webp
+      S18E06:
+        file_poster: /home/durmonator/posters/Family Guy/S18E06.webp
+      S18E07:
+        file_poster: /home/durmonator/posters/Family Guy/S18E07.webp
+      S18E08:
+        file_poster: /home/durmonator/posters/Family Guy/S18E08.webp
+      S18E09:
+        file_poster: /home/durmonator/posters/Family Guy/S18E09.webp
+      S18E10:
+        file_poster: /home/durmonator/posters/Family Guy/S18E10.webp
+      S18E11:
+        file_poster: /home/durmonator/posters/Family Guy/S18E11.webp
+      S18E12:
+        file_poster: /home/durmonator/posters/Family Guy/S18E12.webp
+      S18E13:
+        file_poster: /home/durmonator/posters/Family Guy/S18E13.webp
+      S18E14:
+        file_poster: /home/durmonator/posters/Family Guy/S18E14.webp
+      S18E15:
+        file_poster: /home/durmonator/posters/Family Guy/S18E15.webp
+      S18E16:
+        file_poster: /home/durmonator/posters/Family Guy/S18E16.webp
+      S18E17:
+        file_poster: /home/durmonator/posters/Family Guy/S18E17.webp
+      S18E18:
+        file_poster: /home/durmonator/posters/Family Guy/S18E18.webp
+      S18E19:
+        file_poster: /home/durmonator/posters/Family Guy/S18E19.webp
+      S18E20:
+        file_poster: /home/durmonator/posters/Family Guy/S18E20.webp
+      S19E01:
+        file_poster: /home/durmonator/posters/Family Guy/S19E01.webp
+      S19E02:
+        file_poster: /home/durmonator/posters/Family Guy/S19E02.webp
+      S19E03:
+        file_poster: /home/durmonator/posters/Family Guy/S19E03.webp
+      S19E04:
+        file_poster: /home/durmonator/posters/Family Guy/S19E04.webp
+      S19E05:
+        file_poster: /home/durmonator/posters/Family Guy/S19E05.webp
+      S19E06:
+        file_poster: /home/durmonator/posters/Family Guy/S19E06.webp
+      S19E07:
+        file_poster: /home/durmonator/posters/Family Guy/S19E07.webp
+      S19E08:
+        file_poster: /home/durmonator/posters/Family Guy/S19E08.webp
+      S19E09:
+        file_poster: /home/durmonator/posters/Family Guy/S19E09.webp
+      S19E10:
+        file_poster: /home/durmonator/posters/Family Guy/S19E10.webp
+      S19E11:
+        file_poster: /home/durmonator/posters/Family Guy/S19E11.webp
+      S19E12:
+        file_poster: /home/durmonator/posters/Family Guy/S19E12.webp
+      S19E13:
+        file_poster: /home/durmonator/posters/Family Guy/S19E13.webp
+      S19E14:
+        file_poster: /home/durmonator/posters/Family Guy/S19E14.webp
+      S19E15:
+        file_poster: /home/durmonator/posters/Family Guy/S19E15.webp
+      S19E16:
+        file_poster: /home/durmonator/posters/Family Guy/S19E16.webp
+      S19E17:
+        file_poster: /home/durmonator/posters/Family Guy/S19E17.webp
+      S19E18:
+        file_poster: /home/durmonator/posters/Family Guy/S19E18.webp
+      S19E19:
+        file_poster: /home/durmonator/posters/Family Guy/S19E19.webp
+      S19E20:
+        file_poster: /home/durmonator/posters/Family Guy/S19E20.webp
+  The Flash (2014):
+    file_poster: /home/durmonator/posters/The Flash/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/The Flash/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/The Flash/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/The Flash/S03.webp
+      4:
+        file_poster: /home/durmonator/posters/The Flash/S04.webp
+      5:
+        file_poster: /home/durmonator/posters/The Flash/S05.webp
+      6:
+        file_poster: /home/durmonator/posters/The Flash/S06.webp
+      7:
+        file_poster: /home/durmonator/posters/The Flash/S07.webp
+      0:
+        file_poster: /home/durmonator/posters/The Flash/S00.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/The Flash/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/The Flash/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/The Flash/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/The Flash/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/The Flash/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/The Flash/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/The Flash/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/The Flash/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/The Flash/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/The Flash/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/The Flash/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/The Flash/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/The Flash/S01E13.webp
+      S01E14:
+        file_poster: /home/durmonator/posters/The Flash/S01E14.webp
+      S01E15:
+        file_poster: /home/durmonator/posters/The Flash/S01E15.webp
+      S01E16:
+        file_poster: /home/durmonator/posters/The Flash/S01E16.webp
+      S01E17:
+        file_poster: /home/durmonator/posters/The Flash/S01E17.webp
+      S01E18:
+        file_poster: /home/durmonator/posters/The Flash/S01E18.webp
+      S01E19:
+        file_poster: /home/durmonator/posters/The Flash/S01E19.webp
+      S01E20:
+        file_poster: /home/durmonator/posters/The Flash/S01E20.webp
+      S01E21:
+        file_poster: /home/durmonator/posters/The Flash/S01E21.webp
+      S01E22:
+        file_poster: /home/durmonator/posters/The Flash/S01E22.webp
+      S01E23:
+        file_poster: /home/durmonator/posters/The Flash/S01E23.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/The Flash/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/The Flash/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/The Flash/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/The Flash/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/The Flash/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/The Flash/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/The Flash/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/The Flash/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/The Flash/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/The Flash/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/The Flash/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/The Flash/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/The Flash/S02E13.webp
+      S02E14:
+        file_poster: /home/durmonator/posters/The Flash/S02E14.webp
+      S02E15:
+        file_poster: /home/durmonator/posters/The Flash/S02E15.webp
+      S02E16:
+        file_poster: /home/durmonator/posters/The Flash/S02E16.webp
+      S02E17:
+        file_poster: /home/durmonator/posters/The Flash/S02E17.webp
+      S02E18:
+        file_poster: /home/durmonator/posters/The Flash/S02E18.webp
+      S02E19:
+        file_poster: /home/durmonator/posters/The Flash/S02E19.webp
+      S02E20:
+        file_poster: /home/durmonator/posters/The Flash/S02E20.webp
+      S02E21:
+        file_poster: /home/durmonator/posters/The Flash/S02E21.webp
+      S02E22:
+        file_poster: /home/durmonator/posters/The Flash/S02E22.webp
+      S02E23:
+        file_poster: /home/durmonator/posters/The Flash/S02E23.webp
+      S03E01:
+        file_poster: /home/durmonator/posters/The Flash/S03E01.webp
+      S03E02:
+        file_poster: /home/durmonator/posters/The Flash/S03E02.webp
+      S03E03:
+        file_poster: /home/durmonator/posters/The Flash/S03E03.webp
+      S03E04:
+        file_poster: /home/durmonator/posters/The Flash/S03E04.webp
+      S03E05:
+        file_poster: /home/durmonator/posters/The Flash/S03E05.webp
+      S03E06:
+        file_poster: /home/durmonator/posters/The Flash/S03E06.webp
+      S03E07:
+        file_poster: /home/durmonator/posters/The Flash/S03E07.webp
+      S03E08:
+        file_poster: /home/durmonator/posters/The Flash/S03E08.webp
+      S03E09:
+        file_poster: /home/durmonator/posters/The Flash/S03E09.webp
+      S03E10:
+        file_poster: /home/durmonator/posters/The Flash/S03E10.webp
+      S03E11:
+        file_poster: /home/durmonator/posters/The Flash/S03E11.webp
+      S03E12:
+        file_poster: /home/durmonator/posters/The Flash/S03E12.webp
+      S03E13:
+        file_poster: /home/durmonator/posters/The Flash/S03E13.webp
+      S03E14:
+        file_poster: /home/durmonator/posters/The Flash/S03E14.webp
+      S03E15:
+        file_poster: /home/durmonator/posters/The Flash/S03E15.webp
+      S03E16:
+        file_poster: /home/durmonator/posters/The Flash/S03E16.webp
+      S03E17:
+        file_poster: /home/durmonator/posters/The Flash/S03E17.webp
+      S03E18:
+        file_poster: /home/durmonator/posters/The Flash/S03E18.webp
+      S03E19:
+        file_poster: /home/durmonator/posters/The Flash/S03E19.webp
+      S03E20:
+        file_poster: /home/durmonator/posters/The Flash/S03E20.webp
+      S03E21:
+        file_poster: /home/durmonator/posters/The Flash/S03E21.webp
+      S03E22:
+        file_poster: /home/durmonator/posters/The Flash/S03E22.webp
+      S03E23:
+        file_poster: /home/durmonator/posters/The Flash/S03E23.webp
+      S04E01:
+        file_poster: /home/durmonator/posters/The Flash/S04E01.webp
+      S04E02:
+        file_poster: /home/durmonator/posters/The Flash/S04E02.webp
+      S04E03:
+        file_poster: /home/durmonator/posters/The Flash/S04E03.webp
+      S04E04:
+        file_poster: /home/durmonator/posters/The Flash/S04E04.webp
+      S04E05:
+        file_poster: /home/durmonator/posters/The Flash/S04E05.webp
+      S04E06:
+        file_poster: /home/durmonator/posters/The Flash/S04E06.webp
+      S04E07:
+        file_poster: /home/durmonator/posters/The Flash/S04E07.webp
+      S04E08:
+        file_poster: /home/durmonator/posters/The Flash/S04E08.webp
+      S04E09:
+        file_poster: /home/durmonator/posters/The Flash/S04E09.webp
+      S04E10:
+        file_poster: /home/durmonator/posters/The Flash/S04E10.webp
+      S04E11:
+        file_poster: /home/durmonator/posters/The Flash/S04E11.webp
+      S04E12:
+        file_poster: /home/durmonator/posters/The Flash/S04E12.webp
+      S04E13:
+        file_poster: /home/durmonator/posters/The Flash/S04E13.webp
+      S04E14:
+        file_poster: /home/durmonator/posters/The Flash/S04E14.webp
+      S04E15:
+        file_poster: /home/durmonator/posters/The Flash/S04E15.webp
+      S04E16:
+        file_poster: /home/durmonator/posters/The Flash/S04E16.webp
+      S04E17:
+        file_poster: /home/durmonator/posters/The Flash/S04E17.webp
+      S04E18:
+        file_poster: /home/durmonator/posters/The Flash/S04E18.webp
+      S04E19:
+        file_poster: /home/durmonator/posters/The Flash/S04E19.webp
+      S04E20:
+        file_poster: /home/durmonator/posters/The Flash/S04E20.webp
+      S04E21:
+        file_poster: /home/durmonator/posters/The Flash/S04E21.webp
+      S04E22:
+        file_poster: /home/durmonator/posters/The Flash/S04E22.webp
+      S04E23:
+        file_poster: /home/durmonator/posters/The Flash/S04E23.webp
+      S05E01:
+        file_poster: /home/durmonator/posters/The Flash/S05E01.webp
+      S05E02:
+        file_poster: /home/durmonator/posters/The Flash/S05E02.webp
+      S05E03:
+        file_poster: /home/durmonator/posters/The Flash/S05E03.webp
+      S05E04:
+        file_poster: /home/durmonator/posters/The Flash/S05E04.webp
+      S05E05:
+        file_poster: /home/durmonator/posters/The Flash/S05E05.webp
+      S05E06:
+        file_poster: /home/durmonator/posters/The Flash/S05E06.webp
+      S05E07:
+        file_poster: /home/durmonator/posters/The Flash/S05E07.webp
+      S05E08:
+        file_poster: /home/durmonator/posters/The Flash/S05E08.webp
+      S05E09:
+        file_poster: /home/durmonator/posters/The Flash/S05E09.webp
+      S05E10:
+        file_poster: /home/durmonator/posters/The Flash/S05E10.webp
+      S05E11:
+        file_poster: /home/durmonator/posters/The Flash/S05E11.webp
+      S05E12:
+        file_poster: /home/durmonator/posters/The Flash/S05E12.webp
+      S05E13:
+        file_poster: /home/durmonator/posters/The Flash/S05E13.webp
+      S05E14:
+        file_poster: /home/durmonator/posters/The Flash/S05E14.webp
+      S05E15:
+        file_poster: /home/durmonator/posters/The Flash/S05E15.webp
+      S05E16:
+        file_poster: /home/durmonator/posters/The Flash/S05E16.webp
+      S05E17:
+        file_poster: /home/durmonator/posters/The Flash/S05E17.webp
+      S05E18:
+        file_poster: /home/durmonator/posters/The Flash/S05E18.webp
+      S05E19:
+        file_poster: /home/durmonator/posters/The Flash/S05E19.webp
+      S05E20:
+        file_poster: /home/durmonator/posters/The Flash/S05E20.webp
+      S05E21:
+        file_poster: /home/durmonator/posters/The Flash/S05E21.webp
+      S05E22:
+        file_poster: /home/durmonator/posters/The Flash/S05E22.webp
+      S06E01:
+        file_poster: /home/durmonator/posters/The Flash/S06E01.webp
+      S06E02:
+        file_poster: /home/durmonator/posters/The Flash/S06E02.webp
+      S06E03:
+        file_poster: /home/durmonator/posters/The Flash/S06E03.webp
+      S06E04:
+        file_poster: /home/durmonator/posters/The Flash/S06E04.webp
+      S06E05:
+        file_poster: /home/durmonator/posters/The Flash/S06E05.webp
+      S06E06:
+        file_poster: /home/durmonator/posters/The Flash/S06E06.webp
+      S06E07:
+        file_poster: /home/durmonator/posters/The Flash/S06E07.webp
+      S06E08:
+        file_poster: /home/durmonator/posters/The Flash/S06E08.webp
+      S06E09:
+        file_poster: /home/durmonator/posters/The Flash/S06E09.webp
+      S06E10:
+        file_poster: /home/durmonator/posters/The Flash/S06E10.webp
+      S06E11:
+        file_poster: /home/durmonator/posters/The Flash/S06E11.webp
+      S06E12:
+        file_poster: /home/durmonator/posters/The Flash/S06E12.webp
+      S06E13:
+        file_poster: /home/durmonator/posters/The Flash/S06E13.webp
+      S06E14:
+        file_poster: /home/durmonator/posters/The Flash/S06E14.webp
+      S06E15:
+        file_poster: /home/durmonator/posters/The Flash/S06E15.webp
+      S06E16:
+        file_poster: /home/durmonator/posters/The Flash/S06E16.webp
+      S06E17:
+        file_poster: /home/durmonator/posters/The Flash/S06E17.webp
+      S06E18:
+        file_poster: /home/durmonator/posters/The Flash/S06E18.webp
+      S06E19:
+        file_poster: /home/durmonator/posters/The Flash/S06E19.webp
+      S07E01:
+        file_poster: /home/durmonator/posters/The Flash/S07E01.webp
+      S07E02:
+        file_poster: /home/durmonator/posters/The Flash/S07E02.webp
+      S07E03:
+        file_poster: /home/durmonator/posters/The Flash/S07E03.webp
+      S07E04:
+        file_poster: /home/durmonator/posters/The Flash/S07E04.webp
+      S07E05:
+        file_poster: /home/durmonator/posters/The Flash/S07E05.webp
+      S07E06:
+        file_poster: /home/durmonator/posters/The Flash/S07E06.webp
+      S07E07:
+        file_poster: /home/durmonator/posters/The Flash/S07E07.webp
+      S07E08:
+        file_poster: /home/durmonator/posters/The Flash/S07E08.webp
+      S07E09:
+        file_poster: /home/durmonator/posters/The Flash/S07E09.webp
+      S07E10:
+        file_poster: /home/durmonator/posters/The Flash/S07E10.webp
+      S07E11:
+        file_poster: /home/durmonator/posters/The Flash/S07E11.webp
+      S07E12:
+        file_poster: /home/durmonator/posters/The Flash/S07E12.webp
+      S07E13:
+        file_poster: /home/durmonator/posters/The Flash/S07E13.webp
+      S07E14:
+        file_poster: /home/durmonator/posters/The Flash/S07E14.webp
+      S07E15:
+        file_poster: /home/durmonator/posters/The Flash/S07E15.webp
+      S07E16:
+        file_poster: /home/durmonator/posters/The Flash/S07E16.webp
+      S07E17:
+        file_poster: /home/durmonator/posters/The Flash/S07E17.webp
+      S07E18:
+        file_poster: /home/durmonator/posters/The Flash/S07E18.webp
+  The Flight Attendant:
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/The Flight Attendant/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/The Flight Attendant/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/The Flight Attendant/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/The Flight Attendant/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/The Flight Attendant/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/The Flight Attendant/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/The Flight Attendant/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/The Flight Attendant/S01E08.webp
+  Glastonbury:
+    episodes:
+      S2022E01:
+        file_poster: /home/durmonator/posters/Glasto/S2022E01.webp
+      S2022E02:
+        file_poster: /home/durmonator/posters/Glasto/S2022E02.webp
+      S2022E03:
+        file_poster: /home/durmonator/posters/Glasto/S2022E03.webp
+      S2022E04:
+        file_poster: /home/durmonator/posters/Glasto/S2022E04.webp
+      S2022E05:
+        file_poster: /home/durmonator/posters/Glasto/S2022E05.webp
+      S2022E06:
+        file_poster: /home/durmonator/posters/Glasto/S2022E06.webp
+      S2022E07:
+        file_poster: /home/durmonator/posters/Glasto/S2022E07.webp
+      S2022E08:
+        file_poster: /home/durmonator/posters/Glasto/S2022E08.webp
+      S2022E09:
+        file_poster: /home/durmonator/posters/Glasto/S2022E09.webp
+      S2022E10:
+        file_poster: /home/durmonator/posters/Glasto/S2022E10.webp
+      S2022E11:
+        file_poster: /home/durmonator/posters/Glasto/S2022E11.webp
+      S2022E12:
+        file_poster: /home/durmonator/posters/Glasto/S2022E12.webp
+      S2022E13:
+        file_poster: /home/durmonator/posters/Glasto/S2022E13.webp
+      S2022E14:
+        file_poster: /home/durmonator/posters/Glasto/S2022E14.webp
+      S2022E15:
+        file_poster: /home/durmonator/posters/Glasto/S2022E15.webp
+      S2022E16:
+        file_poster: /home/durmonator/posters/Glasto/S2022E16.webp
+      S2022E17:
+        file_poster: /home/durmonator/posters/Glasto/S2022E17.webp
+      S2022E18:
+        file_poster: /home/durmonator/posters/Glasto/S2022E18.webp
+      S2022E19:
+        file_poster: /home/durmonator/posters/Glasto/S2022E19.webp
+      S2022E20:
+        file_poster: /home/durmonator/posters/Glasto/S2022E20.webp
+      S2022E21:
+        file_poster: /home/durmonator/posters/Glasto/S2022E21.webp
+      S2022E22:
+        file_poster: /home/durmonator/posters/Glasto/S2022E22.webp
+      S2022E23:
+        file_poster: /home/durmonator/posters/Glasto/S2022E23.webp
+      S2022E24:
+        file_poster: /home/durmonator/posters/Glasto/S2022E24.webp
+      S2022E25:
+        file_poster: /home/durmonator/posters/Glasto/S2022E25.webp
+      S2022E26:
+        file_poster: /home/durmonator/posters/Glasto/S2022E26.webp
+      S2022E27:
+        file_poster: /home/durmonator/posters/Glasto/S2022E27.webp
+      S2022E28:
+        file_poster: /home/durmonator/posters/Glasto/S2022E28.webp
+      S2022E29:
+        file_poster: /home/durmonator/posters/Glasto/S2022E29.webp
+      S2022E30:
+        file_poster: /home/durmonator/posters/Glasto/S2022E30.webp
+      S2022E31:
+        file_poster: /home/durmonator/posters/Glasto/S2022E31.webp
+      S2022E32:
+        file_poster: /home/durmonator/posters/Glasto/S2022E32.webp
+      S2022E33:
+        file_poster: /home/durmonator/posters/Glasto/S2022E33.webp
+      S2022E34:
+        file_poster: /home/durmonator/posters/Glasto/S2022E34.webp
+      S2022E35:
+        file_poster: /home/durmonator/posters/Glasto/S2022E35.webp
+      S2022E36:
+        file_poster: /home/durmonator/posters/Glasto/S2022E36.webp
+      S2022E37:
+        file_poster: /home/durmonator/posters/Glasto/S2022E37.webp
+      S2022E38:
+        file_poster: /home/durmonator/posters/Glasto/S2022E38.webp
+      S2022E39:
+        file_poster: /home/durmonator/posters/Glasto/S2022E39.webp
+      S2022E40:
+        file_poster: /home/durmonator/posters/Glasto/S2022E40.webp
+      S2022E41:
+        file_poster: /home/durmonator/posters/Glasto/S2022E41.webp
+      S2022E42:
+        file_poster: /home/durmonator/posters/Glasto/S2022E42.webp
+      S2022E43:
+        file_poster: /home/durmonator/posters/Glasto/S2022E43.webp
+      S2022E44:
+        file_poster: /home/durmonator/posters/Glasto/S2022E44.webp
+      S2022E45:
+        file_poster: /home/durmonator/posters/Glasto/S2022E45.webp
+      S2022E46:
+        file_poster: /home/durmonator/posters/Glasto/S2022E46.webp
+      S2022E47:
+        file_poster: /home/durmonator/posters/Glasto/S2022E47.webp
+      S2022E48:
+        file_poster: /home/durmonator/posters/Glasto/S2022E48.webp
+      S2022E49:
+        file_poster: /home/durmonator/posters/Glasto/S2022E49.webp
+      S2022E50:
+        file_poster: /home/durmonator/posters/Glasto/S2022E50.webp
+      S2022E51:
+        file_poster: /home/durmonator/posters/Glasto/S2022E51.webp
+      S2022E52:
+        file_poster: /home/durmonator/posters/Glasto/S2022E52.webp
+      S2022E53:
+        file_poster: /home/durmonator/posters/Glasto/S2022E53.webp
+      S2022E54:
+        file_poster: /home/durmonator/posters/Glasto/S2022E54.webp
+      S2022E55:
+        file_poster: /home/durmonator/posters/Glasto/S2022E55.webp
+      S2022E56:
+        file_poster: /home/durmonator/posters/Glasto/S2022E56.webp
+      S2022E57:
+        file_poster: /home/durmonator/posters/Glasto/S2022E57.webp
+      S2022E58:
+        file_poster: /home/durmonator/posters/Glasto/S2022E58.webp
+      S2022E59:
+        file_poster: /home/durmonator/posters/Glasto/S2022E59.webp
+      S2022E60:
+        file_poster: /home/durmonator/posters/Glasto/S2022E60.webp
+      S2022E61:
+        file_poster: /home/durmonator/posters/Glasto/S2022E61.webp
+      S2022E62:
+        file_poster: /home/durmonator/posters/Glasto/S2022E62.webp
+      S2022E63:
+        file_poster: /home/durmonator/posters/Glasto/S2022E63.webp
+      S2022E64:
+        file_poster: /home/durmonator/posters/Glasto/S2022E64.webp
+      S2022E65:
+        file_poster: /home/durmonator/posters/Glasto/S2022E65.webp
+      S2022E66:
+        file_poster: /home/durmonator/posters/Glasto/S2022E66.webp
+      S2022E67:
+        file_poster: /home/durmonator/posters/Glasto/S2022E67.webp
+      S2022E68:
+        file_poster: /home/durmonator/posters/Glasto/S2022E68.webp
+      S2022E69:
+        file_poster: /home/durmonator/posters/Glasto/S2022E69.webp
+      S2022E70:
+        file_poster: /home/durmonator/posters/Glasto/S2022E70.webp
+      S2022E71:
+        file_poster: /home/durmonator/posters/Glasto/S2022E71.webp
+  Hanna:
+    file_poster: /home/durmonator/posters/Hanna/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Hanna/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Hanna/S02.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Hanna/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Hanna/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Hanna/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Hanna/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Hanna/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Hanna/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Hanna/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/Hanna/S01E08.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/Hanna/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/Hanna/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/Hanna/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/Hanna/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/Hanna/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/Hanna/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/Hanna/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/Hanna/S02E08.webp
+  Hawkeye (2021):
+    file_poster: /home/durmonator/posters/Hawkeye/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Hawkeye/S01.webp
+      0:
+        file_poster: /home/durmonator/posters/Hawkeye/S00.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Hawkeye/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Hawkeye/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Hawkeye/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Hawkeye/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Hawkeye/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Hawkeye/S01E06.webp
+  Heels:
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Heels/S01E01.jpg
+      S01E02:
+        file_poster: /home/durmonator/posters/Heels/S01E02.jpg
+      S01E03:
+        file_poster: /home/durmonator/posters/Heels/S01E03.jpg
+      S01E04:
+        file_poster: /home/durmonator/posters/Heels/S01E04.jpg
+      S01E05:
+        file_poster: /home/durmonator/posters/Heels/S01E05.jpg
+      S01E06:
+        file_poster: /home/durmonator/posters/Heels/S01E06.jpg
+      S01E07:
+        file_poster: /home/durmonator/posters/Heels/S01E07.jpg
+      S01E08:
+        file_poster: /home/durmonator/posters/Heels/S01E08.jpg
+  I Hate Suzie:
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/I Hate Suzie/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/I Hate Suzie/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/I Hate Suzie/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/I Hate Suzie/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/I Hate Suzie/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/I Hate Suzie/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/I Hate Suzie/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/I Hate Suzie/S01E08.webp
+  Loki:
+    file_poster: /home/durmonator/posters/Loki/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Loki/S01.webp
+      0:
+        file_poster: /home/durmonator/posters/Loki/S00.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Loki/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Loki/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Loki/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Loki/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Loki/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Loki/S01E06.webp
+  The Mandalorian:
+    file_poster: /home/durmonator/posters/The Mandalorian/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/The Mandalorian/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/The Mandalorian/S02.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/The Mandalorian/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/The Mandalorian/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/The Mandalorian/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/The Mandalorian/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/The Mandalorian/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/The Mandalorian/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/The Mandalorian/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/The Mandalorian/S01E08.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/The Mandalorian/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/The Mandalorian/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/The Mandalorian/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/The Mandalorian/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/The Mandalorian/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/The Mandalorian/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/The Mandalorian/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/The Mandalorian/S02E08.webp
+  "Marvel Studios: Assembled":
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E07.webp
+  Mighty Morphin Power Rangers:
+    seasons:
+      1:
+        title: 'Mighty Morphin Power Rangers'
+      2:
+        title: 'Mighty Morphin Power Rangers'
+      3:
+        title: 'Mighty Morphin Power Rangers'
+      4:
+        title: 'Power Rangers Zeo'
+      5:
+        title: 'Power Rangers Turbo'
+      6:
+        title: 'Power Rangers in Space'
+      7:
+        title: 'Power Rangers Lost Galaxy'
+      8:
+        title: 'Power Rangers Lightspeed Rescue'
+      9:
+        title: 'Power Rangers Time Force'
+      10:
+        title: 'Power Rangers Wild Force'
+      11:
+        title: 'Power Rangers Ninja Storm'
+      12:
+        title: 'Power Rangers Dino Thunder'
+      13:
+        title: 'Power Rangers S.P.D.'
+      14:
+        title: 'Power Rangers Mystic Force'
+      15:
+        title: 'Power Rangers Operation Overdrive'
+      16:
+        title: 'Power Rangers Jungle Fury'
+      17:
+        title: 'Power Rangers RPM'
+      18:
+        title: 'Power Rangers Samurai'
+      19:
+        title: 'Power Rangers Super Samurai'
+      20:
+        title: 'Power Rangers Megaforce'
+      21:
+        title: 'Power Rangers Super Megaforce'
+      22:
+        title: 'Power Rangers Dino Charge'
+      23:
+        title: 'Power Rangers Dino Super Charge'
+      24:
+        title: 'Power Rangers Ninja Steel'
+      25:
+        title: 'Power Rangers Super Ninja Steel'
+      26:
+        title: 'Power Rangers Beast Morphers'
+      27:
+        title: 'Power Rangers Beast Morphers'
+      28:
+        title: 'Power Rangers Dino Fury'
+  Monsters at Work:
+    file_poster: /home/durmonator/posters/Monsters at Work/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Monsters at Work/S01.webp
+  Moon Knight:
+    file_poster: /home/durmonator/posters/Moon Knight/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Moon Knight/S01.webp
+  Nancy Drew:
+    file_poster: /home/durmonator/posters/Nancy Drew (2019)/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Nancy Drew (2019)/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Nancy Drew (2019)/S02.webp
+  Naomi:
+    file_poster: /home/durmonator/posters/Naomi/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Naomi/S01.webp
+  Peacemaker:
+    file_poster: /home/durmonator/posters/Peacemaker/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Peacemaker/S01.webp
+      0:
+        file_poster: /home/durmonator/posters/Peacemaker/S00.webp
+  Red Dwarf:
+    file_background: /home/durmonator/posters/Red Dwarf/background.webp
+    file_poster: /home/durmonator/posters/Red Dwarf/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Red Dwarf/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Red Dwarf/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/Red Dwarf/S03.webp
+      4:
+        file_poster: /home/durmonator/posters/Red Dwarf/S04.webp
+      5:
+        file_poster: /home/durmonator/posters/Red Dwarf/S05.webp
+      6:
+        file_poster: /home/durmonator/posters/Red Dwarf/S06.webp
+      7:
+        file_poster: /home/durmonator/posters/Red Dwarf/S07.webp
+      8:
+        file_poster: /home/durmonator/posters/Red Dwarf/S08.webp
+      9:
+        file_poster: /home/durmonator/posters/Red Dwarf/S09.webp
+      10:
+        file_poster: /home/durmonator/posters/Red Dwarf/S10.webp
+      11:
+        file_poster: /home/durmonator/posters/Red Dwarf/S11.webp
+      12:
+        file_poster: /home/durmonator/posters/Red Dwarf/S12.webp
+      0:
+        file_poster: /home/durmonator/posters/Red Dwarf/S00.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S01E06.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S02E06.webp
+      S03E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S03E01.webp
+      S03E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S03E02.webp
+      S03E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S03E03.webp
+      S03E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S03E04.webp
+      S03E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S03E05.webp
+      S03E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S03E06.webp
+      S04E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S04E01.webp
+      S04E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S04E02.webp
+      S04E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S04E03.webp
+      S04E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S04E04.webp
+      S04E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S04E05.webp
+      S04E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S04E06.webp
+      S05E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S05E01.webp
+      S05E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S05E02.webp
+      S05E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S05E03.webp
+      S05E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S05E04.webp
+      S05E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S05E05.webp
+      S05E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S05E06.webp
+      S06E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S06E01.webp
+      S06E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S06E02.webp
+      S06E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S06E03.webp
+      S06E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S06E04.webp
+      S06E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S06E05.webp
+      S06E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S06E06.webp
+      S07E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S07E01.webp
+      S07E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S07E02.webp
+      S07E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S07E03.webp
+      S07E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S07E04.webp
+      S07E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S07E05.webp
+      S07E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S07E06.webp
+      S07E07:
+        file_poster: /home/durmonator/posters/Red Dwarf/S07E07.webp
+      S07E08:
+        file_poster: /home/durmonator/posters/Red Dwarf/S07E08.webp
+      S08E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S08E01.webp
+      S08E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S08E02.webp
+      S08E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S08E03.webp
+      S08E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S08E04.webp
+      S08E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S08E05.webp
+      S08E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S08E06.webp
+      S08E07:
+        file_poster: /home/durmonator/posters/Red Dwarf/S08E07.webp
+      S08E08:
+        file_poster: /home/durmonator/posters/Red Dwarf/S08E08.webp
+      S09E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S09E01.webp
+      S09E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S09E02.webp
+      S09E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S09E03.webp
+      S10E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S10E01.webp
+      S10E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S10E02.webp
+      S10E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S10E03.webp
+      S10E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S10E04.webp
+      S10E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S10E05.webp
+      S10E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S10E06.webp
+      S11E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S11E01.webp
+      S11E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S11E02.webp
+      S11E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S11E03.webp
+      S11E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S11E04.webp
+      S11E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S11E05.webp
+      S11E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S11E06.webp
+      S12E01:
+        file_poster: /home/durmonator/posters/Red Dwarf/S12E01.webp
+      S12E02:
+        file_poster: /home/durmonator/posters/Red Dwarf/S12E02.webp
+      S12E03:
+        file_poster: /home/durmonator/posters/Red Dwarf/S12E03.webp
+      S12E04:
+        file_poster: /home/durmonator/posters/Red Dwarf/S12E04.webp
+      S12E05:
+        file_poster: /home/durmonator/posters/Red Dwarf/S12E05.webp
+      S12E06:
+        file_poster: /home/durmonator/posters/Red Dwarf/S12E06.webp
+  South Park:
+    file_poster: /home/durmonator/posters/South Park/show.webp
+    seasons:
+      0:
+        file_poster: /home/durmonator/posters/South Park/S00.webp
+      1:
+        file_poster: /home/durmonator/posters/South Park/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/South Park/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/South Park/S03.webp
+      4:
+        file_poster: /home/durmonator/posters/South Park/S04.webp
+      5:
+        file_poster: /home/durmonator/posters/South Park/S05.webp
+      6:
+        file_poster: /home/durmonator/posters/South Park/S06.webp
+      7:
+        file_poster: /home/durmonator/posters/South Park/S07.webp
+      8:
+        file_poster: /home/durmonator/posters/South Park/S08.webp
+      9:
+        file_poster: /home/durmonator/posters/South Park/S09.webp
+      10:
+        file_poster: /home/durmonator/posters/South Park/S10.webp
+      11:
+        file_poster: /home/durmonator/posters/South Park/S11.webp
+      12:
+        file_poster: /home/durmonator/posters/South Park/S12.webp
+      13:
+        file_poster: /home/durmonator/posters/South Park/S13.webp
+      14:
+        file_poster: /home/durmonator/posters/South Park/S14.webp
+      15:
+        file_poster: /home/durmonator/posters/South Park/S15.webp
+      16:
+        file_poster: /home/durmonator/posters/South Park/S16.webp
+      17:
+        file_poster: /home/durmonator/posters/South Park/S17.webp
+      18:
+        file_poster: /home/durmonator/posters/South Park/S18.webp
+      19:
+        file_poster: /home/durmonator/posters/South Park/S19.webp
+      20:
+        file_poster: /home/durmonator/posters/South Park/S20.webp
+      21:
+        file_poster: /home/durmonator/posters/South Park/S21.webp
+      22:
+        file_poster: /home/durmonator/posters/South Park/S22.webp
+      23:
+        file_poster: /home/durmonator/posters/South Park/S23.webp
+      24:
+        file_poster: /home/durmonator/posters/South Park/S24.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/South Park/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/South Park/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/South Park/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/South Park/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/South Park/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/South Park/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/South Park/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/South Park/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/South Park/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/South Park/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/South Park/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/South Park/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/South Park/S01E13.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/South Park/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/South Park/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/South Park/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/South Park/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/South Park/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/South Park/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/South Park/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/South Park/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/South Park/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/South Park/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/South Park/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/South Park/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/South Park/S02E13.webp
+      S02E14:
+        file_poster: /home/durmonator/posters/South Park/S02E14.webp
+      S02E15:
+        file_poster: /home/durmonator/posters/South Park/S02E15.webp
+      S02E16:
+        file_poster: /home/durmonator/posters/South Park/S02E16.webp
+      S02E17:
+        file_poster: /home/durmonator/posters/South Park/S02E17.webp
+      S02E18:
+        file_poster: /home/durmonator/posters/South Park/S02E18.webp
+      S03E01:
+        file_poster: /home/durmonator/posters/South Park/S03E01.webp
+      S03E02:
+        file_poster: /home/durmonator/posters/South Park/S03E02.webp
+      S03E03:
+        file_poster: /home/durmonator/posters/South Park/S03E03.webp
+      S03E04:
+        file_poster: /home/durmonator/posters/South Park/S03E04.webp
+      S03E05:
+        file_poster: /home/durmonator/posters/South Park/S03E05.webp
+      S03E06:
+        file_poster: /home/durmonator/posters/South Park/S03E06.webp
+      S03E07:
+        file_poster: /home/durmonator/posters/South Park/S03E07.webp
+      S03E08:
+        file_poster: /home/durmonator/posters/South Park/S03E08.webp
+      S03E09:
+        file_poster: /home/durmonator/posters/South Park/S03E09.webp
+      S03E10:
+        file_poster: /home/durmonator/posters/South Park/S03E10.webp
+      S03E11:
+        file_poster: /home/durmonator/posters/South Park/S03E11.webp
+      S03E12:
+        file_poster: /home/durmonator/posters/South Park/S03E12.webp
+      S03E13:
+        file_poster: /home/durmonator/posters/South Park/S03E13.webp
+      S03E14:
+        file_poster: /home/durmonator/posters/South Park/S03E14.webp
+      S03E15:
+        file_poster: /home/durmonator/posters/South Park/S03E15.webp
+      S03E16:
+        file_poster: /home/durmonator/posters/South Park/S03E16.webp
+      S03E17:
+        file_poster: /home/durmonator/posters/South Park/S03E17.webp
+      S04E01:
+        file_poster: /home/durmonator/posters/South Park/S04E01.webp
+      S04E02:
+        file_poster: /home/durmonator/posters/South Park/S04E02.webp
+      S04E03:
+        file_poster: /home/durmonator/posters/South Park/S04E03.webp
+      S04E04:
+        file_poster: /home/durmonator/posters/South Park/S04E04.webp
+      S04E05:
+        file_poster: /home/durmonator/posters/South Park/S04E05.webp
+      S04E06:
+        file_poster: /home/durmonator/posters/South Park/S04E06.webp
+      S04E07:
+        file_poster: /home/durmonator/posters/South Park/S04E07.webp
+      S04E08:
+        file_poster: /home/durmonator/posters/South Park/S04E08.webp
+      S04E09:
+        file_poster: /home/durmonator/posters/South Park/S04E09.webp
+      S04E10:
+        file_poster: /home/durmonator/posters/South Park/S04E10.webp
+      S04E11:
+        file_poster: /home/durmonator/posters/South Park/S04E11.webp
+      S04E12:
+        file_poster: /home/durmonator/posters/South Park/S04E12.webp
+      S04E13:
+        file_poster: /home/durmonator/posters/South Park/S04E13.webp
+      S04E14:
+        file_poster: /home/durmonator/posters/South Park/S04E14.webp
+      S04E15:
+        file_poster: /home/durmonator/posters/South Park/S04E15.webp
+      S04E16:
+        file_poster: /home/durmonator/posters/South Park/S04E16.webp
+      S04E17:
+        file_poster: /home/durmonator/posters/South Park/S04E17.webp
+      S05E01:
+        file_poster: /home/durmonator/posters/South Park/S05E01.webp
+      S05E02:
+        file_poster: /home/durmonator/posters/South Park/S05E02.webp
+      S05E03:
+        file_poster: /home/durmonator/posters/South Park/S05E03.webp
+      S05E04:
+        file_poster: /home/durmonator/posters/South Park/S05E04.webp
+      S05E05:
+        file_poster: /home/durmonator/posters/South Park/S05E05.webp
+      S05E06:
+        file_poster: /home/durmonator/posters/South Park/S05E06.webp
+      S05E07:
+        file_poster: /home/durmonator/posters/South Park/S05E07.webp
+      S05E08:
+        file_poster: /home/durmonator/posters/South Park/S05E08.webp
+      S05E09:
+        file_poster: /home/durmonator/posters/South Park/S05E09.webp
+      S05E10:
+        file_poster: /home/durmonator/posters/South Park/S05E10.webp
+      S05E11:
+        file_poster: /home/durmonator/posters/South Park/S05E11.webp
+      S05E12:
+        file_poster: /home/durmonator/posters/South Park/S05E12.webp
+      S05E13:
+        file_poster: /home/durmonator/posters/South Park/S05E13.webp
+      S05E14:
+        file_poster: /home/durmonator/posters/South Park/S05E14.webp
+      S06E01:
+        file_poster: /home/durmonator/posters/South Park/S06E01.webp
+      S06E02:
+        file_poster: /home/durmonator/posters/South Park/S06E02.webp
+      S06E03:
+        file_poster: /home/durmonator/posters/South Park/S06E03.webp
+      S06E04:
+        file_poster: /home/durmonator/posters/South Park/S06E04.webp
+      S06E05:
+        file_poster: /home/durmonator/posters/South Park/S06E05.webp
+      S06E06:
+        file_poster: /home/durmonator/posters/South Park/S06E06.webp
+      S06E07:
+        file_poster: /home/durmonator/posters/South Park/S06E07.webp
+      S06E08:
+        file_poster: /home/durmonator/posters/South Park/S06E08.webp
+      S06E09:
+        file_poster: /home/durmonator/posters/South Park/S06E09.webp
+      S06E10:
+        file_poster: /home/durmonator/posters/South Park/S06E10.webp
+      S06E11:
+        file_poster: /home/durmonator/posters/South Park/S06E11.webp
+      S06E12:
+        file_poster: /home/durmonator/posters/South Park/S06E12.webp
+      S06E13:
+        file_poster: /home/durmonator/posters/South Park/S06E13.webp
+      S06E14:
+        file_poster: /home/durmonator/posters/South Park/S06E14.webp
+      S06E15:
+        file_poster: /home/durmonator/posters/South Park/S06E15.webp
+      S06E16:
+        file_poster: /home/durmonator/posters/South Park/S06E16.webp
+      S06E17:
+        file_poster: /home/durmonator/posters/South Park/S06E17.webp
+      S07E01:
+        file_poster: /home/durmonator/posters/South Park/S07E01.webp
+      S07E02:
+        file_poster: /home/durmonator/posters/South Park/S07E02.webp
+      S07E03:
+        file_poster: /home/durmonator/posters/South Park/S07E03.webp
+      S07E04:
+        file_poster: /home/durmonator/posters/South Park/S07E04.webp
+      S07E05:
+        file_poster: /home/durmonator/posters/South Park/S07E05.webp
+      S07E06:
+        file_poster: /home/durmonator/posters/South Park/S07E06.webp
+      S07E07:
+        file_poster: /home/durmonator/posters/South Park/S07E07.webp
+      S07E08:
+        file_poster: /home/durmonator/posters/South Park/S07E08.webp
+      S07E09:
+        file_poster: /home/durmonator/posters/South Park/S07E09.webp
+      S07E10:
+        file_poster: /home/durmonator/posters/South Park/S07E10.webp
+      S07E11:
+        file_poster: /home/durmonator/posters/South Park/S07E11.webp
+      S07E12:
+        file_poster: /home/durmonator/posters/South Park/S07E12.webp
+      S07E13:
+        file_poster: /home/durmonator/posters/South Park/S07E13.webp
+      S07E14:
+        file_poster: /home/durmonator/posters/South Park/S07E14.webp
+      S07E15:
+        file_poster: /home/durmonator/posters/South Park/S07E15.webp
+      S08E01:
+        file_poster: /home/durmonator/posters/South Park/S08E01.webp
+      S08E02:
+        file_poster: /home/durmonator/posters/South Park/S08E02.webp
+      S08E03:
+        file_poster: /home/durmonator/posters/South Park/S08E03.webp
+      S08E04:
+        file_poster: /home/durmonator/posters/South Park/S08E04.webp
+      S08E05:
+        file_poster: /home/durmonator/posters/South Park/S08E05.webp
+      S08E06:
+        file_poster: /home/durmonator/posters/South Park/S08E06.webp
+      S08E07:
+        file_poster: /home/durmonator/posters/South Park/S08E07.webp
+      S08E08:
+        file_poster: /home/durmonator/posters/South Park/S08E08.webp
+      S08E09:
+        file_poster: /home/durmonator/posters/South Park/S08E09.webp
+      S08E10:
+        file_poster: /home/durmonator/posters/South Park/S08E10.webp
+      S08E11:
+        file_poster: /home/durmonator/posters/South Park/S08E11.webp
+      S08E12:
+        file_poster: /home/durmonator/posters/South Park/S08E12.webp
+      S08E13:
+        file_poster: /home/durmonator/posters/South Park/S08E13.webp
+      S08E14:
+        file_poster: /home/durmonator/posters/South Park/S08E14.webp
+      S09E01:
+        file_poster: /home/durmonator/posters/South Park/S09E01.webp
+      S09E02:
+        file_poster: /home/durmonator/posters/South Park/S09E02.webp
+      S09E03:
+        file_poster: /home/durmonator/posters/South Park/S09E03.webp
+      S09E04:
+        file_poster: /home/durmonator/posters/South Park/S09E04.webp
+      S09E05:
+        file_poster: /home/durmonator/posters/South Park/S09E05.webp
+      S09E06:
+        file_poster: /home/durmonator/posters/South Park/S09E06.webp
+      S09E07:
+        file_poster: /home/durmonator/posters/South Park/S09E07.webp
+      S09E08:
+        file_poster: /home/durmonator/posters/South Park/S09E08.webp
+      S09E09:
+        file_poster: /home/durmonator/posters/South Park/S09E09.webp
+      S09E10:
+        file_poster: /home/durmonator/posters/South Park/S09E10.webp
+      S09E11:
+        file_poster: /home/durmonator/posters/South Park/S09E11.webp
+      S09E12:
+        file_poster: /home/durmonator/posters/South Park/S09E12.webp
+      S09E13:
+        file_poster: /home/durmonator/posters/South Park/S09E13.webp
+      S09E14:
+        file_poster: /home/durmonator/posters/South Park/S09E14.webp
+      S10E01:
+        file_poster: /home/durmonator/posters/South Park/S10E01.webp
+      S10E02:
+        file_poster: /home/durmonator/posters/South Park/S10E02.webp
+      S10E03:
+        file_poster: /home/durmonator/posters/South Park/S10E03.webp
+      S10E04:
+        file_poster: /home/durmonator/posters/South Park/S10E04.webp
+      S10E05:
+        file_poster: /home/durmonator/posters/South Park/S10E05.webp
+      S10E06:
+        file_poster: /home/durmonator/posters/South Park/S10E06.webp
+      S10E07:
+        file_poster: /home/durmonator/posters/South Park/S10E07.webp
+      S10E08:
+        file_poster: /home/durmonator/posters/South Park/S10E08.webp
+      S10E09:
+        file_poster: /home/durmonator/posters/South Park/S10E09.webp
+      S10E10:
+        file_poster: /home/durmonator/posters/South Park/S10E10.webp
+      S10E11:
+        file_poster: /home/durmonator/posters/South Park/S10E11.webp
+      S10E12:
+        file_poster: /home/durmonator/posters/South Park/S10E12.webp
+      S10E13:
+        file_poster: /home/durmonator/posters/South Park/S10E13.webp
+      S10E14:
+        file_poster: /home/durmonator/posters/South Park/S10E14.webp
+      S11E01:
+        file_poster: /home/durmonator/posters/South Park/S11E01.webp
+      S11E02:
+        file_poster: /home/durmonator/posters/South Park/S11E02.webp
+      S11E03:
+        file_poster: /home/durmonator/posters/South Park/S11E03.webp
+      S11E04:
+        file_poster: /home/durmonator/posters/South Park/S11E04.webp
+      S11E05:
+        file_poster: /home/durmonator/posters/South Park/S11E05.webp
+      S11E06:
+        file_poster: /home/durmonator/posters/South Park/S11E06.webp
+      S11E07:
+        file_poster: /home/durmonator/posters/South Park/S11E07.webp
+      S11E08:
+        file_poster: /home/durmonator/posters/South Park/S11E08.webp
+      S11E09:
+        file_poster: /home/durmonator/posters/South Park/S11E09.webp
+      S11E10:
+        file_poster: /home/durmonator/posters/South Park/S11E10.webp
+      S11E11:
+        file_poster: /home/durmonator/posters/South Park/S11E11.webp
+      S11E12:
+        file_poster: /home/durmonator/posters/South Park/S11E12.webp
+      S11E13:
+        file_poster: /home/durmonator/posters/South Park/S11E13.webp
+      S11E14:
+        file_poster: /home/durmonator/posters/South Park/S11E14.webp
+      S12E01:
+        file_poster: /home/durmonator/posters/South Park/S12E01.webp
+      S12E02:
+        file_poster: /home/durmonator/posters/South Park/S12E02.webp
+      S12E03:
+        file_poster: /home/durmonator/posters/South Park/S12E03.webp
+      S12E04:
+        file_poster: /home/durmonator/posters/South Park/S12E04.webp
+      S12E05:
+        file_poster: /home/durmonator/posters/South Park/S12E05.webp
+      S12E06:
+        file_poster: /home/durmonator/posters/South Park/S12E06.webp
+      S12E07:
+        file_poster: /home/durmonator/posters/South Park/S12E07.webp
+      S12E08:
+        file_poster: /home/durmonator/posters/South Park/S12E08.webp
+      S12E09:
+        file_poster: /home/durmonator/posters/South Park/S12E09.webp
+      S12E10:
+        file_poster: /home/durmonator/posters/South Park/S12E10.webp
+      S12E11:
+        file_poster: /home/durmonator/posters/South Park/S12E11.webp
+      S12E12:
+        file_poster: /home/durmonator/posters/South Park/S12E12.webp
+      S12E13:
+        file_poster: /home/durmonator/posters/South Park/S12E13.webp
+      S12E14:
+        file_poster: /home/durmonator/posters/South Park/S12E14.webp
+      S13E01:
+        file_poster: /home/durmonator/posters/South Park/S13E01.webp
+      S13E02:
+        file_poster: /home/durmonator/posters/South Park/S13E02.webp
+      S13E03:
+        file_poster: /home/durmonator/posters/South Park/S13E03.webp
+      S13E04:
+        file_poster: /home/durmonator/posters/South Park/S13E04.webp
+      S13E05:
+        file_poster: /home/durmonator/posters/South Park/S13E05.webp
+      S13E06:
+        file_poster: /home/durmonator/posters/South Park/S13E06.webp
+      S13E07:
+        file_poster: /home/durmonator/posters/South Park/S13E07.webp
+      S13E08:
+        file_poster: /home/durmonator/posters/South Park/S13E08.webp
+      S13E09:
+        file_poster: /home/durmonator/posters/South Park/S13E09.webp
+      S13E10:
+        file_poster: /home/durmonator/posters/South Park/S13E10.webp
+      S13E11:
+        file_poster: /home/durmonator/posters/South Park/S13E11.webp
+      S13E12:
+        file_poster: /home/durmonator/posters/South Park/S13E12.webp
+      S13E13:
+        file_poster: /home/durmonator/posters/South Park/S13E13.webp
+      S13E14:
+        file_poster: /home/durmonator/posters/South Park/S13E14.webp
+      S14E01:
+        file_poster: /home/durmonator/posters/South Park/S14E01.webp
+      S14E02:
+        file_poster: /home/durmonator/posters/South Park/S14E02.webp
+      S14E03:
+        file_poster: /home/durmonator/posters/South Park/S14E03.webp
+      S14E04:
+        file_poster: /home/durmonator/posters/South Park/S14E04.webp
+      S14E05:
+        file_poster: /home/durmonator/posters/South Park/S14E05.webp
+      S14E06:
+        file_poster: /home/durmonator/posters/South Park/S14E06.webp
+      S14E07:
+        file_poster: /home/durmonator/posters/South Park/S14E07.webp
+      S14E08:
+        file_poster: /home/durmonator/posters/South Park/S14E08.webp
+      S14E09:
+        file_poster: /home/durmonator/posters/South Park/S14E09.webp
+      S14E10:
+        file_poster: /home/durmonator/posters/South Park/S14E10.webp
+      S14E11:
+        file_poster: /home/durmonator/posters/South Park/S14E11.webp
+      S14E12:
+        file_poster: /home/durmonator/posters/South Park/S14E12.webp
+      S14E13:
+        file_poster: /home/durmonator/posters/South Park/S14E13.webp
+      S14E14:
+        file_poster: /home/durmonator/posters/South Park/S14E14.webp
+      S15E01:
+        file_poster: /home/durmonator/posters/South Park/S15E01.webp
+      S15E02:
+        file_poster: /home/durmonator/posters/South Park/S15E02.webp
+      S15E03:
+        file_poster: /home/durmonator/posters/South Park/S15E03.webp
+      S15E04:
+        file_poster: /home/durmonator/posters/South Park/S15E04.webp
+      S15E05:
+        file_poster: /home/durmonator/posters/South Park/S15E05.webp
+      S15E06:
+        file_poster: /home/durmonator/posters/South Park/S15E06.webp
+      S15E07:
+        file_poster: /home/durmonator/posters/South Park/S15E07.webp
+      S15E08:
+        file_poster: /home/durmonator/posters/South Park/S15E08.webp
+      S15E09:
+        file_poster: /home/durmonator/posters/South Park/S15E09.webp
+      S15E10:
+        file_poster: /home/durmonator/posters/South Park/S15E10.webp
+      S15E11:
+        file_poster: /home/durmonator/posters/South Park/S15E11.webp
+      S15E12:
+        file_poster: /home/durmonator/posters/South Park/S15E12.webp
+      S15E13:
+        file_poster: /home/durmonator/posters/South Park/S15E13.webp
+      S15E14:
+        file_poster: /home/durmonator/posters/South Park/S15E14.webp
+      S16E01:
+        file_poster: /home/durmonator/posters/South Park/S16E01.webp
+      S16E02:
+        file_poster: /home/durmonator/posters/South Park/S16E02.webp
+      S16E03:
+        file_poster: /home/durmonator/posters/South Park/S16E03.webp
+      S16E04:
+        file_poster: /home/durmonator/posters/South Park/S16E04.webp
+      S16E05:
+        file_poster: /home/durmonator/posters/South Park/S16E05.webp
+      S16E06:
+        file_poster: /home/durmonator/posters/South Park/S16E06.webp
+      S16E07:
+        file_poster: /home/durmonator/posters/South Park/S16E07.webp
+      S16E08:
+        file_poster: /home/durmonator/posters/South Park/S16E08.webp
+      S16E09:
+        file_poster: /home/durmonator/posters/South Park/S16E09.webp
+      S16E10:
+        file_poster: /home/durmonator/posters/South Park/S16E10.webp
+      S16E11:
+        file_poster: /home/durmonator/posters/South Park/S16E11.webp
+      S16E12:
+        file_poster: /home/durmonator/posters/South Park/S16E12.webp
+      S16E13:
+        file_poster: /home/durmonator/posters/South Park/S16E13.webp
+      S16E14:
+        file_poster: /home/durmonator/posters/South Park/S16E14.webp
+      S17E01:
+        file_poster: /home/durmonator/posters/South Park/S17E01.webp
+      S17E02:
+        file_poster: /home/durmonator/posters/South Park/S17E02.webp
+      S17E03:
+        file_poster: /home/durmonator/posters/South Park/S17E03.webp
+      S17E04:
+        file_poster: /home/durmonator/posters/South Park/S17E04.webp
+      S17E05:
+        file_poster: /home/durmonator/posters/South Park/S17E05.webp
+      S17E06:
+        file_poster: /home/durmonator/posters/South Park/S17E06.webp
+      S17E07:
+        file_poster: /home/durmonator/posters/South Park/S17E07.webp
+      S17E08:
+        file_poster: /home/durmonator/posters/South Park/S17E08.webp
+      S17E09:
+        file_poster: /home/durmonator/posters/South Park/S17E09.webp
+      S17E10:
+        file_poster: /home/durmonator/posters/South Park/S17E10.webp
+      S18E01:
+        file_poster: /home/durmonator/posters/South Park/S18E01.webp
+      S18E02:
+        file_poster: /home/durmonator/posters/South Park/S18E02.webp
+      S18E03:
+        file_poster: /home/durmonator/posters/South Park/S18E03.webp
+      S18E04:
+        file_poster: /home/durmonator/posters/South Park/S18E04.webp
+      S18E05:
+        file_poster: /home/durmonator/posters/South Park/S18E05.webp
+      S18E06:
+        file_poster: /home/durmonator/posters/South Park/S18E06.webp
+      S18E07:
+        file_poster: /home/durmonator/posters/South Park/S18E07.webp
+      S18E08:
+        file_poster: /home/durmonator/posters/South Park/S18E08.webp
+      S18E09:
+        file_poster: /home/durmonator/posters/South Park/S18E09.webp
+      S18E10:
+        file_poster: /home/durmonator/posters/South Park/S18E10.webp
+      S19E01:
+        file_poster: /home/durmonator/posters/South Park/S19E01.webp
+      S19E02:
+        file_poster: /home/durmonator/posters/South Park/S19E02.webp
+      S19E03:
+        file_poster: /home/durmonator/posters/South Park/S19E03.webp
+      S19E04:
+        file_poster: /home/durmonator/posters/South Park/S19E04.webp
+      S19E05:
+        file_poster: /home/durmonator/posters/South Park/S19E05.webp
+      S19E06:
+        file_poster: /home/durmonator/posters/South Park/S19E06.webp
+      S19E07:
+        file_poster: /home/durmonator/posters/South Park/S19E07.webp
+      S19E08:
+        file_poster: /home/durmonator/posters/South Park/S19E08.webp
+      S19E09:
+        file_poster: /home/durmonator/posters/South Park/S19E09.webp
+      S19E10:
+        file_poster: /home/durmonator/posters/South Park/S19E10.webp
+      S20E01:
+        file_poster: /home/durmonator/posters/South Park/S20E01.webp
+      S20E02:
+        file_poster: /home/durmonator/posters/South Park/S20E02.webp
+      S20E03:
+        file_poster: /home/durmonator/posters/South Park/S20E03.webp
+      S20E04:
+        file_poster: /home/durmonator/posters/South Park/S20E04.webp
+      S20E05:
+        file_poster: /home/durmonator/posters/South Park/S20E05.webp
+      S20E06:
+        file_poster: /home/durmonator/posters/South Park/S20E06.webp
+      S20E07:
+        file_poster: /home/durmonator/posters/South Park/S20E07.webp
+      S20E08:
+        file_poster: /home/durmonator/posters/South Park/S20E08.webp
+      S20E09:
+        file_poster: /home/durmonator/posters/South Park/S20E09.webp
+      S20E10:
+        file_poster: /home/durmonator/posters/South Park/S20E10.webp
+      S21E01:
+        file_poster: /home/durmonator/posters/South Park/S21E01.webp
+      S21E02:
+        file_poster: /home/durmonator/posters/South Park/S21E02.webp
+      S21E03:
+        file_poster: /home/durmonator/posters/South Park/S21E03.webp
+      S21E04:
+        file_poster: /home/durmonator/posters/South Park/S21E04.webp
+      S21E05:
+        file_poster: /home/durmonator/posters/South Park/S21E05.webp
+      S21E06:
+        file_poster: /home/durmonator/posters/South Park/S21E06.webp
+      S21E07:
+        file_poster: /home/durmonator/posters/South Park/S21E07.webp
+      S21E08:
+        file_poster: /home/durmonator/posters/South Park/S21E08.webp
+      S21E09:
+        file_poster: /home/durmonator/posters/South Park/S21E09.webp
+      S21E10:
+        file_poster: /home/durmonator/posters/South Park/S21E10.webp
+      S22E01:
+        file_poster: /home/durmonator/posters/South Park/S22E01.webp
+      S22E02:
+        file_poster: /home/durmonator/posters/South Park/S22E02.webp
+      S22E03:
+        file_poster: /home/durmonator/posters/South Park/S22E03.webp
+      S22E04:
+        file_poster: /home/durmonator/posters/South Park/S22E04.webp
+      S22E05:
+        file_poster: /home/durmonator/posters/South Park/S22E05.webp
+      S22E06:
+        file_poster: /home/durmonator/posters/South Park/S22E06.webp
+      S22E07:
+        file_poster: /home/durmonator/posters/South Park/S22E07.webp
+      S22E08:
+        file_poster: /home/durmonator/posters/South Park/S22E08.webp
+      S22E09:
+        file_poster: /home/durmonator/posters/South Park/S22E09.webp
+      S22E10:
+        file_poster: /home/durmonator/posters/South Park/S22E10.webp
+      S23E01:
+        file_poster: /home/durmonator/posters/South Park/S23E01.webp
+      S23E02:
+        file_poster: /home/durmonator/posters/South Park/S23E02.webp
+      S23E03:
+        file_poster: /home/durmonator/posters/South Park/S23E03.webp
+      S23E04:
+        file_poster: /home/durmonator/posters/South Park/S23E04.webp
+      S23E05:
+        file_poster: /home/durmonator/posters/South Park/S23E05.webp
+      S23E06:
+        file_poster: /home/durmonator/posters/South Park/S23E06.webp
+      S23E07:
+        file_poster: /home/durmonator/posters/South Park/S23E07.webp
+      S23E08:
+        file_poster: /home/durmonator/posters/South Park/S23E08.webp
+      S23E09:
+        file_poster: /home/durmonator/posters/South Park/S23E09.webp
+      S23E10:
+        file_poster: /home/durmonator/posters/South Park/S23E10.webp
+      S24E01:
+        file_poster: /home/durmonator/posters/South Park/S24E01.webp
+      S24E02:
+        file_poster: /home/durmonator/posters/South Park/S24E02.webp
+  Stargirl:
+    file_poster: /home/durmonator/posters/Stargirl/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Stargirl/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Stargirl/S02.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Stargirl/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Stargirl/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Stargirl/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Stargirl/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Stargirl/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Stargirl/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Stargirl/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/Stargirl/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/Stargirl/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/Stargirl/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/Stargirl/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/Stargirl/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/Stargirl/S01E13.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/Stargirl/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/Stargirl/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/Stargirl/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/Stargirl/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/Stargirl/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/Stargirl/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/Stargirl/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/Stargirl/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/Stargirl/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/Stargirl/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/Stargirl/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/Stargirl/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/Stargirl/S02E13.webp
+  Superman and Lois:
+    file_poster: /home/durmonator/posters/Superman and Lois/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Superman and Lois/S02.webp
+      0:
+        file_poster: /home/durmonator/posters/Superman and Lois/S00.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E13.webp
+      S01E14:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E14.webp
+      S01E15:
+        file_poster: /home/durmonator/posters/Superman and Lois/S01E15.webp
+  The Walking Dead:
+    file_background: /home/durmonator/posters/The Walking Dead/background.webp
+    file_poster: /home/durmonator/posters/The Walking Dead/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/The Walking Dead/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03.webp
+      4:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04.webp
+      5:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05.webp
+      6:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06.webp
+      7:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07.webp
+      8:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08.webp
+      9:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09.webp
+      10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10.webp
+      11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11.webp
+      0:
+        file_poster: /home/durmonator/posters/The Walking Dead/S00.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S01E06.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/The Walking Dead/S02E13.webp
+      S03E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E01.webp
+      S03E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E02.webp
+      S03E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E03.webp
+      S03E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E04.webp
+      S03E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E05.webp
+      S03E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E06.webp
+      S03E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E07.webp
+      S03E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E08.webp
+      S03E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E09.webp
+      S03E10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E10.webp
+      S03E11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E11.webp
+      S03E12:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E12.webp
+      S03E13:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E13.webp
+      S03E14:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E14.webp
+      S03E15:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E15.webp
+      S03E16:
+        file_poster: /home/durmonator/posters/The Walking Dead/S03E16.webp
+      S04E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E01.webp
+      S04E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E02.webp
+      S04E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E03.webp
+      S04E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E04.webp
+      S04E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E05.webp
+      S04E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E06.webp
+      S04E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E07.webp
+      S04E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E08.webp
+      S04E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E09.webp
+      S04E10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E10.webp
+      S04E11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E11.webp
+      S04E12:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E12.webp
+      S04E13:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E13.webp
+      S04E14:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E14.webp
+      S04E15:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E15.webp
+      S04E16:
+        file_poster: /home/durmonator/posters/The Walking Dead/S04E16.webp
+      S05E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E01.webp
+      S05E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E02.webp
+      S05E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E03.webp
+      S05E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E04.webp
+      S05E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E05.webp
+      S05E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E06.webp
+      S05E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E07.webp
+      S05E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E08.webp
+      S05E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E09.webp
+      S05E10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E10.webp
+      S05E11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E11.webp
+      S05E12:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E12.webp
+      S05E13:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E13.webp
+      S05E14:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E14.webp
+      S05E15:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E15.webp
+      S05E16:
+        file_poster: /home/durmonator/posters/The Walking Dead/S05E16.webp
+      S06E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E01.webp
+      S06E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E02.webp
+      S06E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E03.webp
+      S06E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E04.webp
+      S06E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E05.webp
+      S06E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E06.webp
+      S06E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E07.webp
+      S06E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E08.webp
+      S06E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E09.webp
+      S06E10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E10.webp
+      S06E11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E11.webp
+      S06E12:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E12.webp
+      S06E13:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E13.webp
+      S06E14:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E14.webp
+      S06E15:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E15.webp
+      S06E16:
+        file_poster: /home/durmonator/posters/The Walking Dead/S06E16.webp
+      S07E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E01.webp
+      S07E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E02.webp
+      S07E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E03.webp
+      S07E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E04.webp
+      S07E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E05.webp
+      S07E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E06.webp
+      S07E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E07.webp
+      S07E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E08.webp
+      S07E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E09.webp
+      S07E10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E10.webp
+      S07E11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E11.webp
+      S07E12:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E12.webp
+      S07E13:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E13.webp
+      S07E14:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E14.webp
+      S07E15:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E15.webp
+      S07E16:
+        file_poster: /home/durmonator/posters/The Walking Dead/S07E16.webp
+      S08E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E01.webp
+      S08E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E02.webp
+      S08E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E03.webp
+      S08E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E04.webp
+      S08E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E05.webp
+      S08E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E06.webp
+      S08E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E07.webp
+      S08E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E08.webp
+      S08E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E09.webp
+      S08E10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E10.webp
+      S08E11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E11.webp
+      S08E12:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E12.webp
+      S08E13:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E13.webp
+      S08E14:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E14.webp
+      S08E15:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E15.webp
+      S08E16:
+        file_poster: /home/durmonator/posters/The Walking Dead/S08E16.webp
+      S09E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E01.webp
+      S09E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E02.webp
+      S09E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E03.webp
+      S09E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E04.webp
+      S09E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E05.webp
+      S09E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E06.webp
+      S09E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E07.webp
+      S09E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E08.webp
+      S09E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E09.webp
+      S09E10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E10.webp
+      S09E11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E11.webp
+      S09E12:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E12.webp
+      S09E13:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E13.webp
+      S09E14:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E14.webp
+      S09E15:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E15.webp
+      S09E16:
+        file_poster: /home/durmonator/posters/The Walking Dead/S09E16.webp
+      S10E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E01.webp
+      S10E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E02.webp
+      S10E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E03.webp
+      S10E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E04.webp
+      S10E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E05.webp
+      S10E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E06.webp
+      S10E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E07.webp
+      S10E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E08.webp
+      S10E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E09.webp
+      S10E10:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E10.webp
+      S10E11:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E11.webp
+      S10E12:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E12.webp
+      S10E13:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E13.webp
+      S10E14:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E14.webp
+      S10E15:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E15.webp
+      S10E16:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E16.webp
+      S10E17:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E17.webp
+      S10E18:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E18.webp
+      S10E19:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E19.webp
+      S10E20:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E20.webp
+      S10E21:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E21.webp
+      S10E22:
+        file_poster: /home/durmonator/posters/The Walking Dead/S10E22.webp
+      S11E01:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11E01.webp
+      S11E02:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11E02.webp
+      S11E03:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11E03.webp
+      S11E04:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11E04.webp
+      S11E05:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11E05.webp
+      S11E06:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11E06.webp
+      S11E07:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11E07.webp
+      S11E08:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11E08.webp
+      S11E09:
+        file_poster: /home/durmonator/posters/The Walking Dead/S11E09.webp
+  "What If…?":
+    file_poster: /home/durmonator/posters/What If/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/What If/S01.webp
+  The Wonder Years (2021):
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/The Wonder Years/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/The Wonder Years/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/The Wonder Years/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/The Wonder Years/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/The Wonder Years/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/The Wonder Years/S01E06.webp
+  Zoey's Extraordinary Playlist:
+    file_poster: /home/durmonator/posters/Zoey's Extraordinary Playlist/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Zoey's Extraordinary Playlist/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Zoey's Extraordinary Playlist/S02.webp
+      0:
+        file_poster: /home/durmonator/posters/Zoey's Extraordinary Playlist/S00.webp
