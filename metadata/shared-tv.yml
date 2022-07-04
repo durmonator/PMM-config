@@ -226,6 +226,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/213298
+  "Ms. Marvel":
+    url_poster: https://theposterdb.com/api/assets/241709
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/241710
+    episodes:
+      S01E01:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/TV Shows/Ms. Marvel/S01E01.webp
+      S01E02:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/TV Shows/Ms. Marvel/S01E02.webp
+      S01E03:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/TV Shows/Ms. Marvel/S01E03.webp
+      S01E04:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/TV Shows/Ms. Marvel/S01E04.webp
   Squid Game:
     url_poster: https://theposterdb.com/api/assets/179025
     seasons:
