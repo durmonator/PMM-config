@@ -404,7 +404,7 @@ collections:
     template: 
       - name: Person
         person: 31
-      - name: Repo
+      - name: Meta
         poster: 48644
   Uma Thurman:
     template:
