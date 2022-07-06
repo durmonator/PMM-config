@@ -454,11 +454,11 @@ collections:
     template: {name: Collection, movie: "10195, 24428, 99861, 271110, 299536"}
   Hellboy:
     template:
-      - name: Collection
-      - collection: 17235
-      - movie: 456740
-      - name: Meta
-      - poster: 154155
+      name: Collection
+      collection: 17235
+      movie: 456740
+      name: Meta
+      poster: 154155
   High School Musical:
     template: {name: Collection, collection: 87253}
   The Hobbit:
