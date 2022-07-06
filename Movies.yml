@@ -457,6 +457,7 @@ collections:
       name: Collection
       collection: 17235
       movie: 456740
+    template:
       name: Meta
       poster: 154155
   High School Musical:
