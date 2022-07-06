@@ -1,3 +1,5 @@
 *.DS_Store
 config.yml
-assets/
+assets/*
+!assets/awards
+!assets/webp.sh
