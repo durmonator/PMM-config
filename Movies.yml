@@ -92,11 +92,14 @@ collections:
     template:
       - name: Chart Alpha
         num: 2
+      - name: Meta
+        poster: 239900
     imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250
   'Oscars: Best Pictures':
     template:
       - name: Chart Release
         num: 3
+    url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/oscars-best-picture.webp
     trakt_list: https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners?sort=rank,asc
     summary: All the winners in the Best Picture category of the Oscars.
     name_mapping: Oscars Best Picture
@@ -104,6 +107,7 @@ collections:
     template:
       - name: Chart Release
         num: 4
+    url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/bafta-best-film.webp
     trakt_list: https://trakt.tv/users/maxwelldeux/lists/bafta-award-best-film?sort=released,desc
     summary: The Best Film as chosen by the British Academy of Film and Television Arts charity.
     name_mapping: BAFTA Best Film
@@ -111,6 +115,7 @@ collections:
     template:
       - name: Chart Release
         num: 5
+    url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/golden-globes-best-drama.webp
     trakt_list: https://trakt.tv/users/grendelcrusher/lists/golden-globe-awards-for-best-movie-picture-drama?sort=released,desc
     summary: A list of all winners of the Golden Globe Award for Best Movie Picture - Drama since 1943.
     name_mapping: Golden Globes Drama
@@ -118,6 +123,7 @@ collections:
     template:
       - name: Chart Release
         num: 6
+    url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/golden-globes-best-comedy-musical.webp
     trakt_list: https://trakt.tv/users/grendelcrusher/lists/golden-globe-award-for-best-movie-picture-musical-or-comedy?sort=released,desc
     summary: A list of all winners of the Golden Globe Award for Best Movie Picture - Musical or Comedy since 1951.
     name_mapping: Golden Globes Comedy
@@ -125,6 +131,7 @@ collections:
     template:
       - name: Chart Release
         num: 7
+    url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/oscars-best-director.webp
     trakt_list: https://trakt.tv/users/fauxliege/lists/oscar-best-director?sort=released,desc
     summary: All the winners in the Best Director category of the Oscars.
     name_mapping: Oscars Best Director
@@ -132,6 +139,7 @@ collections:
     template:
       - name: Chart Release
         num: 8
+    url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/oscars-best-actor.webp
     trakt_list: https://trakt.tv/users/serffan/lists/best-actor-oscar-winners?sort=released,desc
     summary: All the winners in the Best Actor category of the Oscars.
     name_mapping: Oscars Best Actor
@@ -139,6 +147,7 @@ collections:
     template:
       - name: Chart Release
         num: 9
+    url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/oscars-best-actress.webp
     trakt_list: https://trakt.tv/users/serffan/lists/best-actress-oscar-winners?sort=released,desc
     summary: All the winners in the Best Actress category of the Oscars.
     name_mapping: Oscars Best Actress
@@ -146,34 +155,56 @@ collections:
     template:
       - name: Best of
         year: 2014
+      - name: Meta
+        poster: 199944
   Best of 2015:
     template:
       - name: Best of
         year: 2015
+      - name: Meta
+        poster: 199945
   Best of 2016:
     template:
       - name: Best of
         year: 2016
+      - name: Meta
+        poster: 199946
   Best of 2017:
     template:
       - name: Best of
         year: 2017
+      - name: Meta
+        poster: 136351
   Best of 2018:
     template:
       - name: Best of
         year: 2018
+      - name: Meta
+        poster: 136350
   Best of 2019:
     template:
       - name: Best of
         year: 2019
+      - name: Meta
+        poster: 136349
   Best of 2020:
     template:
       - name: Best of
         year: 2020
+      - name: Meta
+        poster: 136348
   Best of 2021:
     template:
       - name: Best of
         year: 2021
+      - name: Meta
+        poster: 136347
+  Best of 2022:
+    template:
+      - name: Best of
+        year: 2022
+      - name: Meta
+        poster: 199947
 
 ########################################################
 #                 STUDIO COLLECTIONS                   #
@@ -183,16 +214,22 @@ collections:
     template:
       - name: Studio
         company: 297
+      - name: Meta
+        poster: 137887
     summary: Aardman Animations, Ltd. is a British animation studio based in Bristol, England. Aardman is known for films made using stop-motion clay animation techniques, particularly those featuring Plasticine characters Wallace and Gromit.
   Blue Sky:
     template:
       - name: Studio
         company: 9383
+      - name: Meta
+        poster: 103278
     summary: Blue Sky Studios, Inc. is an American computer animation film studio based in Greenwich, Connecticut. It is a subsidiary of 20th Century Animation, a division of Disney Studios Content.
   DreamWorks:
     template:
       - name: Studio
         company: 521
+      - name: Meta
+        poster: 159964
     filters:
       collection.not: Aardman
     summary: DreamWorks Animation LLC (also simply known as DreamWorks) is an American animation studio and a subsidiary of Universal Pictures, itself a subsidiary of Comcast's NBCUniversal. It is based in Glendale, California, and produces animated feature films, television programs, and online virtual games.
@@ -200,39 +237,55 @@ collections:
     template:
       - name: Studio
         company: 6704
+      - name: Meta
+        poster: 202590
     summary: Illumination is an American film and animation studio founded by Chris Meledandri in 2007 and owned by Universal Pictures, a division of NBCUniversal, which is itself a division of Comcast. Meledandri produces the films, while Universal finances and distributes all the films. The studio is responsible for the Despicable Me and The Secret Life of Pets franchises and the film adaptations of Dr. Seuss' books The Lorax and How the Grinch Stole Christmas. The Minions, characters from the Despicable Me series, are the studio's mascots.
   Pixar:
     template:
       - name: Studio
         company: 3
+      - name: Meta
+        poster: 148076
     summary: Pixar Animation Studios, commonly known as Pixar, is an American computer animation studio based in Emeryville, California, a subsidiary of Disney Studios Content owned by The Walt Disney Company. Pixar began in 1979 as part of the Lucasfilm computer division, known as the Graphics Group, before its spin-off as a corporation on February 3, 1986, with funding from Apple co-founder Steve Jobs, who became its majority shareholder. Disney purchased Pixar in 2006 at a valuation of $7.4 billion by converting each share of Pixar stock to 2.3 shares of Disney stock, a transaction that resulted in Jobs becoming Disney's largest single shareholder at the time. Pixar is best known for its feature films technologically powered by RenderMan, the company's own implementation of the industry-standard RenderMan Interface Specification image-rendering application programming interface. Luxo Jr., a desk lamp from the studio's 1986 short film of the same name, is the studio's mascot.
   Pixar Shorts:
     template:
       - name: Studio
+      - name: Meta
+        poster: 150984
     imdb_list: https://www.imdb.com/list/ls055703600/
   Studio Ghibli:
     template:
       - name: Studio
         company: 10342
+      - name: Meta
+        poster: 103281
     summary: Studio Ghibli Inc. is a Japanese animation film studio headquartered in Koganei, Tokyo. The studio is best known for its animated feature films, and has also produced several short films, television commercials, and one television film. The studio's mascot and most recognizable symbol is the character, Totoro, a giant cat-like spirit from the 1988 classic, My Neighbor Totoro.
   Sony Pictures Animation:
     template:
       - name: Studio
         company: 2251
+      - name: Meta
+        poster: 174163
     summary: Sony Pictures Animation Inc. is an American animation studio owned by Sony Entertainment's Sony Pictures Entertainment through their Motion Picture Group division and founded on May 9, 2002. The studio's films are distributed worldwide by Sony Pictures Releasing under their Columbia Pictures label, while all direct-to-video releases are released by Sony Pictures Home Entertainment.
   Warner Animation Group:
     template:
       - name: Studio
         company: 25120
+      - name: Meta
+        poster: 103280
     summary: The Warner Animation Group (WAG) is an American animation studio that is the feature animation division of Warner Bros. Entertainment. Established on January 7, 2013, the studio is the successor to the dissolved 2D traditional hand-drawn animation studio Warner Bros. Feature Animation, which shut down in 2003 and the dissolved family film division Warner Bros. Family Entertainment, which shut down in 2009. The entity is also a sister animation studio of the regular animation studio Warner Bros. Animation
   Walt Disney Animation Studios:
     template:
       - name: Studio
+      - name: Meta
+        poster: 152809
     imdb_list: https://www.imdb.com/list/ls059383351/
     summary: Walt Disney Animation Studios (WDAS), sometimes shortened to Disney Animation, is an American animation studio that creates animated features and short films for The Walt Disney Company. Founded on October 16, 1923 by brothers Walt Disney and Roy O. Disney, it is one of the oldest-running animation studios in the world. It is currently organized as a division of Walt Disney Studios and is headquartered at the Roy E. Disney Animation Building at the Walt Disney Studios lot in Burbank, California.
   Walt Disney Pictures:
     template:
       - name: Studio
+      - name: Meta
+        poster: 167260
     imdb_list: https://www.imdb.com/list/ls077114097/
     summary: Walt Disney Pictures is an American film production studio of The Walt Disney Studios, which is owned by The Walt Disney Company. The studio is the flagship producer of live-action feature films within the Walt Disney Studios unit, and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under this brand. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures.
 
@@ -245,11 +298,15 @@ collections:
       - name: IMDb Genre
         genre: musical
         limit: 200
+      - name: Meta
+        poster: 205000
     summary: A Musical interweaves vocal and dance performances into the narrative of the film. The songs of a film can either be used to further the story or simply enhance the experience of the audience. These films are often done on a grand scale and incorporate lavish costumes and sets. Traditional musicals center on a well-known star, famous for their dancing or singing skills (i.e. Fred Astaire, Gene Kelly, Judy Garland). These films explore concepts such are love and success, allowing the audience to escape from reality.
   Sci-Fi:
     template:
       - name: IMDb Genre
         genre: sci-fi
+      - name: Meta
+        poster: 52661
     summary: Science Fiction (Sci-Fi) film is a genre that incorporates hypothetical, science-based themes into the plot of the film. Often, this genre incorporates futuristic elements and technologies to explore social, political, and philosophical issues. The film itself is usually set in the future, either on earth or in space. Traditionally, a Science Fiction film will incorporate heroes, villains, unexplored locations, fantastical quests, and advanced technology.
 
 ########################################################
@@ -260,164 +317,242 @@ collections:
     template: 
       - name: Person
         person: 19292
+      - name: Meta
+        poster: 201688
   Amy Adams:
     template: 
       - name: Person
         person: 9273
+      - name: Meta
+        poster: 201691
   Anne Hathaway:
     template: 
       - name: Person
         person: 1813
+      - name: Meta
+        poster: 201693
   Brad Pitt:
     template: 
       - name: Person
         person: 287
+      - name: Meta
+        poster: 201700
   Cameron Diaz:
     template: 
       - name: Person
         person: 6941
+      - name: Meta
+        poster: 201705
   Chadwick Boseman:
     template: 
       - name: Person
         person: 172069
+      - name: Meta
+        poster: 96816
   Chris Hemsworth:
     template: 
       - name: Person
         person: 74568
+      - name: Meta
+        poster: 201713
   Emma Stone:
     template: 
       - name: Person
         person: 54693
+      - name: Meta
+        poster: 201733
   Ewan McGregor:
     template: 
       - name: Person
         person: 3061
+      - name: Meta
+        poster: 201736
   Gary Oldman:
     template: 
       - name: Person
         person: 64
+      - name: Meta
+        poster: 48647
   Guy Ritchie:
     template: 
       - name: Person
         person: 956
+      - name: Meta
+        poster: 85510
   Idris Elba:
     template: 
       - name: Person
         person: 17605
+      - name: Meta
+        poster: 201744
   Jack Black:
     template: 
       - name: Person
         person: 70851
+      - name: Meta
+        poster: 201746
   James Franco:
     template: 
       - name: Person
         person: 17051
+      - name: Meta
+        poster: 201760
   James McAvoy:
     template: 
       - name: Person
         person: 5530
+      - name: Meta
+        poster: 91818
   Jennifer Aniston:
     template: 
       - name: Person
         person: 4491
+      - name: Meta
+        poster: 201767
   Jennifer Lawrence:
     template: 
       - name: Person
         person: 72129
+      - name: Meta
+        poster: 201768
   Joaquin Phoenix:
     template: 
       - name: Person
         person: 73421
+      - name: Meta
+        poster: 48646
   Johnny Depp:
     template: 
       - name: Person
         person: 85
+      - name: Meta
+        poster: 201777
   Jonah Hill:
     template: 
       - name: Person
         person: 21007
+      - name: Meta
+        poster: 85508
   Jude Law:
     template: 
       - name: Person
         person: 9642
+      - name: Meta
+        poster: 92274
   Julia Roberts:
     template: 
       - name: Person
         person: 1204
+      - name: Meta
+        poster: 201781
   Kate Beckinsale:
     template: 
       - name: Person
         person: 3967
+      - name: Meta
+        poster: 92276
   Kevin Bacon:
     template: 
       - name: Person
         person: 4724
+      - name: Meta
+        poster: 201783
   Kristen Stewart:
     template: 
       - name: Person
         person: 37917
+      - name: Meta
+        poster: 201787
   Laurence Fishburne:
     template: 
       - name: Person
         person: 2975
+      - name: Meta
+        poster: 92278
   Leonardo DiCaprio:
     template: 
       - name: Person
         person: 6193
+      - name: Meta
+        poster: 201788
   Matt Damon:
     template: 
       - name: Person
         person: 1892
+      - name: Meta
+        poster: 201794
   Morgan Freeman:
     template:
       - name: Person
         person: 192
+      - name: Meta
+        poster: 201812
   Quentin Tarantino:
     template:
       - name: Person
         person: 138
+      - name: Meta
+        poster: 201821
   Robin Williams:
     template:
       - name: Person
         person: 2157
+      - name: Meta
+        poster: 201826
   Samuel L. Jackson:
     template:
       - name: Person
         person: 2231
+      - name: Meta
+        poster: 201830
   Scarlett Johansson:
     template:
       - name: Person
         person: 1245
+      - name: Meta
+        poster: 201832
   Sigourney Weaver:
     template:
       - name: Person
         person: 10205
+      - name: Meta
+        poster: 92288
   Steven Spielberg:
     template:
       - name: Person
         person: 488
+      - name: Meta
+        poster: 201840
   Tom Cruise:
     template:
       - name: Person
         person: 500
+      - name: Meta
+        poster: 201844
   Tom Hanks:
     template: 
       - name: Person
         person: 31
       - name: Meta
-        poster: 48644
+        poster: 201845
   Uma Thurman:
     template:
       - name: Person
         person: 139
+      - name: Meta
+        poster: 92290
   Wes Anderson:
     template:
       - name: Person
         person: 5655
+      - name: Meta
+        poster: 48692
   Will Ferrell:
     template:
       - name: Person
         person: 23659
+      - name: Meta
+        poster: 201850
 
 ######################################################
 #                TMDb Collections                    #
