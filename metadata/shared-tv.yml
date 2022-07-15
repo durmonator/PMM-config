@@ -240,6 +240,10 @@ metadata:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/ms-marvel/S01E03.webp
       S01E04:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/ms-marvel/S01E04.webp
+      S01E05:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/ms-marvel/S01E05.webp
+      S01E06:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/ms-marvel/S01E06.webp
   Squid Game:
     url_poster: https://theposterdb.com/api/assets/179025
     seasons:
