@@ -5,7 +5,7 @@ templates:
     tmdb_network: <<network>>
     url_poster: https://theposterdb.com/api/assets/<<poster>>
     sort_title: <<collection_name>>
-    collection_mode: hide_items
+    collection_mode: 
     collection_order: alpha
     sync_mode: sync
 
