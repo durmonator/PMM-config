@@ -46,6 +46,12 @@ collections:
       network: 2739,
       poster: 204745
     }
+  FX:
+    template: {
+      name: network,
+      network: 88,
+      poster: 212627
+    }
   HBO:
     template: {
       name: network,
