@@ -10,6 +10,12 @@ templates:
     sync_mode: sync
 
 collections:
+  ABC:
+    template: {
+      name: network,
+      network: "2, 75, 2791",
+      poster: 204735
+    }
   AMC:
     template: {
       name: network,
@@ -58,6 +64,12 @@ collections:
       network: "6, 413",
       poster: 204715
     }
+  Netflix:
+    template: {
+      name: network,
+      network: 213,
+      poster: 204716
+    }
   Paramount+:
     template: {
       name: network,
@@ -80,5 +92,5 @@ collections:
     template: {
       name: network,
       network: "318, 758",
-      poster: 205723
+      poster: 204723
     }

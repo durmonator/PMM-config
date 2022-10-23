@@ -221,6 +221,22 @@ metadata:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/the-mandalorian/S02E07.webp
       S02E08:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/the-mandalorian/S02E08.webp
+  "Marvel Studios: Assembled":
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E07.webp
   Moon Knight:
     url_poster: https://theposterdb.com/api/assets/212414
     seasons:
