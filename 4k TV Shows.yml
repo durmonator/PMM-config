@@ -16,6 +16,12 @@ collections:
       network: "174, 4661",
       poster: 204737
     }
+  Apple TV+:
+    template: {
+      name: network,
+      network: "2552, 1932",
+      poster: 204738
+    }
   BBC:
     template: {
       name: network,
@@ -40,15 +46,39 @@ collections:
       network: "49, 5484, 5485, 3186, 2593",
       poster: 204710
     }
+  Hulu:
+    template: {
+      name: network,
+      network: 453,
+      poster: 204711
+    }
   NBC:
     template: {
       name: network,
       network: "6, 413",
       poster: 204715
     }
+  Paramount+:
+    template: {
+      name: network,
+      network: "4330, 2076",
+      poster: 204718
+    }
   Prime:
     template: {
       name: network,
       network: 1024,
       poster: 204721
+    }
+  Showtime:
+    template: {
+      name: network,
+      network: 67,
+      poster: 204720
+    }
+  Starz:
+    template: {
+      name: network,
+      network: "318, 758",
+      poster: 205723
     }
