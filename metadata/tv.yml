@@ -2604,46 +2604,6 @@ metadata:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/glasto/S2022E70.webp
       S2022E71:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/glasto/S2022E71.webp
-  Hanna:
-    url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/show.webp
-    seasons:
-      1:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S01.webp
-      2:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S02.webp
-    episodes:
-      S01E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S01E01.webp
-      S01E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S01E02.webp
-      S01E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S01E03.webp
-      S01E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S01E04.webp
-      S01E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S01E05.webp
-      S01E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S01E06.webp
-      S01E07:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S01E07.webp
-      S01E08:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S01E08.webp
-      S02E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S02E01.webp
-      S02E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S02E02.webp
-      S02E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S02E03.webp
-      S02E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S02E04.webp
-      S02E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S02E05.webp
-      S02E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S02E06.webp
-      S02E07:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S02E07.webp
-      S02E08:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/hanna/S02E08.webp
   I Hate Suzie:
     episodes:
       S01E01:
