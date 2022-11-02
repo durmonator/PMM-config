@@ -11,12 +11,6 @@ templates:
     sort_title: '*_<<collection_name>>'
     sync_mode: sync
     collection_order: release
-  Network:
-    sort_title: ++_<<collection_name>>
-    plex_search:
-      network: <<collection_name>>
-    collection_order: alpha
-    sync_mode: sync
   Collection:
     optional:
       - collection
@@ -40,108 +34,6 @@ collections:
   IMDb Top 250:
     template: {name: Chart Alpha, num: 2}
     trakt_list: https://trakt.tv/users/justin/lists/imdb-top-rated-tv-shows?sort=rank,asc
-  7mate:
-    template: {name: Network}
-  A&E:
-    template: {name: Network}
-  ABC:
-    template: {name: Network}
-  Adult Swim:
-    template: {name: Network}
-  Amazon:
-    template: {name: Network}
-  AMC:
-    template: {name: Network}
-  Apple TV+:
-    template: {name: Network}
-  AXN:
-    template: {name: Network}
-  BBC America:
-    template: {name: Network}
-  BBC One:
-    template: {name: Network}
-  BBC Two:
-    template: {name: Network}
-  BBC Three:
-    template: {name: Network}
-    tmdb_network: 1155
-  Bravo:
-    template: {name: Network}
-  CBeebies:
-    template: {name: Network}
-  CBS:
-    template: {name: Network}
-  Channel 4:
-    template: {name: Network}
-  Channel 5:
-    template: {name: Network}
-  Comedy Central:
-    template: {name: Network}
-  Crave:
-    template: {name: Network}
-  Disney+:
-    template: {name: Network}
-  E!:
-    template: {name: Network}
-    name_mapping: E
-  Epix:
-    template: {name: Network}
-  FOX:
-    template: {name: Network}
-  FX:
-    template: {name: Network}
-  FXX:
-    template: {name: Network}
-  Game Show Network:
-    template: {name: Network}
-  HBO:
-    template: {name: Network}
-  HBO Max:
-    template: {name: Network}
-  Hulu:
-    template: {name: Network}
-  ITV:
-    template: {name: Network}
-  MTV:
-    template: {name: Network}
-  NBC:
-    template: {name: Network}
-  Netflix:
-    template: {name: Network}
-  Nickelodeon:
-    template: {name: Network}
-  Paramount Network:
-    template: {name: Network}
-  Peacock:
-    template: {name: Network}
-  Showtime:
-    template: {name: Network}
-  Sky Atlantic:
-    template: {name: Network}
-  Sky One:
-    template: {name: Network}
-  Starz:
-    template: {name: Network}
-  Syfy:
-    template: {name: Network}
-  TBS:
-    template: {name: Network}
-  TF1:
-    template: {name: Network}
-  The CW:
-    template: {name: Network}
-  TNT:
-    template: {name: Network}
-  Travel Channel:
-    template: {name: Network}
-  TV Tokyo:
-    template: {name: Network}
-  USA Network:
-    template: {name: Network}
-  VH1:
-    template: {name: Network}
-  Viceland:
-    template: {name: Network}
   Arrowverse:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/search/keyword/?keywords=dc-arrowverse&ref_=fn_al_kw_1
