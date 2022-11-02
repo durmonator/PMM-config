@@ -237,6 +237,11 @@ metadata:
         file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E06.webp
       S01E07:
         file_poster: /home/durmonator/posters/Marvel Studios Assembled/S01E07.webp
+  Monsters at Work:
+    url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/monsters-at-work/show.webp
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/monsters-at-work/S01.webp
   Moon Knight:
     url_poster: https://theposterdb.com/api/assets/212414
     seasons:
