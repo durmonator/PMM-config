@@ -590,6 +590,92 @@ metadata:
         file_poster: /home/durmonator/posters/Bad Education (2012)/S03.webp
       0:
         file_poster: /home/durmonator/posters/Bad Education (2012)/S00.webp
+  Batwoman:
+    file_poster: /home/durmonator/posters/Batwoman/show.webp
+    seasons:
+      1:
+        file_poster: /home/durmonator/posters/Batwoman/S01.webp
+      2:
+        file_poster: /home/durmonator/posters/Batwoman/S02.webp
+      3:
+        file_poster: /home/durmonator/posters/Batwoman/S03.webp
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Batwoman/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Batwoman/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Batwoman/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Batwoman/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Batwoman/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Batwoman/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Batwoman/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/Batwoman/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/Batwoman/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/Batwoman/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/Batwoman/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/Batwoman/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/Batwoman/S01E13.webp
+      S01E14:
+        file_poster: /home/durmonator/posters/Batwoman/S01E14.webp
+      S01E15:
+        file_poster: /home/durmonator/posters/Batwoman/S01E15.webp
+      S01E16:
+        file_poster: /home/durmonator/posters/Batwoman/S01E16.webp
+      S01E17:
+        file_poster: /home/durmonator/posters/Batwoman/S01E17.webp
+      S01E18:
+        file_poster: /home/durmonator/posters/Batwoman/S01E18.webp
+      S01E19:
+        file_poster: /home/durmonator/posters/Batwoman/S01E19.webp
+      S01E20:
+        file_poster: /home/durmonator/posters/Batwoman/S01E20.webp
+      S02E01:
+        file_poster: /home/durmonator/posters/Batwoman/S02E01.webp
+      S02E02:
+        file_poster: /home/durmonator/posters/Batwoman/S02E02.webp
+      S02E03:
+        file_poster: /home/durmonator/posters/Batwoman/S02E03.webp
+      S02E04:
+        file_poster: /home/durmonator/posters/Batwoman/S02E04.webp
+      S02E05:
+        file_poster: /home/durmonator/posters/Batwoman/S02E05.webp
+      S02E06:
+        file_poster: /home/durmonator/posters/Batwoman/S02E06.webp
+      S02E07:
+        file_poster: /home/durmonator/posters/Batwoman/S02E07.webp
+      S02E08:
+        file_poster: /home/durmonator/posters/Batwoman/S02E08.webp
+      S02E09:
+        file_poster: /home/durmonator/posters/Batwoman/S02E09.webp
+      S02E10:
+        file_poster: /home/durmonator/posters/Batwoman/S02E10.webp
+      S02E11:
+        file_poster: /home/durmonator/posters/Batwoman/S02E11.webp
+      S02E12:
+        file_poster: /home/durmonator/posters/Batwoman/S02E12.webp
+      S02E13:
+        file_poster: /home/durmonator/posters/Batwoman/S02E13.webp
+      S02E14:
+        file_poster: /home/durmonator/posters/Batwoman/S02E14.webp
+      S02E15:
+        file_poster: /home/durmonator/posters/Batwoman/S02E15.webp
+      S02E16:
+        file_poster: /home/durmonator/posters/Batwoman/S02E16.webp
+      S02E17:
+        file_poster: /home/durmonator/posters/Batwoman/S02E17.webp
+      S02E18:
+        file_poster: /home/durmonator/posters/Batwoman/S02E18.webp
   Blackadder:
     file_poster: /home/durmonator/posters/Blackadder/show.webp
     seasons:
@@ -929,6 +1015,34 @@ metadata:
         file_poster: /home/durmonator/posters/Breaking Bad/S05E16.webp
       S00E19:
         file_poster: /home/durmonator/posters/Breaking Bad/S00E19.webp
+  Clarice:
+    episodes:
+      S01E01:
+        file_poster: /home/durmonator/posters/Clarice/S01E01.webp
+      S01E02:
+        file_poster: /home/durmonator/posters/Clarice/S01E02.webp
+      S01E03:
+        file_poster: /home/durmonator/posters/Clarice/S01E03.webp
+      S01E04:
+        file_poster: /home/durmonator/posters/Clarice/S01E04.webp
+      S01E05:
+        file_poster: /home/durmonator/posters/Clarice/S01E05.webp
+      S01E06:
+        file_poster: /home/durmonator/posters/Clarice/S01E06.webp
+      S01E07:
+        file_poster: /home/durmonator/posters/Clarice/S01E07.webp
+      S01E08:
+        file_poster: /home/durmonator/posters/Clarice/S01E08.webp
+      S01E09:
+        file_poster: /home/durmonator/posters/Clarice/S01E09.webp
+      S01E10:
+        file_poster: /home/durmonator/posters/Clarice/S01E10.webp
+      S01E11:
+        file_poster: /home/durmonator/posters/Clarice/S01E11.webp
+      S01E12:
+        file_poster: /home/durmonator/posters/Clarice/S01E12.webp
+      S01E13:
+        file_poster: /home/durmonator/posters/Clarice/S01E13.webp
   Cuckoo:
     episodes:
       S00E01:
