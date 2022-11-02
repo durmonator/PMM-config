@@ -163,6 +163,32 @@ metadata:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/heels/S01E07.webp
       S01E08:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/heels/S01E08.webp
+  House of the Dragon:
+    url_poster: https://theposterdb.com/api/assets/260862
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/260864
+    episodes:
+      S01E01:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E01.webp
+      S01E02:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E02.webp
+      S01E03:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E03.webp
+      S01E04:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E04.webp
+      S01E05:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E05.webp
+      S01E06:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E06.webp
+      S01E07:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E07.webp
+      S01E08:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E08.webp
+      S01E09:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E09.webp
+      S01E10:
+        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/house-of-the-dragon/S01E10.webp
   Loki:
     url_poster: https://theposterdb.com/api/assets/144829
     seasons:
