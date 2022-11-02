@@ -573,7 +573,8 @@ collections:
     template:
       - name: Collection
         collection: 422834
-        movie: "271110, 299536, 299534"
+      - name: Meta
+        poster: 114046
   Aquaman:
     template:
       - name: Collection
@@ -586,6 +587,8 @@ collections:
     template:
       - name: Collection
         collection: 86311
+      - name: Meta
+        poster: 114054
   Back to the Future:
     template:
       - name: Collection
@@ -606,11 +609,14 @@ collections:
     template:
       - name: Collection
         collection: 529892
-        movie: "271110, 299536, 299534"
+      - name: Meta
+        poster: 114047
   Black Widow:
     template:
       - name: Collection
         movie: "497698, 10138, 24428, 100402, 99861, 271110, 299536, 299534, 299537"
+      - name: Meta
+        poster: 114080
   Blade:
     template:
       - name: Collection
@@ -627,16 +633,20 @@ collections:
     template:
       - name: Collection
         movie: "1771, 100402, 271110, 102899, 284054, 299536, 299534"
+      - name: Meta
+        poster: 114082
   Captain America:
     template:
       - name: Collection
         collection: 131295
-        movie: "24428, 99861, 299536, 299534, 315635, 299537"
+      - name: Meta
+        poster: 114048
   Captain Marvel:
     template:
       - name: Collection
         collection: 623911
-        movie: "299534"
+      - name: Meta
+        poster: 114049
   Cars:
     template:
       - name: Collection
@@ -679,11 +689,14 @@ collections:
     template:
       - name: Collection
         collection: 618529
-        movie: "299536, 299534, 284053"
+      - name: Meta
+        poster: 114050
   Falcon:
     template:
       - name: Collection
         movie: "100402, 99861, 102899, 271110, 299536, 299534"
+      - name: Meta
+        poster: 114083
   Fantastic Beasts:
     template:
       - name: Collection
@@ -718,7 +731,8 @@ collections:
     template:
       - name: Collection
         collection: 284433
-        movie: "299536, 299534"
+      - name: Meta
+        poster: 114051
   Harry Potter:
     template:
       - name: Collection
@@ -727,6 +741,8 @@ collections:
     template:
       - name: Collection
         movie: "10195, 24428, 99861, 271110, 299536"
+      - name: Meta
+        poster: 114084
   Hellboy:
     template:
       - name: Collection
@@ -742,6 +758,8 @@ collections:
     template:
       - name: Collection
         movie: "24428, 68721, 99861, 299537, 299536, 299534, 284053"
+      - name: Meta
+        poster: 114081
   The Hunger Games:
     template:
       - name: Collection
@@ -763,7 +781,8 @@ collections:
     template:
       - name: Collection
         collection: 131292
-        movie: "24428, 99861, 271110, 1724, 315635, 299536, 299534"
+      - name: Meta
+        poster: 114052
   James Bond:
     template:
       - name: Collection
@@ -805,6 +824,8 @@ collections:
     template:
       - name: Collection
         movie: "10195, 24428, 76338, 284053, 299536, 299534"
+      - name: Meta
+        poster: 114085
   The Lord of the Rings:
     template:
       - name: Collection
@@ -839,6 +860,8 @@ collections:
     template:
       - name: Collection
         movie: "1726, 10138, 10195, 1771, 24428, 100402, 99861, 299537, 299534, 429617"
+      - name: Meta
+        poster: 114087
   Pirates of the Caribbean:
     template:
       - name: Collection
@@ -868,6 +891,8 @@ collections:
     template:
       - name: Collection
         collection: 531241
+      - name: Meta
+        poster: 114053
   Spider-Man:
     template:
       - name: Collection
@@ -910,6 +935,8 @@ collections:
     template:
       - name: Collection
         collection: 131296
+      - name: Meta
+        poster: 114055
   Toy Story:
     template:
       - name: Collection
