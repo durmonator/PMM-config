@@ -15,6 +15,12 @@ collections:
       network: "2, 75, 2791",
       poster: 204735
     }
+  Adult Swim:
+    template: {
+      name: network,
+      network: 80,
+      poster: 204736
+    }
   AMC:
     template: {
       name: network,
@@ -33,17 +39,53 @@ collections:
       network: "100, 1155, 375, 493, 3546, 4, 332, 3, 126, 317",
       poster: 204739
     }
+  Bravo:
+    template: {
+      name: network,
+      network: 74,
+      poster: 204740
+    }
   CBS:
     template: {
       name: network,
       network: "16, 1709, 2621",
       poster: 204730
     }
+  Channel 4:
+    template: {
+      name: network,
+      network: 26,
+      poster: 204741
+    }
+  Channel 5:
+    template: {
+      name: network,
+      network: 99,
+      poster: 204742
+    }
+  The CW:
+    template: {
+      name: network,
+      network: "71, 1049, 2693",
+      poster: 204744
+    }
   Disney+:
     template: {
       name: network,
       network: 2739,
       poster: 204745
+    }
+  "E!":
+    template: {
+      name: network,
+      network: 76,
+      poster: 212644
+    }
+  FOX:
+    template: {
+      name: network,
+      network: 19,
+      poster: 204746
     }
   FX:
     template: {
@@ -98,4 +140,10 @@ collections:
       name: network,
       network: "318, 758",
       poster: 204723
+    }
+  TBS:
+    template: {
+      name: network,
+      network: 68,
+      poster: 204729
     }
