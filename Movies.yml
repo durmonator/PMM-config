@@ -67,11 +67,6 @@ templates:
   Meta:
     url_poster: https://theposterdb.com/api/assets/<<poster>>
 
-dynamic_collections:
-  TMDb Collections:          # This name is the mapping name
-    type: tmdb_collection
-    remove_suffix: "Collection"
-
 collections:
 
 ########################################################
