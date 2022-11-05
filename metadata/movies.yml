@@ -1,6 +1,6 @@
 templates:
   Meta:
-    urll_poster: https://theposterdb.com/api/assets/<<poster>>
+    url_poster: https://theposterdb.com/api/assets/<<poster>>
 
 metadata:
   22 vs. Earth:
