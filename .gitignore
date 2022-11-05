@@ -2,3 +2,5 @@
 config.yml
 assets
 assets/*
+fonts
+fonts/*
