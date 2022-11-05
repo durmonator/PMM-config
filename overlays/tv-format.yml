@@ -23,14 +23,14 @@ overlays:
         weight: 50
     plex_all: true
     filters:
-      filepath.regex: '(?i)\[Remux'
+      filepath.regex: '(?i)Remux'
   BLU-RAY:
     template:
       - name: videoFormat
         weight: 40
     plex_all: true
     filters:
-      filepath.regex: '(?i)\[Blu[ ._-]?ray|\[BD|\[BR|\[HD[ ._-]?DVD'
+      filepath.regex: '(?i)Blu[ ._-]?ray|\[BD|\[BR|\[HD[ ._-]?DVD'
   WEB:
     template:
       - name: videoFormat
