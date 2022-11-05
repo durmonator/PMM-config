@@ -1,0 +1,40 @@
+templates:
+  videoFormat:
+    builder_level: episode
+    overlay:
+      name: "text(<<overlay_name>>)"
+      group: quality
+      weight: <<weight>>
+      horizontal_align: center
+      vertical_offset: 30
+      vertical_align: top
+      font: fonts/Inter-Medium.ttf
+      font_size: 55
+      font_color: "#FFFFFF"
+      back_color: "#00000090"
+      back_radius: 30
+      back_width: 600
+      back_height: 105
+
+overlays:
+  REMUX:
+    template:
+      - name: videoFormat
+        weight: 50
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)\[Remux'
+  BLU-RAY:
+    template:
+      - name: videoFormat
+        weight: 40
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)\[Blu[ ._-]?ray|\[BD|\[BR|\[HD[ ._-]?DVD'
+  WEB:
+    template:
+      - name: videoFormat
+        weight: 30
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)Web[ ._-]?(dl|rip)'

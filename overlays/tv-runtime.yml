@@ -3,7 +3,8 @@ overlays:
     builder_level: episode
     overlay:
       name: "text(Runtime: <<runtimeH>>h <<runtimeM>>m)"
-      horizontal_align: center
+      horizontal_offset: 30
+      horizontal_align: left
       vertical_offset: 30
       vertical_align: bottom
       font: fonts/Inter-Medium.ttf
