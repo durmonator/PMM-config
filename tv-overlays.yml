@@ -2,7 +2,7 @@ overlays:
   text_episode_runtime:
     builder_level: episode
     overlay:
-      name: text(Runtime: <<runtimeH>>h <<runtimeM>>m)
+      name: "text(Runtime: <<runtimeH>>h <<runtimeM>>m)"
       horizontal_align: center
       vertical_offset: 30
       vertical_align: bottom
