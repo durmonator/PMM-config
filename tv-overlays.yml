@@ -1,0 +1,15 @@
+overlays:
+  text_episode_runtime:
+    builder_level: episode
+    overlay:
+      name: text(<<runtime>>)
+      horizontal_align: center
+      vertical_offset: 15
+      vertical_align: bottom
+      font: Helvetica
+      font_size: 63
+      font_color: "#FFFFFF"
+      back_colour: "#000000"
+      back_radius: 30
+      back_width: 300
+    plex_all: true
