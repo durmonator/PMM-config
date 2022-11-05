@@ -6,7 +6,7 @@ overlays:
       horizontal_align: center
       vertical_offset: 15
       vertical_align: bottom
-      font: Helvetica
+      font: fonts/Inter-Medium.ttf
       font_size: 63
       font_color: "#FFFFFF"
       back_colour: "#000000"
