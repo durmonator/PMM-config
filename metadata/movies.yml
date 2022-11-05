@@ -37,7 +37,7 @@ metadata:
     template: {name: Meta, poster: 150992}
   Brave:
     template: {name: Meta, poster: 149959}
-  "Captain America: The First Avenger"
+  "Captain America: The First Avenger":
     template: {name: Meta, poster: 114060}
   "Captain America: The Winter Soldier":
     template: {name: Meta, poster: 114064}
