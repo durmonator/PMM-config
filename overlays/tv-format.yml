@@ -8,7 +8,7 @@ templates:
       horizontal_align: center
       vertical_offset: 30
       vertical_align: top
-      font: fonts/Inter-Medium.ttf
+      font: /home/durmonator/plex-meta-manager/config/fonts/Inter-Medium.ttf
       font_size: 55
       font_color: "#FFFFFF"
       back_color: "#00000090"
