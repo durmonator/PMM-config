@@ -295,7 +295,7 @@ metadata:
     template: {name: Meta, poster: 114063}
   "Thor: Love and Thunder":
     template: {name: Meta, poster: 249716}
-  "Thor: Ragnarok"
+  "Thor: Ragnarok":
     template: {name: Meta, poster: 114072}
   Thunderball:
     template: {name: Meta, poster: 46510}
