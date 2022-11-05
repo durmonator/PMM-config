@@ -19,7 +19,7 @@ metadata:
     template: {name: Meta, poster: 149231}
   The Avengers:
     template: {name: Meta, poster: 114061}
-  "Avengers: Age of Ultron"
+  "Avengers: Age of Ultron":
     template: {name: Meta, poster: 114066}
   "Avengers: Endgame":
     template: {name: Meta, poster: 114077}
