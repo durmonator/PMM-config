@@ -1,335 +1,331 @@
-templates:
-  Meta:
-    url_poster: https://theposterdb.com/api/assets/<<poster>>
-
 metadata:
   22 vs. Earth:
-    template: {name: Meta, poster: 148424}
+    url_poster: https://theposterdb.com/api/assets/148424
   A Bug's Life:
-    template: {name: Meta, poster: 148426}
+    url_poster: https://theposterdb.com/api/assets/148426
   Aladdin:
-    template: {name: Meta, poster: 156204}
+    url_poster: https://theposterdb.com/api/assets/156204
   André and Wally B.:
-    template: {name: Meta, poster: 150985}
+    url_poster: https://theposterdb.com/api/assets/150985
   Ant-Man:
-    template: {name: Meta, poster: 114067}
+    url_poster: https://theposterdb.com/api/assets/114067
   Ant-Man and the Wasp: 
-    template: {name: Meta, poster: 114075}
+    url_poster: https://theposterdb.com/api/assets/114075
   Auntie Edna:
-    template: {name: Meta, poster: 149231}
+    url_poster: https://theposterdb.com/api/assets/149231
   The Avengers:
-    template: {name: Meta, poster: 114061}
+    url_poster: https://theposterdb.com/api/assets/114061
   "Avengers: Age of Ultron":
-    template: {name: Meta, poster: 114066}
+    url_poster: https://theposterdb.com/api/assets/114066
   "Avengers: Endgame":
-    template: {name: Meta, poster: 114077}
+    url_poster: https://theposterdb.com/api/assets/114077
   "Avengers: Infinity War":
-    template: {name: Meta, poster: 114074}
+    url_poster: https://theposterdb.com/api/assets/114074
   Bao:
-    template: {name: Meta, poster: 151004}
+    url_poster: https://theposterdb.com/api/assets/151004
   Black Panther:
-    template: {name: Meta, poster: 114073}
+    url_poster: https://theposterdb.com/api/assets/114073
   Black Widow:
-    template: {name: Meta, poster: 114079}
+    url_poster: https://theposterdb.com/api/assets/114079
   The Blue Umbrella:
-    template: {name: Meta, poster: 150999}
+    url_poster: https://theposterdb.com/api/assets/150999
   Boundin':
-    template: {name: Meta, poster: 150992}
+    url_poster: https://theposterdb.com/api/assets/150992
   Brave:
-    template: {name: Meta, poster: 149959}
+    url_poster: https://theposterdb.com/api/assets/149959
   "Captain America: The First Avenger":
-    template: {name: Meta, poster: 114060}
+    url_poster: https://theposterdb.com/api/assets/114060
   "Captain America: The Winter Soldier":
-    template: {name: Meta, poster: 114064}
+    url_poster: https://theposterdb.com/api/assets/114064
   "Captain America: Civil War":
-    template: {name: Meta, poster: 114068}
+    url_poster: https://theposterdb.com/api/assets/114068
   Captain Marvel:
-    template: {name: Meta, poster: 114076}
+    url_poster: https://theposterdb.com/api/assets/114076
   Cars:
-    template: {name: Meta, poster: 149945}
+    url_poster: https://theposterdb.com/api/assets/149945
   Cars 2:
-    template: {name: Meta, poster: 149946}
+    url_poster: https://theposterdb.com/api/assets/149946
   Cars 3:
-    template: {name: Meta, poster: 149947}
+    url_poster: https://theposterdb.com/api/assets/149947
   Casino Royale:
-    template: {name: Meta, poster: 46528}
+    url_poster: https://theposterdb.com/api/assets/46528
   Coco:
-    template: {name: Meta, poster: 149963}
+    url_poster: https://theposterdb.com/api/assets/149963
   Day & Night:
-    template: {name: Meta, poster: 150997}
+    url_poster: https://theposterdb.com/api/assets/150997
   Diamonds Are Forever:
-    template: {name: Meta, poster: 46513}
+    url_poster: https://theposterdb.com/api/assets/46513
   Die Another Day:
-    template: {name: Meta, poster: 46527}
+    url_poster: https://theposterdb.com/api/assets/46527
   Doctor Strange:
-    template: {name: Meta, poster: 114069}
+    url_poster: https://theposterdb.com/api/assets/114069
   Doctor Strange in the Multiverse of Madness:
-    template: {name: Meta, poster: 221996}
+    url_poster: https://theposterdb.com/api/assets/221996
   Dory's Reef Cam:
-    template: {name: Meta, poster: 149225}
+    url_poster: https://theposterdb.com/api/assets/149225
   Dr. No:
-    template: {name: Meta, poster: 46507}
+    url_poster: https://theposterdb.com/api/assets/46507
   Encanto:
-    template: {name: Meta, poster: 201248}
+    url_poster: https://theposterdb.com/api/assets/201248
   Eternals:
-    template: {name: Meta, poster: 204757}
+    url_poster: https://theposterdb.com/api/assets/204757
   Exploring the Reef:
-    template: {name: Meta, poster: 149222}
+    url_poster: https://theposterdb.com/api/assets/149222
   2 Fast 2 Furious:
-    template: {name: Meta, poster: 166114}
+    url_poster: https://theposterdb.com/api/assets/166114
   The Fast and the Furious:
-    template: {name: Meta, poster: 166112}
+    url_poster: https://theposterdb.com/api/assets/166112
   "The Fast and the Furious: Tokyo Drift":
-    template: {name: Meta, poster: 166115}
+    url_poster: https://theposterdb.com/api/assets/166115
   Fast & Furious:
-    template: {name: Meta, poster: 166116}
+    url_poster: https://theposterdb.com/api/assets/166116
   Fast & Furious 5:
-    template: {name: Meta, poster: 166118}
+    url_poster: https://theposterdb.com/api/assets/166118
   Fast & Furious 6:
-    template: {name: Meta, poster: 166119}
+    url_poster: https://theposterdb.com/api/assets/166119
   Fast & Furious 7:
-    template: {name: Meta, poster: 166120}
+    url_poster: https://theposterdb.com/api/assets/166120
   Fast & Furious 8:
-    template: {name: Meta, poster: 166121}
+    url_poster: https://theposterdb.com/api/assets/166121
   Fast & Furious 9:
-    template: {name: Meta, poster: 166123}
+    url_poster: https://theposterdb.com/api/assets/166123
   "Fast & Furious: Hobbs & Shaw":
-    template: {name: Meta, poster: 166122}
+    url_poster: https://theposterdb.com/api/assets/166122
   Finding Dory:
-    template: {name: Meta, poster: 149223}
+    url_poster: https://theposterdb.com/api/assets/149223
   "Finding Dory: Marine Life Interviews":
-    template: {name: Meta, poster: 149224}
+    url_poster: https://theposterdb.com/api/assets/149224
   Finding Nemo:
-    template: {name: Meta, poster: 149221}
+    url_poster: https://theposterdb.com/api/assets/149221
   For Your Eyes Only:
-    template: {name: Meta, poster: 46518}
+    url_poster: https://theposterdb.com/api/assets/46518
   For the Birds:
-    template: {name: Meta, poster: 150991}
+    url_poster: https://theposterdb.com/api/assets/150991
   From Russia with Love:
-    template: {name: Meta, poster: 46508}
+    url_poster: https://theposterdb.com/api/assets/46508
   Geri's Game:
-    template: {name: Meta, poster: 150990}
+    url_poster: https://theposterdb.com/api/assets/150990
   Ghostbusters:
-    template: {name: Meta, poster: 181153}
+    url_poster: https://theposterdb.com/api/assets/181153
   Ghostbusters II:
-    template: {name: Meta, poster: 181154}
+    url_poster: https://theposterdb.com/api/assets/181154
   Ghostbusters (2016):
-    template: {name: Meta, poster: 181155}
+    url_poster: https://theposterdb.com/api/assets/181155
   "Ghostbusters: Afterlife":
-    template: {name: Meta, poster: 181156}
+    url_poster: https://theposterdb.com/api/assets/181156
   GoldenEye:
-    template: {name: Meta, poster: 46524}
+    url_poster: https://theposterdb.com/api/assets/46524
   Goldfinger:
-    template: {name: Meta, poster: 46509}
+    url_poster: https://theposterdb.com/api/assets/46509
   The Good Dinosaur:
-    template: {name: Meta, poster: 148427}
+    url_poster: https://theposterdb.com/api/assets/148427
   Guardians of the Galaxy:
-    template: {name: Meta, poster: 114065}
+    url_poster: https://theposterdb.com/api/assets/114065
   "Guardians of the Galaxy: Vol 2":
-    template: {name: Meta, poster: 114070}
+    url_poster: https://theposterdb.com/api/assets/114070
   Harry Potter and the Philosopher's Stone:
-    template: {name: Meta, poster: 34077}
+    url_poster: https://theposterdb.com/api/assets/34077
   Harry Potter and the Chamber of Secrets:
-    template: {name: Meta, poster: 34024}
+    url_poster: https://theposterdb.com/api/assets/34024
   Harry Potter and the Prisoner of Azkaban:
-    template: {name: Meta, poster: 34025}
+    url_poster: https://theposterdb.com/api/assets/34025
   Harry Potter and the Goblet of Fire:
-    template: {name: Meta, poster: 34026}
+    url_poster: https://theposterdb.com/api/assets/34026
   Harry Potter and the Order of the Phoenix:
-    template: {name: Meta, poster: 34027}
+    url_poster: https://theposterdb.com/api/assets/34027
   Harry Potter and the Half-Blood Prince:
-    template: {name: Meta, poster: 34028}
+    url_poster: https://theposterdb.com/api/assets/34028
   "Harry Potter and the Deathly Hallows: Part 1":
-    template: {name: Meta, poster: 34029}
+    url_poster: https://theposterdb.com/api/assets/34029
   "Harry Potter and the Deathly Hallows: Part 2":
-    template: {name: Meta, poster: 34030}
+    url_poster: https://theposterdb.com/api/assets/34030
   "Harry Potter 20th Anniversary: Return to Hogwarts":
-    template: {name: Meta, poster: 198017}
+    url_poster: https://theposterdb.com/api/assets/198017
   "Hellboy (2004)":
-    template: {name: Meta, poster: 154156}
+    url_poster: https://theposterdb.com/api/assets/154156
   Hellboy:
-    template: {name: Meta, poster: 154158}
+    url_poster: https://theposterdb.com/api/assets/154158
   "Hellboy II: The Golden Army":
-    template: {name: Meta, poster: 154157}
+    url_poster: https://theposterdb.com/api/assets/154157
   Hercules:
-    template: {name: Meta, poster: 156208}
+    url_poster: https://theposterdb.com/api/assets/156208
   The Hunchback of Notre Dame:
-    template: {name: Meta, poster: 156207}
+    url_poster: https://theposterdb.com/api/assets/156207
   The Hunger Games:
-    template: {name: Meta, poster: 91}
+    url_poster: https://theposterdb.com/api/assets/91
   "The Hunger Games: Catching Fire":
-    template: {name: Meta, poster: 92}
+    url_poster: https://theposterdb.com/api/assets/92
   "The Hunger Games: Mockingjay - Part 1":
-    template: {name: Meta, poster: 93}
+    url_poster: https://theposterdb.com/api/assets/93
   "The Hunger Games: Mockingjay - Part 2":
-    template: {name: Meta, poster: 94}
+    url_poster: https://theposterdb.com/api/assets/94
   The Incredible Hulk:
-    template: {name: Meta, poster: 114057}
+    url_poster: https://theposterdb.com/api/assets/114057
   The Incredibles:
-    template: {name: Meta, poster: 149227}
+    url_poster: https://theposterdb.com/api/assets/149227
   The Incredibles 2:
-    template: {name: Meta, poster: 149230}
+    url_poster: https://theposterdb.com/api/assets/149230
   Inside Out:
-    template: {name: Meta, poster: 149956}
+    url_poster: https://theposterdb.com/api/assets/149956
   Iron Man:
-    template: {name: Meta, poster: 114056}
+    url_poster: https://theposterdb.com/api/assets/114056
   Iron Man 2:
-    template: {name: Meta, poster: 114058}
+    url_poster: https://theposterdb.com/api/assets/114058
   Iron Man 3:
-    template: {name: Meta, poster: 114062}
+    url_poster: https://theposterdb.com/api/assets/114062
   Jack-Jack Attack:
-    template: {name: Meta, poster: 149228}
+    url_poster: https://theposterdb.com/api/assets/149228
   Knick Knack:
-    template: {name: Meta, poster: 150989}
+    url_poster: https://theposterdb.com/api/assets/150989
   La Luna:
-    template: {name: Meta, poster: 150998}
+    url_poster: https://theposterdb.com/api/assets/150998
   Lamp Life:
-    template: {name: Meta, poster: 148087}
+    url_poster: https://theposterdb.com/api/assets/148087
   Lava:
-    template: {name: Meta, poster: 151000}
+    url_poster: https://theposterdb.com/api/assets/151000
   License to Kill:
-    template: {name: Meta, poster: 46523}
+    url_poster: https://theposterdb.com/api/assets/46523
   Lifted:
-    template: {name: Meta, poster: 150994}
+    url_poster: https://theposterdb.com/api/assets/150994
   The Lion King:
-    template: {name: Meta, poster: 156204}
+    url_poster: https://theposterdb.com/api/assets/156204
   Live and Let Die:
-    template: {name: Meta, poster: 46514}
+    url_poster: https://theposterdb.com/api/assets/46514
   The Living Daylights:
-    template: {name: Meta, poster: 46522}
+    url_poster: https://theposterdb.com/api/assets/46522
   Lou:
-    template: {name: Meta, poster: 151003}
+    url_poster: https://theposterdb.com/api/assets/151003
   Luca:
-    template: {name: Meta, poster: 150805}
+    url_poster: https://theposterdb.com/api/assets/150805
   Luxo Jr.:
-    template: {name: Meta, poster: 150986}
+    url_poster: https://theposterdb.com/api/assets/150986
   The Man with the Golden Gun:
-    template: {name: Meta, poster: 46515}
+    url_poster: https://theposterdb.com/api/assets/46515
   Mike's New Car:
-    template: {name: Meta, poster: 148790}
+    url_poster: https://theposterdb.com/api/assets/148790
   Monsters, Inc.:
-    template: {name: Meta, poster: 148789}
+    url_poster: https://theposterdb.com/api/assets/148789
   Monsters University:
-    template: {name: Meta, poster: 148791}
+    url_poster: https://theposterdb.com/api/assets/148791
   Moonraker:
-    template: {name: Meta, poster: 46517}
+    url_poster: https://theposterdb.com/api/assets/46517
   Mr. Incredible and Pals:
-    template: {name: Meta, poster: 149229}
+    url_poster: https://theposterdb.com/api/assets/149229
   Never Say Never Again:
-    template: {name: Meta, poster: 46520}
+    url_poster: https://theposterdb.com/api/assets/46520
   No Time to Die:
-    template: {name: Meta, poster: 46532}
+    url_poster: https://theposterdb.com/api/assets/46532
   Octopussy:
-    template: {name: Meta, poster: 46519}
+    url_poster: https://theposterdb.com/api/assets/46519
   On Her Majesty's Secret Service:
-    template: {name: Meta, poster: 46512}
+    url_poster: https://theposterdb.com/api/assets/46512
   One Man Band:
-    template: {name: Meta, poster: 150993}
+    url_poster: https://theposterdb.com/api/assets/150993
   Onward:
-    template: {name: Meta, poster: 148428}
+    url_poster: https://theposterdb.com/api/assets/148428
   Partly Cloudy:
-    template: {name: Meta, poster: 150996}
+    url_poster: https://theposterdb.com/api/assets/150996
   Party Central:
-    template: {name: Meta, poster: 148792}
+    url_poster: https://theposterdb.com/api/assets/148792
   Piper:
-    template: {name: Meta, poster: 151002}
+    url_poster: https://theposterdb.com/api/assets/151002
   Pocahontas:
-    template: {name: Meta, poster: 156206}
+    url_poster: https://theposterdb.com/api/assets/156206
   Presto:
-    template: {name: Meta, poster: 150995}
+    url_poster: https://theposterdb.com/api/assets/150995
   Quantum of Solace:
-    template: {name: Meta, poster: 46529}
+    url_poster: https://theposterdb.com/api/assets/46529
   Ratatouille:
-    template: {name: Meta, poster: 149233}
+    url_poster: https://theposterdb.com/api/assets/149233
   Red's Dream:
-    template: {name: Meta, poster: 150987}
+    url_poster: https://theposterdb.com/api/assets/150987
   Rogue One:
-    template: {name: Meta, poster: 205791}
+    url_poster: https://theposterdb.com/api/assets/205791
   Sanjay's Super Team:
-    template: {name: Meta, poster: 151001}
+    url_poster: https://theposterdb.com/api/assets/151001
   Shang-Chi and the Legend of the Ten Rings:
-    template: {name: Meta, poster: 167286}
+    url_poster: https://theposterdb.com/api/assets/167286
   Skyfall:
-    template: {name: Meta, poster: 46530}
+    url_poster: https://theposterdb.com/api/assets/46530
   "Solo: A Star Wars Story":
-    template: {name: Meta, poster: 205792}
+    url_poster: https://theposterdb.com/api/assets/205792
   Soul:
-    template: {name: Meta, poster: 148423}
+    url_poster: https://theposterdb.com/api/assets/148423
   Space Jam:
-    template: {name: Meta, poster: 163586}
+    url_poster: https://theposterdb.com/api/assets/163586
   "Space Jam: A New Legacy":
-    template: {name: Meta, poster: 163587}
+    url_poster: https://theposterdb.com/api/assets/163587
   Spectre:
-    template: {name: Meta, poster: 46531}
+    url_poster: https://theposterdb.com/api/assets/46531
   "Spider-Man: Far from Home":
-    template: {name: Meta, poster: 114078}
+    url_poster: https://theposterdb.com/api/assets/114078
   "Spider-Man: Homecoming":
-    template: {name: Meta, poster: 114071}
+    url_poster: https://theposterdb.com/api/assets/114071
   "Spider-Man: No Way Home":
-    template: {name: Meta, poster: 188298}
+    url_poster: https://theposterdb.com/api/assets/188298
   The Spy Who Loved Me:
-    template: {name: Meta, poster: 46516}
+    url_poster: https://theposterdb.com/api/assets/46516
   "Star Wars: Episode I - The Phantom Menace":
-    template: {name: Meta, poster: 205782}
+    url_poster: https://theposterdb.com/api/assets/205782
   "Star Wars: Episode II - Attack of the Clones":
-    template: {name: Meta, poster: 205783}
+    url_poster: https://theposterdb.com/api/assets/205783
   "Star Wars: Episode III - Revenge of the Sith":
-    template: {name: Meta, poster: 205784}
+    url_poster: https://theposterdb.com/api/assets/205784
   "Star Wars: Episode IV - A New Hope":
-    template: {name: Meta, poster: 205785}
+    url_poster: https://theposterdb.com/api/assets/205785
   "Star Wars: Episode V - The Empire Strikes Back":
-    template: {name: Meta, poster: 205786}
+    url_poster: https://theposterdb.com/api/assets/205786
   "Star Wars: Episode VI - Return of the Jedi":
-    template: {name: Meta, poster: 205787}
+    url_poster: https://theposterdb.com/api/assets/205787
   "Star Wars: Episode VII - The Force Awakens":
-    template: {name: Meta, poster: 205788}
+    url_poster: https://theposterdb.com/api/assets/205788
   "Star Wars: Episode VIII - The Last Jedi":
-    template: {name: Meta, poster: 205789}
+    url_poster: https://theposterdb.com/api/assets/205789
   "Star Wars: The Rise of Skywalker":
-    template: {name: Meta, poster: 205790}
+    url_poster: https://theposterdb.com/api/assets/205790
   Tin Toy:
-    template: {name: Meta, poster: 150988}
+    url_poster: https://theposterdb.com/api/assets/150988
   Thor:
-    template: {name: Meta, poster: 114059}
+    url_poster: https://theposterdb.com/api/assets/114059
   "Thor: The Dark World":
-    template: {name: Meta, poster: 114063}
+    url_poster: https://theposterdb.com/api/assets/114063
   "Thor: Love and Thunder":
-    template: {name: Meta, poster: 249716}
+    url_poster: https://theposterdb.com/api/assets/249716
   "Thor: Ragnarok":
-    template: {name: Meta, poster: 114072}
+    url_poster: https://theposterdb.com/api/assets/114072
   Thunderball:
-    template: {name: Meta, poster: 46510}
+    url_poster: https://theposterdb.com/api/assets/46510
   Tomorrow Never Dies:
-    template: {name: Meta, poster: 46525}
+    url_poster: https://theposterdb.com/api/assets/46525
   Toy Story:
-    template: {name: Meta, poster: 148078}
+    url_poster: https://theposterdb.com/api/assets/148078
   Toy Story 2:
-    template: {name: Meta, poster: 148079}
+    url_poster: https://theposterdb.com/api/assets/148079
   Toy Story 3:
-    template: {name: Meta, poster: 148080}
+    url_poster: https://theposterdb.com/api/assets/148080
   Toy Story 4:
-    template: {name: Meta, poster: 148081}
+    url_poster: https://theposterdb.com/api/assets/148081
   Toy Story of Terror:
-    template: {name: Meta, poster: 148085}
+    url_poster: https://theposterdb.com/api/assets/148085
   Toy Story That Time Forgot:
-    template: {name: Meta, poster: 148086}
+    url_poster: https://theposterdb.com/api/assets/148086
   "Toy Story Toons: Hawaiian Vacation":
-    template: {name: Meta, poster: 148083}
+    url_poster: https://theposterdb.com/api/assets/148083
   "Toy Story Toons: Partysaurus Rex":
-    template: {name: Meta, poster: 148082}
+    url_poster: https://theposterdb.com/api/assets/148082
   "Toy Story Toons: Small Fry":
-    template: {name: Meta, poster: 148084}
+    url_poster: https://theposterdb.com/api/assets/148084
   Turning Red:
-    template: {name: Meta, poster: 160327}
+    url_poster: https://theposterdb.com/api/assets/160327
   Up:
-    template: {name: Meta, poster: 149949}
+    url_poster: https://theposterdb.com/api/assets/149949
   A View to a Kill:
-    template: {name: Meta, poster: 46521}
+    url_poster: https://theposterdb.com/api/assets/46521
   "WALL·E":
-    template: {name: Meta, poster: 149953}
+    url_poster: https://theposterdb.com/api/assets/149953
   Warewolf by Night:
-    template: {name: Meta, poster: 274755}
+    url_poster: https://theposterdb.com/api/assets/274755
   The World Is Not Enough:
-    template: {name: Meta, poster: 46526}
+    url_poster: https://theposterdb.com/api/assets/46526
   You Only Live Twice:
-    template: {name: Meta, poster: 46511}
+    url_poster: https://theposterdb.com/api/assets/46511
