@@ -12,4 +12,5 @@ overlays:
       back_colour: "#000000"
       back_radius: 30
       back_width: 300
+      back_height: 15
     plex_all: true
