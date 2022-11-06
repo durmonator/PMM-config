@@ -5,6 +5,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/148426
   Aladdin:
     url_poster: https://theposterdb.com/api/assets/156204
+  The Amazing Spider-Man:
+    url_poster: https://theposterdb.com/api/assets/132633
+  The Amazing Spider-Man 2:
+    url_poster: https://theposterdb.com/api/assets/132634
   André and Wally B.:
     url_poster: https://theposterdb.com/api/assets/150985
   Ant-Man:
@@ -27,6 +31,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/114073
   Black Widow:
     url_poster: https://theposterdb.com/api/assets/114079
+  Blade:
+    url_poster: https://theposterdb.com/api/assets/139555
+  Blade II:
+    url_poster: https://theposterdb.com/api/assets/139556
+  Blade Trinity:
+    url_poster: https://theposterdb.com/api/assets/139557
   The Blue Umbrella:
     url_poster: https://theposterdb.com/api/assets/150999
   Boundin':
@@ -53,6 +63,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/149963
   Day & Night:
     url_poster: https://theposterdb.com/api/assets/150997
+  Deadpool:
+    url_poster: https://theposterdb.com/api/assets/135779
+  Deadpool 2:
+    url_poster: https://theposterdb.com/api/assets/135780
   Diamonds Are Forever:
     url_poster: https://theposterdb.com/api/assets/46513
   Die Another Day:
@@ -193,6 +207,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/46514
   The Living Daylights:
     url_poster: https://theposterdb.com/api/assets/46522
+  Logan:
+    url_poster: https://theposterdb.com/api/assets/143896
   Lou:
     url_poster: https://theposterdb.com/api/assets/151003
   Luca:
@@ -213,12 +229,16 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/149229
   Never Say Never Again:
     url_poster: https://theposterdb.com/api/assets/46520
+  The New Mutants:
+    url_poster: https://theposterdb.com/api/assets/143891
   No Time to Die:
     url_poster: https://theposterdb.com/api/assets/46532
   Octopussy:
     url_poster: https://theposterdb.com/api/assets/46519
   On Her Majesty's Secret Service:
     url_poster: https://theposterdb.com/api/assets/46512
+  Once Upon a Deadpool:
+    url_poster: https://theposterdb.com/api/assets/135781
   One Man Band:
     url_poster: https://theposterdb.com/api/assets/150993
   Onward:
@@ -257,10 +277,18 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/163587
   Spectre:
     url_poster: https://theposterdb.com/api/assets/46531
+  Spider-Man:
+    url_poster: https://theposterdb.com/api/assets/132629
+  Spider-Man 2:
+    url_poster: https://theposterdb.com/api/assets/132630
+  Spider-Man 3:
+    url_poster: https://theposterdb.com/api/assets/132631
   "Spider-Man: Far from Home":
     url_poster: https://theposterdb.com/api/assets/114078
   "Spider-Man: Homecoming":
     url_poster: https://theposterdb.com/api/assets/114071
+  "Spider-Man: Into the Spider-Verse":
+    url_poster: https://theposterdb.com/api/assets/132636
   "Spider-Man: No Way Home":
     url_poster: https://theposterdb.com/api/assets/188298
   The Spy Who Loved Me:
@@ -325,7 +353,25 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/149953
   Warewolf by Night:
     url_poster: https://theposterdb.com/api/assets/274755
+  The Wolverine:
+    url_poster: https://theposterdb.com/api/assets/143895
   The World Is Not Enough:
     url_poster: https://theposterdb.com/api/assets/46526
+  X-Men:
+    url_poster: https://theposterdb.com/api/assets/143884
+  "X2: X-Men United":
+    url_poster: https://theposterdb.com/api/assets/143885
+  "X-Men: The Last Stand":
+    url_poster: https://theposterdb.com/api/assets/143886
+  "X-Men Origins: Wolverine":
+    url_poster: https://theposterdb.com/api/assets/143894
+  "X-Men: First Class":
+    url_poster: https://theposterdb.com/api/assets/143887
+  "X-Men: Days of Future Past":
+    url_poster: https://theposterdb.com/api/assets/143888
+  "X-Men: Apocalypse":
+    url_poster: https://theposterdb.com/api/assets/143889
+  "X-Men: Dark Phoenix":
+    url_poster: https://theposterdb.com/api/assets/143890
   You Only Live Twice:
     url_poster: https://theposterdb.com/api/assets/46511
