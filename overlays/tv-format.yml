@@ -38,3 +38,10 @@ overlays:
     plex_all: true
     filters:
       filepath.regex: '(?i)Web[ ._-]?(dl|rip)'
+  DVD:
+    template:
+      - name: videoFormat
+        weight: 20
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)DVD'
