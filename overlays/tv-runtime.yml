@@ -16,9 +16,9 @@ templates:
       back_radius: 30
       back_width: 600
       back_height: 105
-    plex_all: true
-    filters:
-      added: <<added>>
+    plex_search:
+      all:
+        added: <<added>>
 
 
 overlays:
