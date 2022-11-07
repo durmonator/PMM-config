@@ -1,7 +1,5 @@
 templates:
   text_runtime_info:
-    optional:
-      - added
     builder_level: episode
     overlay:
       name: "text(Runtime: <<runtimeH>>h <<runtimeM>>m)"
