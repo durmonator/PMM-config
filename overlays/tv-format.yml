@@ -15,33 +15,32 @@ templates:
       back_radius: 30
       back_width: 600
       back_height: 105
+    plex_search:
+      all:
+        episode_added: <<added>>
 
 overlays:
   REMUX:
     template:
       - name: videoFormat
         weight: 50
-    plex_all: true
     filters:
       filepath.regex: '(?i)Remux'
   BLU-RAY:
     template:
       - name: videoFormat
         weight: 40
-    plex_all: true
     filters:
       filepath.regex: '(?i)Blu[ ._-]?ray|\[BD|\[BR|\[HD[ ._-]?DVD'
   WEB:
     template:
       - name: videoFormat
         weight: 30
-    plex_all: true
     filters:
       filepath.regex: '(?i)Web[ ._-]?(dl|rip)'
   DVD:
     template:
       - name: videoFormat
         weight: 20
-    plex_all: true
     filters:
       filepath.regex: '(?i)DVD'
