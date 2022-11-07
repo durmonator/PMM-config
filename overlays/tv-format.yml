@@ -15,9 +15,7 @@ templates:
       back_radius: 30
       back_width: 600
       back_height: 105
-    plex_search:
-      all:
-        episode_added: <<added>>
+    plex_all: true
 
 overlays:
   REMUX:
