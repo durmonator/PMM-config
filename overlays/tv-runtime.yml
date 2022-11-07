@@ -1,5 +1,7 @@
-overlays:
-  text_episode_runtime:
+templates:
+  text_runtime_info:
+    optional:
+      - added
     builder_level: episode
     overlay:
       name: "text(Runtime: <<runtimeH>>h <<runtimeM>>m)"
@@ -15,3 +17,11 @@ overlays:
       back_width: 600
       back_height: 105
     plex_all: true
+    filters:
+      added: <<added>>
+
+
+overlays:
+  episode_runtime:
+    template:
+      - name: text_runtime_info
