@@ -18,7 +18,7 @@ templates:
       back_height: 105
     plex_search:
       all:
-        added: <<added>>
+        episode_added: <<added>>
 
 
 overlays:
