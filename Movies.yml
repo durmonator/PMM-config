@@ -90,14 +90,6 @@ collections:
       - name: Meta
         poster: 239900
     imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250
-  'Oscars: Best Pictures':
-    template:
-      - name: Chart Release
-        num: 3
-    url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/oscars-best-picture.webp
-    trakt_list: https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners?sort=rank,asc
-    summary: All the winners in the Best Picture category of the Oscars.
-    name_mapping: Oscars Best Picture
   'BAFTA: Best Film':
     template:
       - name: Chart Release
