@@ -127,7 +127,7 @@ collections:
       - name: Chart Release
         num: 8
     url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/oscars-best-actor.webp
-    trakt_list: https://trakt.tv/users/serffan/lists/best-actor-oscar-winners?sort=released,desc
+    trakt_list: https://trakt.tv/users/jrpetersjr/lists/academy-award-best-actor-f5ad7e54-3496-4289-bd44-c1012e05ef9e?sort=released,desc
     summary: All the winners in the Best Actor category of the Oscars.
     name_mapping: Oscars Best Actor
   'Oscars: Best Actress':
@@ -135,7 +135,7 @@ collections:
       - name: Chart Release
         num: 9
     url_poster: https://raw.githubusercontent.com/durmonator/PMM-config/main/awards/oscars-best-actress.webp
-    trakt_list: https://trakt.tv/users/serffan/lists/best-actress-oscar-winners?sort=released,desc
+    trakt_list: https://trakt.tv/users/jrpetersjr/lists/academy-award-best-actress?sort=released,desc
     summary: All the winners in the Best Actress category of the Oscars.
     name_mapping: Oscars Best Actress
   Best of 2014:
