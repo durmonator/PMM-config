@@ -305,31 +305,31 @@ collections:
       - name: Person
         person: 19292
       - name: Meta
-        poster: 201688
+        poster: 48847
   Amy Adams:
     template: 
       - name: Person
         person: 9273
       - name: Meta
-        poster: 201691
+        poster: 98452
   Anne Hathaway:
     template: 
       - name: Person
         person: 1813
       - name: Meta
-        poster: 201693
+        poster: 89004
   Brad Pitt:
     template: 
       - name: Person
         person: 287
       - name: Meta
-        poster: 201700
+        poster: 48833
   Cameron Diaz:
     template: 
       - name: Person
         person: 6941
       - name: Meta
-        poster: 201705
+        poster: 85544
   Chadwick Boseman:
     template: 
       - name: Person
@@ -341,25 +341,31 @@ collections:
       - name: Person
         person: 74568
       - name: Meta
-        poster: 201713
+        poster: 50037
   Emma Stone:
     template: 
       - name: Person
         person: 54693
       - name: Meta
-        poster: 201733
+        poster: 85488
   Ewan McGregor:
     template: 
       - name: Person
         person: 3061
       - name: Meta
-        poster: 201736
+        poster: 91812
   Gary Oldman:
     template: 
       - name: Person
         person: 64
       - name: Meta
         poster: 48647
+  George Clooney:
+    template:
+      - name: Person
+        person: 
+      - name: Meta
+        poster: 85480
   Guy Ritchie:
     template: 
       - name: Person
@@ -371,19 +377,19 @@ collections:
       - name: Person
         person: 17605
       - name: Meta
-        poster: 201744
+        poster: 91816
   Jack Black:
     template: 
       - name: Person
         person: 70851
       - name: Meta
-        poster: 201746
+        poster: 48844
   James Franco:
     template: 
       - name: Person
         person: 17051
       - name: Meta
-        poster: 201760
+        poster: 91817
   James McAvoy:
     template: 
       - name: Person
@@ -395,13 +401,19 @@ collections:
       - name: Person
         person: 4491
       - name: Meta
-        poster: 201767
+        poster: 91819
   Jennifer Lawrence:
     template: 
       - name: Person
         person: 72129
       - name: Meta
-        poster: 201768
+        poster: 98451
+  Jim Carrey:
+    template:
+      - name: Person
+        person: 
+      - name: Meta
+        poster: 85453
   Joaquin Phoenix:
     template: 
       - name: Person
@@ -413,7 +425,7 @@ collections:
       - name: Person
         person: 85
       - name: Meta
-        poster: 201777
+        poster: 92273
   Jonah Hill:
     template: 
       - name: Person
@@ -431,7 +443,7 @@ collections:
       - name: Person
         person: 1204
       - name: Meta
-        poster: 201781
+        poster: 85546
   Kate Beckinsale:
     template: 
       - name: Person
@@ -443,13 +455,13 @@ collections:
       - name: Person
         person: 4724
       - name: Meta
-        poster: 201783
+        poster: 92279
   Kristen Stewart:
     template: 
       - name: Person
         person: 37917
       - name: Meta
-        poster: 201787
+        poster: 92277
   Laurence Fishburne:
     template: 
       - name: Person
@@ -461,43 +473,43 @@ collections:
       - name: Person
         person: 6193
       - name: Meta
-        poster: 201788
+        poster: 48645
   Matt Damon:
     template: 
       - name: Person
         person: 1892
       - name: Meta
-        poster: 201794
+        poster: 48855
   Morgan Freeman:
     template:
       - name: Person
         person: 192
       - name: Meta
-        poster: 201812
+        poster: 86939
   Quentin Tarantino:
     template:
       - name: Person
         person: 138
       - name: Meta
-        poster: 201821
+        poster: 50030
   Robin Williams:
     template:
       - name: Person
         person: 2157
       - name: Meta
-        poster: 201826
+        poster: 50169
   Samuel L. Jackson:
     template:
       - name: Person
         person: 2231
       - name: Meta
-        poster: 201830
+        poster: 50043
   Scarlett Johansson:
     template:
       - name: Person
         person: 1245
       - name: Meta
-        poster: 201832
+        poster: 50039
   Sigourney Weaver:
     template:
       - name: Person
@@ -509,19 +521,19 @@ collections:
       - name: Person
         person: 488
       - name: Meta
-        poster: 201840
+        poster: 48640
   Tom Cruise:
     template:
       - name: Person
         person: 500
       - name: Meta
-        poster: 201844
+        poster: 48846
   Tom Hanks:
     template: 
       - name: Person
         person: 31
       - name: Meta
-        poster: 201845
+        poster: 48644
   Uma Thurman:
     template:
       - name: Person
@@ -539,7 +551,7 @@ collections:
       - name: Person
         person: 23659
       - name: Meta
-        poster: 201850
+        poster: 48845
 
 ######################################################
 #                TMDb Collections                    #
