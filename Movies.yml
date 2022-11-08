@@ -363,7 +363,7 @@ collections:
   George Clooney:
     template:
       - name: Person
-        person: 
+        person: 1461
       - name: Meta
         poster: 85480
   Guy Ritchie:
@@ -411,7 +411,7 @@ collections:
   Jim Carrey:
     template:
       - name: Person
-        person: 
+        person: 206
       - name: Meta
         poster: 85453
   Joaquin Phoenix:
