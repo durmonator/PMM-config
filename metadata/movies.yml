@@ -15,6 +15,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/114067
   Ant-Man and the Wasp: 
     url_poster: https://theposterdb.com/api/assets/114075
+  Aquaman:
+    url_poster: https://theposterdb.com/api/assets/128652
   Auntie Edna:
     url_poster: https://theposterdb.com/api/assets/149231
   The Avengers:
@@ -27,6 +29,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/114074
   Bao:
     url_poster: https://theposterdb.com/api/assets/151004
+  "Batman v Superman: Dawn of Justice":
+    url_poster: https://theposterdb.com/api/assets/128648
+  Birds of Prey:
+    url_poster: https://theposterdb.com/api/assets/128654
   Black Panther:
     url_poster: https://theposterdb.com/api/assets/114073
   Black Widow:
@@ -189,6 +195,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/114062
   Jack-Jack Attack:
     url_poster: https://theposterdb.com/api/assets/149228
+  Justice League:
+    url_poster: https://theposterdb.com/api/assets/128651
   Knick Knack:
     url_poster: https://theposterdb.com/api/assets/150989
   La Luna:
@@ -215,6 +223,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/150805
   Luxo Jr.:
     url_poster: https://theposterdb.com/api/assets/150986
+  Man of Steel:
+    url_poster: https://theposterdb.com/api/assets/128647
   The Man with the Golden Gun:
     url_poster: https://theposterdb.com/api/assets/46515
   Mike's New Car:
@@ -265,6 +275,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/151001
   Shang-Chi and the Legend of the Ten Rings:
     url_poster: https://theposterdb.com/api/assets/167286
+  Shazam:
+    url_poster: https://theposterdb.com/api/assets/128653
   Skyfall:
     url_poster: https://theposterdb.com/api/assets/46530
   "Solo: A Star Wars Story":
@@ -311,6 +323,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/205789
   "Star Wars: The Rise of Skywalker":
     url_poster: https://theposterdb.com/api/assets/205790
+  The Suicide Squad:
+    url_poster: https://theposterdb.com/api/assets/128656
+  "Suicide Squad (2016)":
+    url_poster: https://theposterdb.com/api/assets/128649
   Tin Toy:
     url_poster: https://theposterdb.com/api/assets/150988
   Thor:
@@ -355,6 +371,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/274755
   The Wolverine:
     url_poster: https://theposterdb.com/api/assets/143895
+  Wonder Woman:
+    url_poster: https://theposterdb.com/api/assets/128650
+  Wonder Woman 1984:
+    url_poster: https://theposterdb.com/api/assets/128655
   The World Is Not Enough:
     url_poster: https://theposterdb.com/api/assets/46526
   X-Men:
@@ -375,3 +395,5 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/143890
   You Only Live Twice:
     url_poster: https://theposterdb.com/api/assets/46511
+  Zack Snyder's Justice League:
+    url_poster: https://theposterdb.com/api/assets/128657
