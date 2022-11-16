@@ -5,6 +5,7 @@ templates:
       name: "text(<<overlay_name>>)"
       group: quality
       weight: <<weight>>
+      horizontal_offset: 0
       horizontal_align: center
       vertical_offset: 30
       vertical_align: top
