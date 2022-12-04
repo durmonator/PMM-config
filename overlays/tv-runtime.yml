@@ -4,7 +4,7 @@ templates:
     overlay:
       name: "text(Runtime: <<runtimeH>>h <<runtimeM>>m)"
       horizontal_offset: 30
-      horizontal_align: left
+      horizontal_align: right
       vertical_offset: 30
       vertical_align: bottom
       font: /home/durmonator/plex-meta-manager/config/fonts/Inter-Medium.ttf
