@@ -37,6 +37,12 @@ overlays:
         weight: 30
     filters:
       filepath.regex: '(?i)Web[ ._-]?(dl|rip)'
+  HDTV:
+    template:
+      - name: videoFormat
+        weight: 20
+    filters:
+      filepath.regex: '(?i)HD[ ._-]?TV'
   DVD:
     template:
       - name: videoFormat
