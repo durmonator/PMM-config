@@ -216,6 +216,15 @@ metadata:
   The Living Daylights:
     url_poster: https://theposterdb.com/api/assets/46522
   "The Lord of the Rings: The Fellowship of the Ring":
+    edition_contains: Theatrical
+    url_poster: https://theposterdb.com/api/assets/33515
+  "The Lord of the Rings: The Two Towers":
+    edition_contains: Theatrical
+    url_poster: https://theposterdb.com/api/assets/33516
+  "The Lord of the Rings: The Return of the King":
+    edition_contains: Theatrical
+    url_poster: https://theposterdb.com/api/assets/33517
+  "The Lord of the Rings: The Fellowship of the Ring":
     edition_contains: Extended
     url_poster: https://theposterdb.com/api/assets/33515
   "The Lord of the Rings: The Two Towers":
