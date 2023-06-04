@@ -287,14 +287,21 @@ collections:
         movie: "10195, 24428, 76338, 284053, 299536, 299534"
       - name: Meta
         poster: 114085
-  The Lord of the Rings:
+  The Lord of the Rings (Theatrical Edition):
+    template:
+      - name: Collection
+        collection: 119
+      - name: Meta
+        poster: 33509
+    filters:
+      edition.ends: "Theatrical Edition"
+  The Lord of the Rings (Extended Edition):
     template:
       - name: Collection
         collection: 119
       - name: Meta
         poster: 33514
     filters:
-      title.begins: "The Lord of"
       edition.ends: "Extended Edition"
   Man of Steel:
     template:
