@@ -292,9 +292,9 @@ collections:
       - name: Collection
         collection: 119
       - name: Meta
-        poster: 33509
-    match:
-      blank_edition: true
+        poster: 33514
+    filters:
+      edition.regex: "(?i)Extended"
   Man of Steel:
     template:
       - name: Collection
