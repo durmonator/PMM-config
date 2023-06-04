@@ -294,7 +294,7 @@ collections:
       - name: Meta
         poster: 33514
     filters:
-      edition.regex: "(?i)Extended"
+      filename.regex: "(?i)Extended"
   Man of Steel:
     template:
       - name: Collection
