@@ -1,3 +1,15 @@
+templates:
+  Collection:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    sync_mode: sync
+    collection_order: release
+  Meta:
+    url_poster: https://theposterdb.com/api/assets/<<poster>>
+
 collections:
 ######################################################
 #                TMDb Collections                    #
@@ -279,9 +291,10 @@ collections:
     template:
       - name: Collection
         collection: 119
+      - name: Meta
+        poster: 33509
     match:
       blank_edition: true
-    url_poster: https://theposterdb.com/api/assets/33509/
   Man of Steel:
     template:
       - name: Collection
