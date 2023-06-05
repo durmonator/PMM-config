@@ -552,16 +552,3 @@ collections:
         person: 23659
       - name: Meta
         poster: 48845
-
-######################################################
-#            Collectionless Collection               #
-######################################################
-
-  Collectionless:
-    plex_collectionless:
-      exclude_prefix:
-        - '*_'
-        - '~_'
-        - +
-    sort_title: ~_Collectionless
-    collection_order: alpha
