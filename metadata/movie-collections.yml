@@ -436,3 +436,16 @@ collections:
     template:
       - name: Collection
         collection: 748
+
+######################################################
+#            Collectionless Collection               #
+######################################################
+
+  Collectionless:
+    plex_collectionless:
+      exclude_prefix:
+        - '*_'
+        - '~_'
+        - +
+    sort_title: ~_Collectionless
+    collection_order: alpha
