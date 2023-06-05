@@ -73,13 +73,6 @@ collections:
 #                 CHART COLLECTIONS                    #
 ########################################################
 
-  IMDb Top 250:
-    template:
-      - name: Chart Alpha
-        num: 2
-      - name: Meta
-        poster: 239900
-    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250
   'BAFTA: Best Film':
     template:
       - name: Chart Release
