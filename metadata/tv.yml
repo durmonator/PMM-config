@@ -3511,7 +3511,7 @@ metadata:
       S01E08:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/the-flight-attendant/S01E08.webp
   Game of Thrones:
-    file_background: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/game-of-thrones/background.webp
+    url_background: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/game-of-thrones/background.webp
     url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/game-of-thrones/show.webp
     seasons:
       1:
