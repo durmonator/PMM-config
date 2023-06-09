@@ -6130,7 +6130,7 @@ metadata:
       S01E15:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/superman-and-lois/S01E15.webp
   Superstore:
-    file_background: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/superstore/background.webp
+    url_background: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/superstore/background.webp
     url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/superstore/show.webp
     seasons:
       1:
