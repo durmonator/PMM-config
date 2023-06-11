@@ -49,6 +49,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/150992
   Brave:
     url_poster: https://theposterdb.com/api/assets/149959
+  Bumblebee:
+    url_poster: https://theposterdb.com/api/assets/75378
   "Captain America: The First Avenger":
     url_poster: https://theposterdb.com/api/assets/114060
   "Captain America: The Winter Soldier":
@@ -368,6 +370,16 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/148082
   "Toy Story Toons: Small Fry":
     url_poster: https://theposterdb.com/api/assets/148084
+  Transformers:
+    url_poster: https://theposterdb.com/api/assets/75373
+  "Transformers: Revenge of the Fallen":
+    url_poster: https://theposterdb.com/api/assets/75374
+  "Transformers: Dark of the Moon":
+    url_poster: https://theposterdb.com/api/assets/75375
+  "Transformers: Age of Extinction":
+    url_poster: https://theposterdb.com/api/assets/75376
+  "Transformers: The Last Knight":
+    url_poster: https://theposterdb.com/api/assets/75377
   Turning Red:
     url_poster: https://theposterdb.com/api/assets/160327
   Up:

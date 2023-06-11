@@ -414,7 +414,22 @@ collections:
     template:
       - name: Collection
         collection: 10194
-        movie: 130925
+  Transformers:
+    template:
+      - name: Collection
+        collection: 8650
+        movie: 424783
+      - name: Meta
+        poster: 75372
+  Transformers (4K):
+    template:
+      - name: Collection
+        collection: 8650
+        movie: 424783
+      - name: Meta
+        poster: 87454
+    filters:
+      edition.begins: "4K"
   Unbreakable:
     template:
       - name: Collection
