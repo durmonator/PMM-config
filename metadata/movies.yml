@@ -51,6 +51,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/149959
   Bumblebee:
     url_poster: https://theposterdb.com/api/assets/75378
+    blank_edition: true
   "Captain America: The First Avenger":
     url_poster: https://theposterdb.com/api/assets/114060
   "Captain America: The Winter Soldier":
@@ -372,14 +373,19 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/148084
   Transformers:
     url_poster: https://theposterdb.com/api/assets/75373
+    blank_edition: true
   "Transformers: Revenge of the Fallen":
     url_poster: https://theposterdb.com/api/assets/75374
+    blank_edition: true
   "Transformers: Dark of the Moon":
     url_poster: https://theposterdb.com/api/assets/75375
+    blank_edition: true
   "Transformers: Age of Extinction":
     url_poster: https://theposterdb.com/api/assets/75376
+    blank_edition: true
   "Transformers: The Last Knight":
     url_poster: https://theposterdb.com/api/assets/75377
+    blank_edition: true
   Turning Red:
     url_poster: https://theposterdb.com/api/assets/160327
   Up:
