@@ -1,4 +1,7 @@
 metadata:
+  Bumblebee:
+    edition_contains: 4K
+    url_poster: https://theposterdb.com/api/assets/87460
   "The Lord of the Rings: The Fellowship of the Ring":
     edition_contains: Extended
     url_poster: https://theposterdb.com/api/assets/33515
@@ -8,3 +11,18 @@ metadata:
   "The Lord of the Rings: The Return of the King":
     edition_contains: Extended
     url_poster: https://theposterdb.com/api/assets/33517
+  Transformers:
+    edition_contains: 4K
+    url_poster: https://theposterdb.com/api/assets/87455
+  "Transformers: Revenge of the Fallen":
+    edition_contains: 4K
+    url_poster: https://theposterdb.com/api/assets/87456
+  "Transformers: Dark of the Moon":
+    edition_contains: 4K
+    url_poster: https://theposterdb.com/api/assets/87457
+  "Transformers: Age of Extinction":
+    edition_contains: 4K
+    url_poster: https://theposterdb.com/api/assets/87458
+  "Transformers: The Last Knight":
+    edition_contains: 4K
+    url_poster: https://theposterdb.com/api/assets/87459
