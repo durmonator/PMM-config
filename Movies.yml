@@ -159,23 +159,3 @@ collections:
         year: 2022
       - name: Meta
         poster: 199947
-
-########################################################
-#                 GENRE COLLECTIONS                    #
-########################################################
-  
-  Musical:
-    template:
-      - name: IMDb Genre
-        genre: musical
-        limit: 200
-      - name: Meta
-        poster: 205000
-    summary: A Musical interweaves vocal and dance performances into the narrative of the film. The songs of a film can either be used to further the story or simply enhance the experience of the audience. These films are often done on a grand scale and incorporate lavish costumes and sets. Traditional musicals center on a well-known star, famous for their dancing or singing skills (i.e. Fred Astaire, Gene Kelly, Judy Garland). These films explore concepts such are love and success, allowing the audience to escape from reality.
-  Sci-Fi:
-    template:
-      - name: IMDb Genre
-        genre: sci-fi
-      - name: Meta
-        poster: 52661
-    summary: Science Fiction (Sci-Fi) film is a genre that incorporates hypothetical, science-based themes into the plot of the film. Often, this genre incorporates futuristic elements and technologies to explore social, political, and philosophical issues. The film itself is usually set in the future, either on earth or in space. Traditionally, a Science Fiction film will incorporate heroes, villains, unexplored locations, fantastical quests, and advanced technology.
