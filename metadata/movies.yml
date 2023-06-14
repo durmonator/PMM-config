@@ -88,6 +88,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/149225
   Dr. No:
     url_poster: https://theposterdb.com/api/assets/46507
+  "Dungeons & Dragons: Honour Among Thieves":
+    url_poster: https://theposterdb.com/api/assets/334211
+    blank_edition: true
   Encanto:
     url_poster: https://theposterdb.com/api/assets/201248
   Eternals:

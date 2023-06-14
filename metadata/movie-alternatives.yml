@@ -2,6 +2,9 @@ metadata:
   Bumblebee:
     edition_contains: 4K
     url_poster: https://theposterdb.com/api/assets/87460
+  "Dungeons & Dragons: Honour Among Thieves":
+    edition_contains: 4K
+    url_poster: https://theposterdb.com/api/assets/334213
   "The Lord of the Rings: The Fellowship of the Ring":
     edition_contains: Extended
     url_poster: https://theposterdb.com/api/assets/33515
