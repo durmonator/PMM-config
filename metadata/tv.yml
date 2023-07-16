@@ -4768,182 +4768,35 @@ metadata:
       S02E06:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/phoenix-nights/S02E06.webp
   Red Dwarf:
-    url_background: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/background.webp
-    url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/show.webp
+    url_background: https://images.fanart.tv/fanart/red-dwarf-57deef28c2a6b.jpg
+    url_poster: https://theposterdb.com/api/assets/2392
     seasons:
       1:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S01.webp
+        url_poster: https://theposterdb.com/api/assets/2396
       2:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S02.webp
+        url_poster: https://theposterdb.com/api/assets/2397
       3:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S03.webp
+        url_poster: https://theposterdb.com/api/assets/2398
       4:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S04.webp
+        url_poster: https://theposterdb.com/api/assets/2399
       5:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S05.webp
+        url_poster: https://theposterdb.com/api/assets/2340
       6:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S06.webp
+        url_poster: https://theposterdb.com/api/assets/2401
       7:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S07.webp
+        url_poster: https://theposterdb.com/api/assets/2402
       8:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S08.webp
+        url_poster: https://theposterdb.com/api/assets/2403
       9:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S09.webp
+        url_poster: https://theposterdb.com/api/assets/2404
       10:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S10.webp
+        url_poster: https://theposterdb.com/api/assets/2405
       11:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S11.webp
+        url_poster: https://theposterdb.com/api/assets/2406
       12:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S12.webp
+        url_poster: https://theposterdb.com/api/assets/2407
       0:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S00.webp
-    episodes:
-      S01E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S01E01.webp
-      S01E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S01E02.webp
-      S01E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S01E03.webp
-      S01E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S01E04.webp
-      S01E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S01E05.webp
-      S01E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S01E06.webp
-      S02E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S02E01.webp
-      S02E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S02E02.webp
-      S02E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S02E03.webp
-      S02E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S02E04.webp
-      S02E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S02E05.webp
-      S02E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S02E06.webp
-      S03E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S03E01.webp
-      S03E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S03E02.webp
-      S03E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S03E03.webp
-      S03E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S03E04.webp
-      S03E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S03E05.webp
-      S03E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S03E06.webp
-      S04E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S04E01.webp
-      S04E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S04E02.webp
-      S04E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S04E03.webp
-      S04E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S04E04.webp
-      S04E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S04E05.webp
-      S04E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S04E06.webp
-      S05E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S05E01.webp
-      S05E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S05E02.webp
-      S05E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S05E03.webp
-      S05E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S05E04.webp
-      S05E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S05E05.webp
-      S05E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S05E06.webp
-      S06E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S06E01.webp
-      S06E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S06E02.webp
-      S06E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S06E03.webp
-      S06E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S06E04.webp
-      S06E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S06E05.webp
-      S06E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S06E06.webp
-      S07E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S07E01.webp
-      S07E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S07E02.webp
-      S07E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S07E03.webp
-      S07E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S07E04.webp
-      S07E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S07E05.webp
-      S07E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S07E06.webp
-      S07E07:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S07E07.webp
-      S07E08:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S07E08.webp
-      S08E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S08E01.webp
-      S08E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S08E02.webp
-      S08E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S08E03.webp
-      S08E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S08E04.webp
-      S08E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S08E05.webp
-      S08E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S08E06.webp
-      S08E07:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S08E07.webp
-      S08E08:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S08E08.webp
-      S09E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S09E01.webp
-      S09E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S09E02.webp
-      S09E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S09E03.webp
-      S10E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S10E01.webp
-      S10E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S10E02.webp
-      S10E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S10E03.webp
-      S10E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S10E04.webp
-      S10E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S10E05.webp
-      S10E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S10E06.webp
-      S11E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S11E01.webp
-      S11E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S11E02.webp
-      S11E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S11E03.webp
-      S11E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S11E04.webp
-      S11E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S11E05.webp
-      S11E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S11E06.webp
-      S12E01:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S12E01.webp
-      S12E02:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S12E02.webp
-      S12E03:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S12E03.webp
-      S12E04:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S12E04.webp
-      S12E05:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S12E05.webp
-      S12E06:
-        url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/red-dwarf/S12E06.webp
+        url_poster: https://theposterdb.com/api/assets/2394
   South Park:
     url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/south-park/show.webp
     seasons:
