@@ -4767,6 +4767,60 @@ metadata:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/phoenix-nights/S02E05.webp
       S02E06:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/phoenix-nights/S02E06.webp
+  Pokémon:
+    seasons:
+      1:
+        title: "Indigo League"
+      2:
+        title: "Adventures in the Orange Islands"
+      3:
+        title: "The Johto Journeys"
+      4:
+        title: "Johto League Champions"
+      5:
+        title: "Master Quest"
+      6:
+        title: "Advanced"
+      7:
+        title: "Advanced Challenge"
+      8:
+        title: "Advanced Battle"
+      9:
+        title: "Battle Frontier"
+      10:
+        title: "Diamond and Pearl"
+      11:
+        title: "Diamond and Pearl: Battle Dimension"
+      12:
+        title: "Diamond and Pearl: Galactic Battles"
+      13:
+        title: "Diamond and Pearl: Sinnoh League Victors"
+      14:
+        title: "Black & White"
+      15:
+        title: "Black & White: Rival Destinies"
+      16:
+        title: "Black & White: Adventures in Unova and Beyond"
+      17:
+        title: "XY"
+      18:
+        title: "XY: Kalos Quest"
+      19:
+        title: "XYZ"
+      20:
+        title: "Sun & Moon"
+      21:
+        title: "Sun & Moon: Ultra Adventures"
+      22:
+        title: "Sun & Moon: Ultra Legends"
+      23:
+        title: "Journeys"
+      24:
+        title: "Master Journeys"
+      25:
+        title: "Ultimate Journeys"
+      26:
+        title: "Horizons"
   Red Dwarf:
     url_background: https://images.fanart.tv/fanart/red-dwarf-57deef28c2a6b.jpg
     url_poster: https://theposterdb.com/api/assets/2392
