@@ -3510,6 +3510,23 @@ metadata:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/the-flight-attendant/S01E07.webp
       S01E08:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/the-flight-attendant/S01E08.webp
+  Futurama:
+    url_poster: https://theposterdb.com/api/assets/32722
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/32723
+      2:
+        url_poster: https://theposterdb.com/api/assets/32724
+      3:
+        url_poster: https://theposterdb.com/api/assets/32725
+      4:
+        url_poster: https://theposterdb.com/api/assets/32726
+      5:
+        url_poster: https://theposterdb.com/api/assets/32727
+      6:
+        url_poster: https://theposterdb.com/api/assets/32728
+      7:
+        url_poster: https://theposterdb.com/api/assets/32729
   Game of Thrones:
     url_background: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/game-of-thrones/background.webp
     url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/game-of-thrones/show.webp
