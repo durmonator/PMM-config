@@ -3170,6 +3170,27 @@ metadata:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/family-guy/S19E19.webp
       S19E20:
         url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/family-guy/S19E20.webp
+  Fear the Walking Dead:
+    url_poster: https://theposterdb.com/api/assets/374457
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/374459
+      2:
+        url_poster: https://theposterdb.com/api/assets/374460
+      3:
+        url_poster: https://theposterdb.com/api/assets/374461
+      4:
+        url_poster: https://theposterdb.com/api/assets/374462
+      5:
+        url_poster: https://theposterdb.com/api/assets/374463
+      6:
+        url_poster: https://theposterdb.com/api/assets/374464
+      7:
+        url_poster: https://theposterdb.com/api/assets/374465
+      8:
+        url_poster: https://theposterdb.com/api/assets/374466
+      0:
+        url_poster: https://theposterdb.com/api/assets/374458
   The Flash (2014):
     url_poster: https://raw.githubusercontent.com/durmonator/PMM-assets/main/tv-shows/the-flash/show.webp
     seasons:
